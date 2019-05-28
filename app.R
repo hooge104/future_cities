@@ -6,7 +6,6 @@ library(htmltools)
 library(DT)
 library(reshape2)
 
-setwd("/Users/johanvandenhoogen/Work/ETH/Projects/Future cities/css-app/") 
 cities_data <- read.csv("data/future_cities_data.csv") %>% 
   select(Longitude, Latitude, current_city,future_city_1_source,change_Annual_Mean_Temperature,change_Max_Temperature_of_Warmest_Month,change_Min_Temperature_of_Coldest_Month, change_Annual_Precipitation) %>% 
   # rename("Temperature increase warmest month (°C)" = change_Max_Temperature_of_Warmest_Month) %>%
