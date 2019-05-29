@@ -1,8 +1,14 @@
 # Interactive explorer of future climates of the World's major cities
 
+This Shiny app allows users to scroll, pan and click on a map showing the World's major cities. Each city included in the study is listed as a circle marker, colored by the climatic input variable of choice. Upon clicking a circle marker, some results are shown. 
+
+All data and results are open access and are published in Bastin et al. 2019, Plos One, doi: 10.xxx. 
+
+## Using the app online
+
 Hosted on shinyapps.io: https://hooge104.shinyapps.io/css-app/
 
-To run in Rstudio, run:
+## Using the app in Rstudio:
 
 ```
 runGitHub("future_cities", "hooge104")
