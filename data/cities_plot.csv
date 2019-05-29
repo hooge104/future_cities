@@ -1,0 +1,2857 @@
+City,variable,time,value
+Ljubljana,Annual Mean Temperature,2018,9.774999619
+Belgrade,Annual Mean Temperature,2018,11.88333321
+Novi Sad,Annual Mean Temperature,2018,11.39583302
+Budapest,Annual Mean Temperature,2018,11.23333359
+Turin,Annual Mean Temperature,2018,13.24166679
+Yerevan,Annual Mean Temperature,2018,11.01666641
+Vienna,Annual Mean Temperature,2018,10.54166698
+Bratislava,Annual Mean Temperature,2018,10.3791666
+Banja Luka,Annual Mean Temperature,2018,11.30000019
+Fez,Annual Mean Temperature,2018,18.0625
+Zagreb,Annual Mean Temperature,2018,11.54583359
+Milan,Annual Mean Temperature,2018,13.38333321
+Tbilisi,Annual Mean Temperature,2018,12.86250019
+Rostov,Annual Mean Temperature,2018,9.729166985
+Konya,Annual Mean Temperature,2018,11.13749981
+Podgorica,Annual Mean Temperature,2018,14.95833302
+Marrakesh,Annual Mean Temperature,2018,19.32500076
+Skopje,Annual Mean Temperature,2018,12.60833359
+Dnipro,Annual Mean Temperature,2018,8.800000191
+Bucharest,Annual Mean Temperature,2018,10.7458334
+Sarajevo,Annual Mean Temperature,2018,10.34583378
+Lyon,Annual Mean Temperature,2018,12.03749943
+Kiev,Annual Mean Temperature,2018,7.941666603
+Prague,Annual Mean Temperature,2018,10.07499981
+Warsaw,Annual Mean Temperature,2018,8.316666603
+Qom,Annual Mean Temperature,2018,18.38333321
+Pristina,Annual Mean Temperature,2018,10.3125
+Karaj,Annual Mean Temperature,2018,14.26249981
+Ankara,Annual Mean Temperature,2018,11.1916666
+Madrid,Annual Mean Temperature,2018,14.69583321
+Portland,Annual Mean Temperature,2018,11.65833378
+Mosul,Annual Mean Temperature,2018,20.87083435
+Jerusalem,Annual Mean Temperature,2018,16.35000038
+Manchester,Annual Mean Temperature,2018,9.512499809
+Tehran,Annual Mean Temperature,2018,17.125
+Sofia,Annual Mean Temperature,2018,10.23333359
+Berlin,Annual Mean Temperature,2018,9.858333588
+Paris,Annual Mean Temperature,2018,12.1875
+Seattle,Annual Mean Temperature,2018,11.03750038
+Gaziantep,Annual Mean Temperature,2018,15.17916679
+St. Petersburg,Annual Mean Temperature,2018,5.366666794
+Tashkent,Annual Mean Temperature,2018,14.38749981
+Irbil,Annual Mean Temperature,2018,20.19166756
+Stockholm,Annual Mean Temperature,2018,6.650000095
+London,Annual Mean Temperature,2018,11.1291666
+Toronto,Annual Mean Temperature,2018,8.408333778
+Vilnius,Annual Mean Temperature,2018,6.391666412
+Kharkiv,Annual Mean Temperature,2018,7.483333588
+Andorra,Annual Mean Temperature,2018,9.091667175
+Luxembourg,Annual Mean Temperature,2018,9.691666603
+Rangoon,Annual Mean Temperature,2018,27.33749962
+Isfahan,Annual Mean Temperature,2018,16.27499962
+Cologne,Annual Mean Temperature,2018,10.8708334
+Montreal,Annual Mean Temperature,2018,6.895833492
+San Marino,Annual Mean Temperature,2018,13.07916641
+Minsk,Annual Mean Temperature,2018,6.329166889
+Athens,Annual Mean Temperature,2018,17.86666679
+Minneapolis,Annual Mean Temperature,2018,7.591666698
+Ottawa,Annual Mean Temperature,2018,6.479166508
+Vaduz,Annual Mean Temperature,2018,9.516666412
+Columbus,Annual Mean Temperature,2018,10.98750019
+Zurich,Annual Mean Temperature,2018,9.716666222
+Bursa,Annual Mean Temperature,2018,14.16250038
+Oslo,Annual Mean Temperature,2018,6.616666794
+Chisinau,Annual Mean Temperature,2018,10.17083359
+Indianapolis,Annual Mean Temperature,2018,11.09166622
+Sacramento,Annual Mean Temperature,2018,16.59166718
+Pittsburgh,Annual Mean Temperature,2018,10.8791666
+Amman,Annual Mean Temperature,2018,16.86666679
+St. Louis,Annual Mean Temperature,2018,12.77083302
+Rome,Annual Mean Temperature,2018,15.59166622
+Moscow,Annual Mean Temperature,2018,5.379166603
+Aguascalientes,Annual Mean Temperature,2018,17.69583321
+Cincinnati,Annual Mean Temperature,2018,11.82083321
+Salt Lake City,Annual Mean Temperature,2018,11.40833282
+Cleveland,Annual Mean Temperature,2018,10.4333334
+Hamburg,Annual Mean Temperature,2018,9.604166985
+Detroit,Annual Mean Temperature,2018,9.925000191
+Baltimore,Annual Mean Temperature,2018,13.08333302
+Buffalo,Annual Mean Temperature,2018,8.795833588
+Vatican City,Annual Mean Temperature,2018,15.44583321
+Djibouti,Annual Mean Temperature,2018,29.58749962
+Dushanbe,Annual Mean Temperature,2018,15.17500019
+Mariehamn,Annual Mean Temperature,2018,5.916666508
+Brussels,Annual Mean Temperature,2018,10.77499962
+Marseille,Annual Mean Temperature,2018,15.14583302
+Louisville,Annual Mean Temperature,2018,13.29166698
+San Luis Potosi,Annual Mean Temperature,2018,17.88333321
+Naypyidaw,Annual Mean Temperature,2018,26.63333321
+Helsinki,Annual Mean Temperature,2018,5.404166698
+Chongqing,Annual Mean Temperature,2018,18.22500038
+Tallinn,Annual Mean Temperature,2018,5.904166698
+Urumqi,Annual Mean Temperature,2018,7.370833397
+Baku,Annual Mean Temperature,2018,14.17916679
+Aleppo,Annual Mean Temperature,2018,17.6875
+Kobenhavn,Annual Mean Temperature,2018,8.841667175
+Pune,Annual Mean Temperature,2018,24.78750038
+Izmir,Annual Mean Temperature,2018,17.66250038
+San Salvador,Annual Mean Temperature,2018,23.30416679
+Bern,Annual Mean Temperature,2018,9
+Nagpur,Annual Mean Temperature,2018,27.07083321
+Riga,Annual Mean Temperature,2018,6.779166698
+Lille,Annual Mean Temperature,2018,10.6833334
+Sukhumi,Annual Mean Temperature,2018,13.73750019
+Nashville,Annual Mean Temperature,2018,14.58749962
+Ilorin,Annual Mean Temperature,2018,26.54166603
+Riyadh,Annual Mean Temperature,2018,26.41666603
+Guadalajara,Annual Mean Temperature,2018,21.31666756
+Leeds,Annual Mean Temperature,2018,9.300000191
+Ramallah,Annual Mean Temperature,2018,16.21666718
+Munich,Annual Mean Temperature,2018,9.604166985
+Cuiaba,Annual Mean Temperature,2018,25.29999924
+Kansas City,Annual Mean Temperature,2018,12.7458334
+Xian,Annual Mean Temperature,2018,13.97500038
+Memphis,Annual Mean Temperature,2018,16.20833397
+Chicago,Annual Mean Temperature,2018,10.1916666
+Nairobi,Annual Mean Temperature,2018,18.61666679
+Ahvaz,Annual Mean Temperature,2018,25.57500076
+Adelaide,Annual Mean Temperature,2018,16.29166603
+Perth,Annual Mean Temperature,2018,18.47916603
+Baghdad,Annual Mean Temperature,2018,23.39166641
+Cardiff,Annual Mean Temperature,2018,10.47916698
+Philadelphia,Annual Mean Temperature,2018,12.1875
+Adana,Annual Mean Temperature,2018,18.98749924
+Queretaro,Annual Mean Temperature,2018,18.02499962
+Wellington,Annual Mean Temperature,2018,13.15833378
+Birmingham,Annual Mean Temperature,2018,9.762499809
+Belem,Annual Mean Temperature,2018,26.61666679
+Edinburgh,Annual Mean Temperature,2018,8.766666412
+Bir Lehlou,Annual Mean Temperature,2018,23.45833397
+Kigali,Annual Mean Temperature,2018,20.19583321
+Hartford,Annual Mean Temperature,2018,10.36666679
+Milwaukee,Annual Mean Temperature,2018,8.774999619
+"Washington, D.C.",Annual Mean Temperature,2018,13.3708334
+Mexico City,Annual Mean Temperature,2018,17.02083397
+Kermanshah,Annual Mean Temperature,2018,15.125
+Jaipur,Annual Mean Temperature,2018,25.17083359
+Tabriz,Annual Mean Temperature,2018,12.3791666
+Samara,Annual Mean Temperature,2018,5.199999809
+San Bernardino,Annual Mean Temperature,2018,18.64999962
+Mandalay,Annual Mean Temperature,2018,27.45833397
+Leon,Annual Mean Temperature,2018,19.04166603
+Canberra,Annual Mean Temperature,2018,13.39999962
+Tunis,Annual Mean Temperature,2018,18.77916718
+Torreon,Annual Mean Temperature,2018,21.67916679
+New York,Annual Mean Temperature,2018,12.02083302
+Hyderabad,Annual Mean Temperature,2018,26.95833397
+Hyderabad,Annual Mean Temperature,2018,26.95833397
+Las Vegas,Annual Mean Temperature,2018,19.25416756
+Indore,Annual Mean Temperature,2018,25.26666641
+Manaus,Annual Mean Temperature,2018,26.99583244
+Semarang,Annual Mean Temperature,2018,27.61666679
+Nanchong,Annual Mean Temperature,2018,17.53333282
+Asuncion,Annual Mean Temperature,2018,22.66250038
+Denver,Annual Mean Temperature,2018,10.77499962
+Juba,Annual Mean Temperature,2018,27.47083282
+Bangui,Annual Mean Temperature,2018,25.97916603
+Manila,Annual Mean Temperature,2018,27.39999962
+Lanzhou,Annual Mean Temperature,2018,9.441666603
+Niamey,Annual Mean Temperature,2018,29.56666565
+Lubumbashi,Annual Mean Temperature,2018,21.14583397
+Austin,Annual Mean Temperature,2018,20.07083321
+Dallas,Annual Mean Temperature,2018,18.86249924
+Calgary,Annual Mean Temperature,2018,4.133333206
+Puebla,Annual Mean Temperature,2018,17.17916679
+Melbourne,Annual Mean Temperature,2018,15.35833359
+Ashgabat,Annual Mean Temperature,2018,16.72500038
+Ogbomosho,Annual Mean Temperature,2018,26.15416718
+Bishkek,Annual Mean Temperature,2018,11.29166698
+Gujranwala,Annual Mean Temperature,2018,23.34583282
+Quito,Annual Mean Temperature,2018,13.61666679
+Taiyuan,Annual Mean Temperature,2018,10.25833321
+Ahmedabad,Annual Mean Temperature,2018,27.39999962
+Patna,Annual Mean Temperature,2018,25.86666679
+Kano,Annual Mean Temperature,2018,26.80000114
+Tel Aviv-Yafo,Annual Mean Temperature,2018,19.97916603
+Beirut,Annual Mean Temperature,2018,19.92499924
+Lusaka,Annual Mean Temperature,2018,20.50833321
+Ndjamena,Annual Mean Temperature,2018,28.4375
+Guatemala,Annual Mean Temperature,2018,20.02083397
+Brazzaville,Annual Mean Temperature,2018,25.36666679
+Ho Chi Minh City,Annual Mean Temperature,2018,27.50416565
+Surat,Annual Mean Temperature,2018,27.32916641
+Al Hudaydah,Annual Mean Temperature,2018,29.64166641
+Bangalore,Annual Mean Temperature,2018,24.25416756
+Kaduna,Annual Mean Temperature,2018,25.77499962
+Kabul,Annual Mean Temperature,2018,12.58749962
+Zaria,Annual Mean Temperature,2018,25.27083397
+Bamako,Annual Mean Temperature,2018,28.125
+Rotterdam,Annual Mean Temperature,2018,10.21666622
+Valletta,Annual Mean Temperature,2018,19.08749962
+San Antonio,Annual Mean Temperature,2018,20.58749962
+Bujumbura,Annual Mean Temperature,2018,24.45000076
+Maracay,Annual Mean Temperature,2018,24.88333321
+Mashhad,Annual Mean Temperature,2018,14.08333302
+Kanpur,Annual Mean Temperature,2018,25.93333435
+Tirana,Annual Mean Temperature,2018,15.47916698
+Belfast,Annual Mean Temperature,2018,9.533333778
+New Delhi,Annual Mean Temperature,2018,25.02916718
+Abidjan,Annual Mean Temperature,2018,26.46249962
+Tegucigalpa,Annual Mean Temperature,2018,21.49583244
+Doha,Annual Mean Temperature,2018,27.08333397
+Kumasi,Annual Mean Temperature,2018,26.34166718
+Toluca,Annual Mean Temperature,2018,13.375
+Delhi,Annual Mean Temperature,2018,25.04583359
+Barcelona,Annual Mean Temperature,2018,16.27499962
+Amsterdam,Annual Mean Temperature,2018,10.04166698
+Istanbul,Annual Mean Temperature,2018,14.04166698
+Abuja,Annual Mean Temperature,2018,25.93333435
+Monterrey,Annual Mean Temperature,2018,22.63750076
+Boston,Annual Mean Temperature,2018,10.26666641
+Dodoma,Annual Mean Temperature,2018,22.49166679
+The Hague,Annual Mean Temperature,2018,9.925000191
+Dublin,Annual Mean Temperature,2018,10.20416641
+Jinan,Annual Mean Temperature,2018,13.92083359
+Mombasa,Annual Mean Temperature,2018,26.07083321
+Lisbon,Annual Mean Temperature,2018,16.89999962
+Lucknow,Annual Mean Temperature,2018,25.69166756
+Addis Ababa,Annual Mean Temperature,2018,15.90833378
+Richmond,Annual Mean Temperature,2018,14.25
+Banjul,Annual Mean Temperature,2018,26.22083282
+Changsha,Annual Mean Temperature,2018,17.63750076
+Jeddah,Annual Mean Temperature,2018,28.32083321
+La Paz,Annual Mean Temperature,2018,9.883333206
+Harbin,Annual Mean Temperature,2018,4.504166603
+Rawalpindi,Annual Mean Temperature,2018,21.80416679
+Yamoussoukro,Annual Mean Temperature,2018,26.78333282
+Charlotte,Annual Mean Temperature,2018,15.5666666
+Guiyang,Annual Mean Temperature,2018,15.84166622
+Windhoek,Annual Mean Temperature,2018,19.52499962
+Glasgow,Annual Mean Temperature,2018,8.758333206
+Wuhan,Annual Mean Temperature,2018,16.96666718
+Tripoli,Annual Mean Temperature,2018,19.92916679
+Batumi,Annual Mean Temperature,2018,14.52083302
+Ciudad Juarez,Annual Mean Temperature,2018,17.29583359
+Jakarta,Annual Mean Temperature,2018,27.62916565
+Bridgeport,Annual Mean Temperature,2018,10.97083378
+Porto,Annual Mean Temperature,2018,14.7541666
+Atlanta,Annual Mean Temperature,2018,16.32500076
+Ouagadougou,Annual Mean Temperature,2018,28.67916679
+Teresina,Annual Mean Temperature,2018,27.88333321
+Rabat,Annual Mean Temperature,2018,17.49583244
+Lilongwe,Annual Mean Temperature,2018,20.63333321
+Bangkok,Annual Mean Temperature,2018,28.40416718
+Palembang,Annual Mean Temperature,2018,27.27083397
+Rosario,Annual Mean Temperature,2018,17.42499924
+Cali,Annual Mean Temperature,2018,23.91250038
+Kolkata,Annual Mean Temperature,2018,26.65833282
+Monaco,Annual Mean Temperature,2018,13.72916698
+Conakry,Annual Mean Temperature,2018,27.39166641
+Medina,Annual Mean Temperature,2018,27.81666565
+Hangzhou,Annual Mean Temperature,2018,16.78750038
+Alexandria,Annual Mean Temperature,2018,19.91666603
+Malabo,Annual Mean Temperature,2018,25.29583359
+Goiania,Annual Mean Temperature,2018,23.18333435
+Harare,Annual Mean Temperature,2018,18.07083321
+Cordoba,Annual Mean Temperature,2018,17.20833397
+Santa Cruz,Annual Mean Temperature,2018,24.10416603
+Hanoi,Annual Mean Temperature,2018,23.66666603
+Islamabad,Annual Mean Temperature,2018,21.35833359
+Natal,Annual Mean Temperature,2018,26.04999924
+Paramaribo,Annual Mean Temperature,2018,27.15416718
+Sapporo,Annual Mean Temperature,2018,8.545833588
+Zibo,Annual Mean Temperature,2018,13.44583321
+Kuala Lumpur,Annual Mean Temperature,2018,26.72500038
+Mexicali,Annual Mean Temperature,2018,23.1875
+Chengdu,Annual Mean Temperature,2018,16.71249962
+Haifa,Annual Mean Temperature,2018,19.5625
+Nouakchott,Annual Mean Temperature,2018,25.41666603
+Auckland,Annual Mean Temperature,2018,15.29166698
+Nicosia,Annual Mean Temperature,2018,19.70000076
+Santiago,Annual Mean Temperature,2018,15.39999962
+Khartoum,Annual Mean Temperature,2018,29.57083321
+Faisalabad,Annual Mean Temperature,2018,24.20416641
+Rajshahi,Annual Mean Temperature,2018,25.79999924
+Seoul,Annual Mean Temperature,2018,12.21249962
+Bogor,Annual Mean Temperature,2018,26.375
+Panama City,Annual Mean Temperature,2018,27.10416603
+Chennai,Annual Mean Temperature,2018,29.12083435
+Bucaramanga,Annual Mean Temperature,2018,22.89166641
+Guayaquil,Annual Mean Temperature,2018,25.39166641
+Mogadishu,Annual Mean Temperature,2018,26.90833282
+Dubai,Annual Mean Temperature,2018,27.45833397
+Kelang,Annual Mean Temperature,2018,26.83333397
+Salvador,Annual Mean Temperature,2018,25.25
+Douala,Annual Mean Temperature,2018,26.52083397
+Arequipa,Annual Mean Temperature,2018,15.39999962
+Valencia,Annual Mean Temperature,2018,24.10416603
+Bissau,Annual Mean Temperature,2018,27.02499962
+Sao Tome,Annual Mean Temperature,2018,25.20000076
+Brasilia,Annual Mean Temperature,2018,20.69166565
+Shanghai,Annual Mean Temperature,2018,16.5
+Vientiane,Annual Mean Temperature,2018,26.35000038
+Buenos Aires,Annual Mean Temperature,2018,17.29583359
+Port-au-Prince,Annual Mean Temperature,2018,26.58749962
+Montevideo,Annual Mean Temperature,2018,16.23333359
+Shijianzhuang,Annual Mean Temperature,2018,13.63749981
+Providence,Annual Mean Temperature,2018,10.72916698
+Mbuji-Mayi,Annual Mean Temperature,2018,25.29166603
+Georgetown,Annual Mean Temperature,2018,27.00416756
+Orlando,Annual Mean Temperature,2018,22.23333359
+Khulna,Annual Mean Temperature,2018,26.24583435
+Cape Town,Annual Mean Temperature,2018,17.38750076
+Haiphong,Annual Mean Temperature,2018,23.70833206
+Reykjavik,Annual Mean Temperature,2018,4.641666889
+Mendoza,Annual Mean Temperature,2018,16.54166603
+Changchun,Annual Mean Temperature,2018,5.362500191
+Porto Alegre,Annual Mean Temperature,2018,19.97083282
+Joao Pessoa,Annual Mean Temperature,2018,25.86666679
+Port Harcourt,Annual Mean Temperature,2018,26.77083397
+Monrovia,Annual Mean Temperature,2018,26.13750076
+Fuzhou,Annual Mean Temperature,2018,19.98749924
+Dhaka,Annual Mean Temperature,2018,25.83749962
+Davao,Annual Mean Temperature,2018,27.35833359
+Nanjing,Annual Mean Temperature,2018,16.02499962
+Taizz,Annual Mean Temperature,2018,24.15416718
+Hiroshima,Annual Mean Temperature,2018,15.67916679
+Jacksonville,Annual Mean Temperature,2018,20.90416718
+Phoenix,Annual Mean Temperature,2018,22.3125
+Pyongyang,Annual Mean Temperature,2018,10.54583359
+Libreville,Annual Mean Temperature,2018,26.24166679
+Phnom Penh,Annual Mean Temperature,2018,28.29583359
+Qingdao,Annual Mean Temperature,2018,12.96666622
+Ponta Delgada,Annual Mean Temperature,2018,17.50416756
+Hamilton,Annual Mean Temperature,2018,22.25
+Yaounde,Annual Mean Temperature,2018,24.08333397
+Bandar Lampung,Annual Mean Temperature,2018,26.86249924
+Hargeysa,Annual Mean Temperature,2018,21.37916756
+Zhengzhou,Annual Mean Temperature,2018,14.83333302
+Johor Bahru,Annual Mean Temperature,2018,26.90416718
+Medan,Annual Mean Temperature,2018,26.98749924
+Kuwait,Annual Mean Temperature,2018,25.75416756
+Multan,Annual Mean Temperature,2018,25.52916718
+Peshawar,Annual Mean Temperature,2018,22.91250038
+Incheon,Annual Mean Temperature,2018,12.23333359
+Cartagena,Annual Mean Temperature,2018,27.80416679
+Fukuoka,Annual Mean Temperature,2018,16.46666718
+Saint George's,Annual Mean Temperature,2018,26.83749962
+Shenyeng,Annual Mean Temperature,2018,8.620833397
+Vitoria,Annual Mean Temperature,2018,23.75416756
+Goyang,Annual Mean Temperature,2018,11.36250019
+New Orleans,Annual Mean Temperature,2018,20.85000038
+Benin City,Annual Mean Temperature,2018,26.55833244
+Colombo,Annual Mean Temperature,2018,27.64583397
+Houston,Annual Mean Temperature,2018,20.81666565
+Stanley,Annual Mean Temperature,2018,5.966666698
+Ibadan,Annual Mean Temperature,2018,27.02083397
+Makkah,Annual Mean Temperature,2018,30.34166718
+Port Moresby,Annual Mean Temperature,2018,26.98749924
+Recife,Annual Mean Temperature,2018,25.47083282
+Porto-Novo,Annual Mean Temperature,2018,27.42083359
+Singapore,Annual Mean Temperature,2018,26.99583244
+Tianjin,Annual Mean Temperature,2018,12.75
+Putrajaya,Annual Mean Temperature,2018,27.01666641
+Beijing,Annual Mean Temperature,2018,12.41666698
+Nagoya,Annual Mean Temperature,2018,15.79166698
+Tokyo,Annual Mean Temperature,2018,15.8083334
+Sri Jawewardenepura Kotte,Annual Mean Temperature,2018,27.40833282
+Pekanbaru,Annual Mean Temperature,2018,26.96249962
+Funchal,Annual Mean Temperature,2018,18.42499924
+Algiers,Annual Mean Temperature,2018,17.79583359
+Sao Luis,Annual Mean Temperature,2018,26.95833397
+Sucre,Annual Mean Temperature,2018,15.92500019
+Bandung,Annual Mean Temperature,2018,23.72083282
+Zamboanga,Annual Mean Temperature,2018,27.34583282
+Malang,Annual Mean Temperature,2018,24.18333435
+Accra,Annual Mean Temperature,2018,27.44166756
+Dili,Annual Mean Temperature,2018,26.61666679
+Hims,Annual Mean Temperature,2018,17.55416679
+Kyoto,Annual Mean Temperature,2018,15.4375
+Virginia Beach,Annual Mean Temperature,2018,15.4375
+Suva,Annual Mean Temperature,2018,24.85833359
+Gaza,Annual Mean Temperature,2018,19.97500038
+Kinshasa,Annual Mean Temperature,2018,25.95833397
+Sendai,Annual Mean Temperature,2018,12.67500019
+Padang,Annual Mean Temperature,2018,26.51250076
+Laayoune,Annual Mean Temperature,2018,20.83333397
+Havana,Annual Mean Temperature,2018,25.77083397
+Kananga,Annual Mean Temperature,2018,24.96249962
+Port Louis,Annual Mean Temperature,2018,24.15833282
+Cotonou,Annual Mean Temperature,2018,27.17499924
+Muscat,Annual Mean Temperature,2018,27.26250076
+Macau,Annual Mean Temperature,2018,22.69583321
+Joinville,Annual Mean Temperature,2018,20.91666603
+Caracas,Annual Mean Temperature,2018,21.53750038
+Pago Pago,Annual Mean Temperature,2018,26.47083282
+George Town,Annual Mean Temperature,2018,26.92083359
+Lome,Annual Mean Temperature,2018,27.50416565
+Suwon,Annual Mean Temperature,2018,11.8125
+Willemstad,Annual Mean Temperature,2018,27.34583282
+Johannesburg,Annual Mean Temperature,2018,15.53750038
+Dalian,Annual Mean Temperature,2018,11.58333302
+Nampo,Annual Mean Temperature,2018,10.42083359
+Barranquilla,Annual Mean Temperature,2018,28.16250038
+Casablanca,Annual Mean Temperature,2018,17.81666756
+Gwangju,Annual Mean Temperature,2018,13.73333359
+Guangzhou,Annual Mean Temperature,2018,22.03750038
+Jinxi,Annual Mean Temperature,2018,9.350000381
+Lagos,Annual Mean Temperature,2018,27.12916756
+Noumea,Annual Mean Temperature,2018,23.14583397
+Dongguan,Annual Mean Temperature,2018,22.25416565
+Maputo,Annual Mean Temperature,2018,22.85000038
+Kampala,Annual Mean Temperature,2018,22.23333359
+Antananarivo,Annual Mean Temperature,2018,19.15833282
+Port Vila,Annual Mean Temperature,2018,24.69166565
+Valparaiso,Annual Mean Temperature,2018,15.13749981
+Agana,Annual Mean Temperature,2018,27.65833282
+Nanning,Annual Mean Temperature,2018,22.21249962
+Cebu,Annual Mean Temperature,2018,27.83333397
+Daejeon,Annual Mean Temperature,2018,12.69583321
+Praia,Annual Mean Temperature,2018,24.92083359
+Kunming,Annual Mean Temperature,2018,15.03750038
+Nukualofa,Annual Mean Temperature,2018,23.94583321
+Surabaya,Annual Mean Temperature,2018,28.06666756
+Grand Turk,Annual Mean Temperature,2018,26.56666565
+Almaty,Annual Mean Temperature,2018,9.774999619
+Taipei,Annual Mean Temperature,2018,22.04583359
+Bandar Seri Begawan,Annual Mean Temperature,2018,27.35833359
+Roseau,Annual Mean Temperature,2018,26.97083282
+Dar es Salaam,Annual Mean Temperature,2018,26.28750038
+Basseterre,Annual Mean Temperature,2018,26.67083359
+Merida,Annual Mean Temperature,2018,26.67499924
+Huambo,Annual Mean Temperature,2018,20.00416565
+Osaka,Annual Mean Temperature,2018,16.25833321
+Melekeok,Annual Mean Temperature,2018,27.50833321
+Oranjestad,Annual Mean Temperature,2018,27.88750076
+Palikir,Annual Mean Temperature,2018,27.07500076
+Basra,Annual Mean Temperature,2018,24.82083321
+Daegu,Annual Mean Temperature,2018,13.7458334
+Chittagong,Annual Mean Temperature,2018,25.94166756
+Papeete,Annual Mean Temperature,2018,25.33749962
+Shenzhen,Annual Mean Temperature,2018,22.85416603
+Kingston,Annual Mean Temperature,2018,27.03333282
+Saint John's,Annual Mean Temperature,2018,26.71249962
+Maceio,Annual Mean Temperature,2018,24.74583435
+Tampa,Annual Mean Temperature,2018,22.74583244
+Xiamen,Annual Mean Temperature,2018,21.12916565
+Fortaleza,Annual Mean Temperature,2018,26.58749962
+Honiara,Annual Mean Temperature,2018,26.60416603
+Ad Damman,Annual Mean Temperature,2018,26.86666679
+Brisbane,Annual Mean Temperature,2018,20.41666603
+San Francisco,Annual Mean Temperature,2018,13.91666698
+Tainan,Annual Mean Temperature,2018,23.99583435
+Busan,Annual Mean Temperature,2018,14.10000038
+Bloemfontein,Annual Mean Temperature,2018,16.10833359
+Maseru,Annual Mean Temperature,2018,15.3083334
+Kaohsiung,Annual Mean Temperature,2018,23.85833359
+Miami,Annual Mean Temperature,2018,24.68333435
+Belo Horizonte,Annual Mean Temperature,2018,21.125
+Belmopan,Annual Mean Temperature,2018,25.84166718
+Sydney,Annual Mean Temperature,2018,17.99583435
+Ulsan,Annual Mean Temperature,2018,14.02499962
+Taichung,Annual Mean Temperature,2018,22.79999924
+Pretoria,Annual Mean Temperature,2018,18.46666718
+Los Angeles,Annual Mean Temperature,2018,19.00416565
+Curitiba,Annual Mean Temperature,2018,17.31666756
+Tijuana,Annual Mean Temperature,2018,17.20416641
+Rio de Janeiro,Annual Mean Temperature,2018,23.57500076
+Hong Kong,Annual Mean Temperature,2018,23.00833321
+Campinas,Annual Mean Temperature,2018,20.29583359
+Freetown,Annual Mean Temperature,2018,26.70833397
+Florianopolis,Annual Mean Temperature,2018,20.05416679
+Benoni,Annual Mean Temperature,2018,15.76666641
+Luanda,Annual Mean Temperature,2018,25.19583321
+Sao Paulo,Annual Mean Temperature,2018,19.02499962
+Mbabane,Annual Mean Temperature,2018,17.10416603
+Asmara,Annual Mean Temperature,2018,17.32083321
+Kathmandu,Annual Mean Temperature,2018,18.42499924
+Gaborone,Annual Mean Temperature,2018,21.26666641
+Dakar,Annual Mean Temperature,2018,24.42083359
+Durban,Annual Mean Temperature,2018,20.62916756
+Vereeniging,Annual Mean Temperature,2018,16.51666641
+Oran,Annual Mean Temperature,2018,17.96666718
+Port Elizabeth,Annual Mean Temperature,2018,17.89583397
+San Diego,Annual Mean Temperature,2018,17.80833244
+Santos,Annual Mean Temperature,2018,22.72916603
+Ljubljana,Annual Mean Temperature,2050,13.3
+Belgrade,Annual Mean Temperature,2050,15.36666667
+Novi Sad,Annual Mean Temperature,2050,14.33333333
+Budapest,Annual Mean Temperature,2050,14.26666667
+Turin,Annual Mean Temperature,2050,15.36666667
+Yerevan,Annual Mean Temperature,2050,14.43333333
+Vienna,Annual Mean Temperature,2050,12.86666667
+Bratislava,Annual Mean Temperature,2050,12.96666667
+Banja Luka,Annual Mean Temperature,2050,13.96666667
+Fez,Annual Mean Temperature,2050,20.8
+Zagreb,Annual Mean Temperature,2050,13.86666667
+Milan,Annual Mean Temperature,2050,15.86666667
+Tbilisi,Annual Mean Temperature,2050,15.73333333
+Rostov,Annual Mean Temperature,2050,12.66666667
+Konya,Annual Mean Temperature,2050,13.93333333
+Podgorica,Annual Mean Temperature,2050,18.03333333
+Marrakesh,Annual Mean Temperature,2050,22.2
+Skopje,Annual Mean Temperature,2050,14.96666667
+Dnipro,Annual Mean Temperature,2050,12.03333333
+Bucharest,Annual Mean Temperature,2050,13.63333333
+Sarajevo,Annual Mean Temperature,2050,13.06666667
+Lyon,Annual Mean Temperature,2050,13.86666667
+Kiev,Annual Mean Temperature,2050,10.93333333
+Prague,Annual Mean Temperature,2050,11.83333333
+Warsaw,Annual Mean Temperature,2050,10.73333333
+Qom,Annual Mean Temperature,2050,20.96666667
+Pristina,Annual Mean Temperature,2050,12.8
+Karaj,Annual Mean Temperature,2050,17
+Ankara,Annual Mean Temperature,2050,14.1
+Madrid,Annual Mean Temperature,2050,16.76666667
+Portland,Annual Mean Temperature,2050,14
+Mosul,Annual Mean Temperature,2050,22.7
+Jerusalem,Annual Mean Temperature,2050,19.6
+Manchester,Annual Mean Temperature,2050,12.4
+Tehran,Annual Mean Temperature,2050,19.13333333
+Sofia,Annual Mean Temperature,2050,12.9
+Berlin,Annual Mean Temperature,2050,11.63333333
+Paris,Annual Mean Temperature,2050,13.63333333
+Seattle,Annual Mean Temperature,2050,13.6
+Gaziantep,Annual Mean Temperature,2050,17.86666667
+St. Petersburg,Annual Mean Temperature,2050,8.233333333
+Tashkent,Annual Mean Temperature,2050,17.53333333
+Irbil,Annual Mean Temperature,2050,23.1
+Stockholm,Annual Mean Temperature,2050,9.7
+London,Annual Mean Temperature,2050,13.2
+Toronto,Annual Mean Temperature,2050,11.43333333
+Vilnius,Annual Mean Temperature,2050,9.466666667
+Kharkiv,Annual Mean Temperature,2050,10.23333333
+Andorra,Annual Mean Temperature,2050,11.83333333
+Luxembourg,Annual Mean Temperature,2050,11.63333333
+Rangoon,Annual Mean Temperature,2050,29.2
+Isfahan,Annual Mean Temperature,2050,18.5
+Cologne,Annual Mean Temperature,2050,12.56666667
+Montreal,Annual Mean Temperature,2050,10.1
+San Marino,Annual Mean Temperature,2050,15.73333333
+Minsk,Annual Mean Temperature,2050,9.166666667
+Athens,Annual Mean Temperature,2050,20.36666667
+Minneapolis,Annual Mean Temperature,2050,11.06666667
+Ottawa,Annual Mean Temperature,2050,9.533333333
+Vaduz,Annual Mean Temperature,2050,12.13333333
+Columbus,Annual Mean Temperature,2050,14.1
+Zurich,Annual Mean Temperature,2050,11.9
+Bursa,Annual Mean Temperature,2050,16.56666667
+Oslo,Annual Mean Temperature,2050,8.866666667
+Chisinau,Annual Mean Temperature,2050,12.66666667
+Indianapolis,Annual Mean Temperature,2050,14.36666667
+Sacramento,Annual Mean Temperature,2050,18.16666667
+Pittsburgh,Annual Mean Temperature,2050,14
+Amman,Annual Mean Temperature,2050,19.43333333
+St. Louis,Annual Mean Temperature,2050,16.4
+Rome,Annual Mean Temperature,2050,18.13333333
+Moscow,Annual Mean Temperature,2050,8.366666667
+Aguascalientes,Annual Mean Temperature,2050,20.46666667
+Cincinnati,Annual Mean Temperature,2050,15.2
+Salt Lake City,Annual Mean Temperature,2050,14.03333333
+Cleveland,Annual Mean Temperature,2050,13.33333333
+Hamburg,Annual Mean Temperature,2050,10.96666667
+Detroit,Annual Mean Temperature,2050,12.93333333
+Baltimore,Annual Mean Temperature,2050,16.43333333
+Buffalo,Annual Mean Temperature,2050,11.93333333
+Vatican City,Annual Mean Temperature,2050,18.06666667
+Djibouti,Annual Mean Temperature,2050,32.13333333
+Dushanbe,Annual Mean Temperature,2050,18.3
+Mariehamn,Annual Mean Temperature,2050,7.366666667
+Brussels,Annual Mean Temperature,2050,12.6
+Marseille,Annual Mean Temperature,2050,16.4
+Louisville,Annual Mean Temperature,2050,16.43333333
+San Luis Potosi,Annual Mean Temperature,2050,20.4
+Naypyidaw,Annual Mean Temperature,2050,28.96666667
+Helsinki,Annual Mean Temperature,2050,8.233333333
+Chongqing,Annual Mean Temperature,2050,21
+Tallinn,Annual Mean Temperature,2050,8.433333333
+Urumqi,Annual Mean Temperature,2050,10.23333333
+Baku,Annual Mean Temperature,2050,17.53333333
+Aleppo,Annual Mean Temperature,2050,19.63333333
+Kobenhavn,Annual Mean Temperature,2050,10.83333333
+Pune,Annual Mean Temperature,2050,26.9
+Izmir,Annual Mean Temperature,2050,20.06666667
+San Salvador,Annual Mean Temperature,2050,25.4
+Bern,Annual Mean Temperature,2050,11.36666667
+Nagpur,Annual Mean Temperature,2050,28.86666667
+Riga,Annual Mean Temperature,2050,9.4
+Lille,Annual Mean Temperature,2050,12.23333333
+Sukhumi,Annual Mean Temperature,2050,16.63333333
+Nashville,Annual Mean Temperature,2050,17.7
+Ilorin,Annual Mean Temperature,2050,28.6
+Riyadh,Annual Mean Temperature,2050,28.16666667
+Guadalajara,Annual Mean Temperature,2050,22
+Leeds,Annual Mean Temperature,2050,11.26666667
+Ramallah,Annual Mean Temperature,2050,18.8
+Munich,Annual Mean Temperature,2050,10.83333333
+Cuiaba,Annual Mean Temperature,2050,28.26666667
+Kansas City,Annual Mean Temperature,2050,16.13333333
+Xian,Annual Mean Temperature,2050,16.63333333
+Memphis,Annual Mean Temperature,2050,19.26666667
+Chicago,Annual Mean Temperature,2050,13.3
+Nairobi,Annual Mean Temperature,2050,20.93333333
+Ahvaz,Annual Mean Temperature,2050,27.73333333
+Adelaide,Annual Mean Temperature,2050,18.06666667
+Perth,Annual Mean Temperature,2050,20.3
+Baghdad,Annual Mean Temperature,2050,25.5
+Cardiff,Annual Mean Temperature,2050,12.23333333
+Philadelphia,Annual Mean Temperature,2050,15.4
+Adana,Annual Mean Temperature,2050,21.83333333
+Queretaro,Annual Mean Temperature,2050,20.6
+Wellington,Annual Mean Temperature,2050,15.06666667
+Birmingham,Annual Mean Temperature,2050,11.2
+Belem,Annual Mean Temperature,2050,28.83333333
+Edinburgh,Annual Mean Temperature,2050,10.43333333
+Bir Lehlou,Annual Mean Temperature,2050,25.6
+Kigali,Annual Mean Temperature,2050,22.7
+Hartford,Annual Mean Temperature,2050,13
+Milwaukee,Annual Mean Temperature,2050,11.7
+"Washington, D.C.",Annual Mean Temperature,2050,16.36666667
+Mexico City,Annual Mean Temperature,2050,18.2
+Kermanshah,Annual Mean Temperature,2050,16.36666667
+Jaipur,Annual Mean Temperature,2050,27.4
+Tabriz,Annual Mean Temperature,2050,14.26666667
+Samara,Annual Mean Temperature,2050,8.233333333
+San Bernardino,Annual Mean Temperature,2050,20.5
+Mandalay,Annual Mean Temperature,2050,29.03333333
+Leon,Annual Mean Temperature,2050,21.4
+Canberra,Annual Mean Temperature,2050,15
+Tunis,Annual Mean Temperature,2050,20.23333333
+Torreon,Annual Mean Temperature,2050,23.96666667
+New York,Annual Mean Temperature,2050,14.96666667
+Hyderabad,Annual Mean Temperature,2050,28.46666667
+Hyderabad,Annual Mean Temperature,2050,28.46666667
+Las Vegas,Annual Mean Temperature,2050,21.06666667
+Indore,Annual Mean Temperature,2050,26.73333333
+Manaus,Annual Mean Temperature,2050,29.6
+Semarang,Annual Mean Temperature,2050,28.66666667
+Nanchong,Annual Mean Temperature,2050,19.86666667
+Asuncion,Annual Mean Temperature,2050,24.9
+Denver,Annual Mean Temperature,2050,12.9
+Juba,Annual Mean Temperature,2050,29.43333333
+Bangui,Annual Mean Temperature,2050,28.2
+Manila,Annual Mean Temperature,2050,28.9
+Lanzhou,Annual Mean Temperature,2050,12.36666667
+Niamey,Annual Mean Temperature,2050,31.63333333
+Lubumbashi,Annual Mean Temperature,2050,22.76666667
+Austin,Annual Mean Temperature,2050,22.66666667
+Dallas,Annual Mean Temperature,2050,21.56666667
+Calgary,Annual Mean Temperature,2050,6.266666667
+Puebla,Annual Mean Temperature,2050,19.16666667
+Melbourne,Annual Mean Temperature,2050,16.73333333
+Ashgabat,Annual Mean Temperature,2050,18.36666667
+Ogbomosho,Annual Mean Temperature,2050,27.76666667
+Bishkek,Annual Mean Temperature,2050,13.43333333
+Gujranwala,Annual Mean Temperature,2050,26.03333333
+Quito,Annual Mean Temperature,2050,15.96666667
+Taiyuan,Annual Mean Temperature,2050,12.6
+Ahmedabad,Annual Mean Temperature,2050,29.23333333
+Patna,Annual Mean Temperature,2050,27.66666667
+Kano,Annual Mean Temperature,2050,28.43333333
+Tel Aviv-Yafo,Annual Mean Temperature,2050,22.4
+Beirut,Annual Mean Temperature,2050,22.76666667
+Lusaka,Annual Mean Temperature,2050,22.6
+Ndjamena,Annual Mean Temperature,2050,30
+Guatemala,Annual Mean Temperature,2050,21.36666667
+Brazzaville,Annual Mean Temperature,2050,27.73333333
+Ho Chi Minh City,Annual Mean Temperature,2050,29.16666667
+Surat,Annual Mean Temperature,2050,29.13333333
+Al Hudaydah,Annual Mean Temperature,2050,31.63333333
+Bangalore,Annual Mean Temperature,2050,25.93333333
+Kaduna,Annual Mean Temperature,2050,27.3
+Kabul,Annual Mean Temperature,2050,15.16666667
+Zaria,Annual Mean Temperature,2050,27.03333333
+Bamako,Annual Mean Temperature,2050,30.3
+Rotterdam,Annual Mean Temperature,2050,11.73333333
+Valletta,Annual Mean Temperature,2050,20.83333333
+San Antonio,Annual Mean Temperature,2050,23.03333333
+Bujumbura,Annual Mean Temperature,2050,26.53333333
+Maracay,Annual Mean Temperature,2050,26.83333333
+Mashhad,Annual Mean Temperature,2050,16.03333333
+Kanpur,Annual Mean Temperature,2050,27.53333333
+Tirana,Annual Mean Temperature,2050,17.4
+Belfast,Annual Mean Temperature,2050,10.63333333
+New Delhi,Annual Mean Temperature,2050,27.26666667
+Abidjan,Annual Mean Temperature,2050,28.3
+Tegucigalpa,Annual Mean Temperature,2050,23.9
+Doha,Annual Mean Temperature,2050,29.4
+Kumasi,Annual Mean Temperature,2050,28.1
+Toluca,Annual Mean Temperature,2050,15.96666667
+Delhi,Annual Mean Temperature,2050,27.23333333
+Barcelona,Annual Mean Temperature,2050,18.76666667
+Amsterdam,Annual Mean Temperature,2050,11.3
+Istanbul,Annual Mean Temperature,2050,16.13333333
+Abuja,Annual Mean Temperature,2050,27.36666667
+Monterrey,Annual Mean Temperature,2050,24.43333333
+Boston,Annual Mean Temperature,2050,12.86666667
+Dodoma,Annual Mean Temperature,2050,24.56666667
+The Hague,Annual Mean Temperature,2050,11.66666667
+Dublin,Annual Mean Temperature,2050,11.53333333
+Jinan,Annual Mean Temperature,2050,17.1
+Mombasa,Annual Mean Temperature,2050,28.33333333
+Lisbon,Annual Mean Temperature,2050,18.46666667
+Lucknow,Annual Mean Temperature,2050,27.43333333
+Addis Ababa,Annual Mean Temperature,2050,17.73333333
+Richmond,Annual Mean Temperature,2050,17
+Banjul,Annual Mean Temperature,2050,28.2
+Changsha,Annual Mean Temperature,2050,20.13333333
+Jeddah,Annual Mean Temperature,2050,30.76666667
+La Paz,Annual Mean Temperature,2050,11.76666667
+Harbin,Annual Mean Temperature,2050,6.166666667
+Rawalpindi,Annual Mean Temperature,2050,23.76666667
+Yamoussoukro,Annual Mean Temperature,2050,27.9
+Charlotte,Annual Mean Temperature,2050,18.4
+Guiyang,Annual Mean Temperature,2050,18.36666667
+Windhoek,Annual Mean Temperature,2050,22.06666667
+Glasgow,Annual Mean Temperature,2050,10.23333333
+Wuhan,Annual Mean Temperature,2050,19.6
+Tripoli,Annual Mean Temperature,2050,21.86666667
+Batumi,Annual Mean Temperature,2050,16.8
+Ciudad Juarez,Annual Mean Temperature,2050,19.9
+Jakarta,Annual Mean Temperature,2050,29.33333333
+Bridgeport,Annual Mean Temperature,2050,13.63333333
+Porto,Annual Mean Temperature,2050,16.4
+Atlanta,Annual Mean Temperature,2050,18.7
+Ouagadougou,Annual Mean Temperature,2050,30.5
+Teresina,Annual Mean Temperature,2050,29.73333333
+Rabat,Annual Mean Temperature,2050,19.83333333
+Lilongwe,Annual Mean Temperature,2050,22.43333333
+Bangkok,Annual Mean Temperature,2050,30.06666667
+Palembang,Annual Mean Temperature,2050,29.26666667
+Rosario,Annual Mean Temperature,2050,18.3
+Cali,Annual Mean Temperature,2050,26.03333333
+Kolkata,Annual Mean Temperature,2050,28.16666667
+Monaco,Annual Mean Temperature,2050,15.9
+Conakry,Annual Mean Temperature,2050,29.43333333
+Medina,Annual Mean Temperature,2050,30.23333333
+Hangzhou,Annual Mean Temperature,2050,19.03333333
+Alexandria,Annual Mean Temperature,2050,22.7
+Malabo,Annual Mean Temperature,2050,26.76666667
+Goiania,Annual Mean Temperature,2050,25.2
+Harare,Annual Mean Temperature,2050,20.56666667
+Cordoba,Annual Mean Temperature,2050,18.8
+Santa Cruz,Annual Mean Temperature,2050,26.3
+Hanoi,Annual Mean Temperature,2050,25.96666667
+Islamabad,Annual Mean Temperature,2050,23.8
+Natal,Annual Mean Temperature,2050,27.63333333
+Paramaribo,Annual Mean Temperature,2050,28.66666667
+Sapporo,Annual Mean Temperature,2050,11.23333333
+Zibo,Annual Mean Temperature,2050,15.9
+Kuala Lumpur,Annual Mean Temperature,2050,29.03333333
+Mexicali,Annual Mean Temperature,2050,24.96666667
+Chengdu,Annual Mean Temperature,2050,18.63333333
+Haifa,Annual Mean Temperature,2050,22.06666667
+Nouakchott,Annual Mean Temperature,2050,27.66666667
+Auckland,Annual Mean Temperature,2050,17.2
+Nicosia,Annual Mean Temperature,2050,20.93333333
+Santiago,Annual Mean Temperature,2050,16.53333333
+Khartoum,Annual Mean Temperature,2050,32.13333333
+Faisalabad,Annual Mean Temperature,2050,26.26666667
+Rajshahi,Annual Mean Temperature,2050,27.56666667
+Seoul,Annual Mean Temperature,2050,14.33333333
+Bogor,Annual Mean Temperature,2050,27.66666667
+Panama City,Annual Mean Temperature,2050,28.8
+Chennai,Annual Mean Temperature,2050,30.1
+Bucaramanga,Annual Mean Temperature,2050,25.5
+Guayaquil,Annual Mean Temperature,2050,27.56666667
+Mogadishu,Annual Mean Temperature,2050,28.6
+Dubai,Annual Mean Temperature,2050,29.03333333
+Kelang,Annual Mean Temperature,2050,28.9
+Salvador,Annual Mean Temperature,2050,26.8
+Douala,Annual Mean Temperature,2050,28.1
+Arequipa,Annual Mean Temperature,2050,16.8
+Valencia,Annual Mean Temperature,2050,25.53333333
+Bissau,Annual Mean Temperature,2050,28.1
+Sao Tome,Annual Mean Temperature,2050,27.03333333
+Brasilia,Annual Mean Temperature,2050,23.23333333
+Shanghai,Annual Mean Temperature,2050,18.46666667
+Vientiane,Annual Mean Temperature,2050,27.46666667
+Buenos Aires,Annual Mean Temperature,2050,18.43333333
+Port-au-Prince,Annual Mean Temperature,2050,28.4
+Montevideo,Annual Mean Temperature,2050,17.7
+Shijianzhuang,Annual Mean Temperature,2050,15.6
+Providence,Annual Mean Temperature,2050,12.56666667
+Mbuji-Mayi,Annual Mean Temperature,2050,27.7
+Georgetown,Annual Mean Temperature,2050,28.76666667
+Orlando,Annual Mean Temperature,2050,24.23333333
+Khulna,Annual Mean Temperature,2050,27.93333333
+Cape Town,Annual Mean Temperature,2050,18.5
+Haiphong,Annual Mean Temperature,2050,26.16666667
+Reykjavik,Annual Mean Temperature,2050,6.833333333
+Mendoza,Annual Mean Temperature,2050,18.46666667
+Changchun,Annual Mean Temperature,2050,7.666666667
+Porto Alegre,Annual Mean Temperature,2050,21.06666667
+Joao Pessoa,Annual Mean Temperature,2050,27.33333333
+Port Harcourt,Annual Mean Temperature,2050,28.23333333
+Monrovia,Annual Mean Temperature,2050,27.26666667
+Fuzhou,Annual Mean Temperature,2050,22.23333333
+Dhaka,Annual Mean Temperature,2050,27.73333333
+Davao,Annual Mean Temperature,2050,28.7
+Nanjing,Annual Mean Temperature,2050,17.86666667
+Taizz,Annual Mean Temperature,2050,26.53333333
+Hiroshima,Annual Mean Temperature,2050,17.8
+Jacksonville,Annual Mean Temperature,2050,22.86666667
+Phoenix,Annual Mean Temperature,2050,24.13333333
+Pyongyang,Annual Mean Temperature,2050,12.26666667
+Libreville,Annual Mean Temperature,2050,27.96666667
+Phnom Penh,Annual Mean Temperature,2050,29.6
+Qingdao,Annual Mean Temperature,2050,15.06666667
+Ponta Delgada,Annual Mean Temperature,2050,18.83333333
+Hamilton,Annual Mean Temperature,2050,23.3
+Yaounde,Annual Mean Temperature,2050,25.9
+Bandar Lampung,Annual Mean Temperature,2050,28.1
+Hargeysa,Annual Mean Temperature,2050,24.2
+Zhengzhou,Annual Mean Temperature,2050,16.76666667
+Johor Bahru,Annual Mean Temperature,2050,28.43333333
+Medan,Annual Mean Temperature,2050,28.53333333
+Kuwait,Annual Mean Temperature,2050,27.86666667
+Multan,Annual Mean Temperature,2050,27.96666667
+Peshawar,Annual Mean Temperature,2050,24.96666667
+Incheon,Annual Mean Temperature,2050,14.13333333
+Cartagena,Annual Mean Temperature,2050,29.1
+Fukuoka,Annual Mean Temperature,2050,18.56666667
+Saint George's,Annual Mean Temperature,2050,28.46666667
+Shenyeng,Annual Mean Temperature,2050,11.23333333
+Vitoria,Annual Mean Temperature,2050,26.36666667
+Goyang,Annual Mean Temperature,2050,14.13333333
+New Orleans,Annual Mean Temperature,2050,22.73333333
+Benin City,Annual Mean Temperature,2050,28.06666667
+Colombo,Annual Mean Temperature,2050,28.6
+Houston,Annual Mean Temperature,2050,22.96666667
+Stanley,Annual Mean Temperature,2050,6.866666667
+Ibadan,Annual Mean Temperature,2050,28.2
+Makkah,Annual Mean Temperature,2050,32.6
+Port Moresby,Annual Mean Temperature,2050,28.23333333
+Recife,Annual Mean Temperature,2050,27.46666667
+Porto-Novo,Annual Mean Temperature,2050,29.03333333
+Singapore,Annual Mean Temperature,2050,28.33333333
+Tianjin,Annual Mean Temperature,2050,14.8
+Putrajaya,Annual Mean Temperature,2050,28.83333333
+Beijing,Annual Mean Temperature,2050,14.5
+Nagoya,Annual Mean Temperature,2050,18.06666667
+Tokyo,Annual Mean Temperature,2050,17.8
+Sri Jawewardenepura Kotte,Annual Mean Temperature,2050,28.6
+Pekanbaru,Annual Mean Temperature,2050,28.86666667
+Funchal,Annual Mean Temperature,2050,20.3
+Algiers,Annual Mean Temperature,2050,20.4
+Sao Luis,Annual Mean Temperature,2050,28.8
+Sucre,Annual Mean Temperature,2050,18.03333333
+Bandung,Annual Mean Temperature,2050,25.1
+Zamboanga,Annual Mean Temperature,2050,28.5
+Malang,Annual Mean Temperature,2050,25.33333333
+Accra,Annual Mean Temperature,2050,28.56666667
+Dili,Annual Mean Temperature,2050,29.13333333
+Hims,Annual Mean Temperature,2050,18.76666667
+Kyoto,Annual Mean Temperature,2050,17.63333333
+Virginia Beach,Annual Mean Temperature,2050,17.73333333
+Suva,Annual Mean Temperature,2050,25.9
+Gaza,Annual Mean Temperature,2050,22.1
+Kinshasa,Annual Mean Temperature,2050,27.63333333
+Sendai,Annual Mean Temperature,2050,14.7
+Padang,Annual Mean Temperature,2050,28.6
+Laayoune,Annual Mean Temperature,2050,21.8
+Havana,Annual Mean Temperature,2050,26.9
+Kananga,Annual Mean Temperature,2050,27.13333333
+Port Louis,Annual Mean Temperature,2050,25.26666667
+Cotonou,Annual Mean Temperature,2050,28.63333333
+Muscat,Annual Mean Temperature,2050,30.23333333
+Macau,Annual Mean Temperature,2050,24.46666667
+Joinville,Annual Mean Temperature,2050,22.6
+Caracas,Annual Mean Temperature,2050,22.66666667
+Pago Pago,Annual Mean Temperature,2050,27.76666667
+George Town,Annual Mean Temperature,2050,28.13333333
+Lome,Annual Mean Temperature,2050,28.46666667
+Suwon,Annual Mean Temperature,2050,14.03333333
+Willemstad,Annual Mean Temperature,2050,28.56666667
+Johannesburg,Annual Mean Temperature,2050,18.56666667
+Dalian,Annual Mean Temperature,2050,13.6
+Nampo,Annual Mean Temperature,2050,12.73333333
+Barranquilla,Annual Mean Temperature,2050,29.46666667
+Casablanca,Annual Mean Temperature,2050,19.56666667
+Gwangju,Annual Mean Temperature,2050,16.23333333
+Guangzhou,Annual Mean Temperature,2050,24.4
+Jinxi,Annual Mean Temperature,2050,11.5
+Lagos,Annual Mean Temperature,2050,28.7
+Noumea,Annual Mean Temperature,2050,24.36666667
+Dongguan,Annual Mean Temperature,2050,24.46666667
+Maputo,Annual Mean Temperature,2050,24.63333333
+Kampala,Annual Mean Temperature,2050,23.6
+Antananarivo,Annual Mean Temperature,2050,20.63333333
+Port Vila,Annual Mean Temperature,2050,25.63333333
+Valparaiso,Annual Mean Temperature,2050,16.3
+Agana,Annual Mean Temperature,2050,28.73333333
+Nanning,Annual Mean Temperature,2050,24.63333333
+Cebu,Annual Mean Temperature,2050,29.16666667
+Daejeon,Annual Mean Temperature,2050,14.86666667
+Praia,Annual Mean Temperature,2050,26.4
+Kunming,Annual Mean Temperature,2050,17.1
+Nukualofa,Annual Mean Temperature,2050,24.96666667
+Surabaya,Annual Mean Temperature,2050,28.86666667
+Grand Turk,Annual Mean Temperature,2050,27.76666667
+Almaty,Annual Mean Temperature,2050,11
+Taipei,Annual Mean Temperature,2050,23.66666667
+Bandar Seri Begawan,Annual Mean Temperature,2050,29.2
+Roseau,Annual Mean Temperature,2050,27.73333333
+Dar es Salaam,Annual Mean Temperature,2050,27.56666667
+Basseterre,Annual Mean Temperature,2050,28.16666667
+Merida,Annual Mean Temperature,2050,27.8
+Huambo,Annual Mean Temperature,2050,21.26666667
+Osaka,Annual Mean Temperature,2050,18.2
+Melekeok,Annual Mean Temperature,2050,29.03333333
+Oranjestad,Annual Mean Temperature,2050,29
+Palikir,Annual Mean Temperature,2050,28.36666667
+Basra,Annual Mean Temperature,2050,27.06666667
+Daegu,Annual Mean Temperature,2050,16.06666667
+Chittagong,Annual Mean Temperature,2050,27.76666667
+Papeete,Annual Mean Temperature,2050,27.16666667
+Shenzhen,Annual Mean Temperature,2050,24.7
+Kingston,Annual Mean Temperature,2050,27.8
+Saint John's,Annual Mean Temperature,2050,28
+Maceio,Annual Mean Temperature,2050,26.26666667
+Tampa,Annual Mean Temperature,2050,24.56666667
+Xiamen,Annual Mean Temperature,2050,23.43333333
+Fortaleza,Annual Mean Temperature,2050,27.96666667
+Honiara,Annual Mean Temperature,2050,27.76666667
+Ad Damman,Annual Mean Temperature,2050,28.4
+Brisbane,Annual Mean Temperature,2050,22.2
+San Francisco,Annual Mean Temperature,2050,15.33333333
+Tainan,Annual Mean Temperature,2050,25.46666667
+Busan,Annual Mean Temperature,2050,16.16666667
+Bloemfontein,Annual Mean Temperature,2050,18.73333333
+Maseru,Annual Mean Temperature,2050,17.63333333
+Kaohsiung,Annual Mean Temperature,2050,25.13333333
+Miami,Annual Mean Temperature,2050,26.03333333
+Belo Horizonte,Annual Mean Temperature,2050,22.96666667
+Belmopan,Annual Mean Temperature,2050,26.93333333
+Sydney,Annual Mean Temperature,2050,19.56666667
+Ulsan,Annual Mean Temperature,2050,16.2
+Taichung,Annual Mean Temperature,2050,23.86666667
+Pretoria,Annual Mean Temperature,2050,20.23333333
+Los Angeles,Annual Mean Temperature,2050,20.4
+Curitiba,Annual Mean Temperature,2050,18.7
+Tijuana,Annual Mean Temperature,2050,18.56666667
+Rio de Janeiro,Annual Mean Temperature,2050,24.53333333
+Hong Kong,Annual Mean Temperature,2050,24.56666667
+Campinas,Annual Mean Temperature,2050,21.43333333
+Freetown,Annual Mean Temperature,2050,27.6
+Florianopolis,Annual Mean Temperature,2050,21.6
+Benoni,Annual Mean Temperature,2050,18.13333333
+Luanda,Annual Mean Temperature,2050,25.86666667
+Sao Paulo,Annual Mean Temperature,2050,20.43333333
+Mbabane,Annual Mean Temperature,2050,18.7
+Asmara,Annual Mean Temperature,2050,19
+Kathmandu,Annual Mean Temperature,2050,20.13333333
+Gaborone,Annual Mean Temperature,2050,22.86666667
+Dakar,Annual Mean Temperature,2050,26.26666667
+Durban,Annual Mean Temperature,2050,22.33333333
+Vereeniging,Annual Mean Temperature,2050,19
+Oran,Annual Mean Temperature,2050,20.43333333
+Port Elizabeth,Annual Mean Temperature,2050,19.13333333
+San Diego,Annual Mean Temperature,2050,19.06666667
+Santos,Annual Mean Temperature,2050,23.43333333
+Ljubljana,Maximum Temperature of Warmest Month,2018,23.60000038
+Belgrade,Maximum Temperature of Warmest Month,2018,25.79999924
+Novi Sad,Maximum Temperature of Warmest Month,2018,25.5
+Budapest,Maximum Temperature of Warmest Month,2018,24.39999962
+Turin,Maximum Temperature of Warmest Month,2018,26.60000038
+Yerevan,Maximum Temperature of Warmest Month,2018,29
+Vienna,Maximum Temperature of Warmest Month,2018,23.39999962
+Bratislava,Maximum Temperature of Warmest Month,2018,23.60000038
+Banja Luka,Maximum Temperature of Warmest Month,2018,25.20000076
+Fez,Maximum Temperature of Warmest Month,2018,31.89999962
+Zagreb,Maximum Temperature of Warmest Month,2018,24.60000038
+Milan,Maximum Temperature of Warmest Month,2018,27.10000038
+Tbilisi,Maximum Temperature of Warmest Month,2018,28.5
+Rostov,Maximum Temperature of Warmest Month,2018,26.10000038
+Konya,Maximum Temperature of Warmest Month,2018,27.10000038
+Podgorica,Maximum Temperature of Warmest Month,2018,29.79999924
+Marrakesh,Maximum Temperature of Warmest Month,2018,34
+Skopje,Maximum Temperature of Warmest Month,2018,28
+Dnipro,Maximum Temperature of Warmest Month,2018,25
+Bucharest,Maximum Temperature of Warmest Month,2018,26.60000038
+Sarajevo,Maximum Temperature of Warmest Month,2018,24.5
+Lyon,Maximum Temperature of Warmest Month,2018,24.29999924
+Kiev,Maximum Temperature of Warmest Month,2018,22.89999962
+Prague,Maximum Temperature of Warmest Month,2018,22.20000076
+Warsaw,Maximum Temperature of Warmest Month,2018,21.79999924
+Qom,Maximum Temperature of Warmest Month,2018,36.59999847
+Pristina,Maximum Temperature of Warmest Month,2018,24.89999962
+Karaj,Maximum Temperature of Warmest Month,2018,31.79999924
+Ankara,Maximum Temperature of Warmest Month,2018,28.20000076
+Madrid,Maximum Temperature of Warmest Month,2018,29.39999962
+Portland,Maximum Temperature of Warmest Month,2018,23.70000076
+Mosul,Maximum Temperature of Warmest Month,2018,39.90000153
+Jerusalem,Maximum Temperature of Warmest Month,2018,27.29999924
+Manchester,Maximum Temperature of Warmest Month,2018,18.89999962
+Tehran,Maximum Temperature of Warmest Month,2018,34.40000153
+Sofia,Maximum Temperature of Warmest Month,2018,24.89999962
+Berlin,Maximum Temperature of Warmest Month,2018,22
+Paris,Maximum Temperature of Warmest Month,2018,22.70000076
+Seattle,Maximum Temperature of Warmest Month,2018,21.39999962
+Gaziantep,Maximum Temperature of Warmest Month,2018,33
+St. Petersburg,Maximum Temperature of Warmest Month,2018,20.20000076
+Tashkent,Maximum Temperature of Warmest Month,2018,33.29999924
+Irbil,Maximum Temperature of Warmest Month,2018,39.40000153
+Stockholm,Maximum Temperature of Warmest Month,2018,19.79999924
+London,Maximum Temperature of Warmest Month,2018,21
+Toronto,Maximum Temperature of Warmest Month,2018,24.89999962
+Vilnius,Maximum Temperature of Warmest Month,2018,21.20000076
+Kharkiv,Maximum Temperature of Warmest Month,2018,23.79999924
+Andorra,Maximum Temperature of Warmest Month,2018,21.5
+Luxembourg,Maximum Temperature of Warmest Month,2018,21
+Rangoon,Maximum Temperature of Warmest Month,2018,33.20000076
+Isfahan,Maximum Temperature of Warmest Month,2018,34.59999847
+Cologne,Maximum Temperature of Warmest Month,2018,21.79999924
+Montreal,Maximum Temperature of Warmest Month,2018,25.29999924
+San Marino,Maximum Temperature of Warmest Month,2018,26.5
+Minsk,Maximum Temperature of Warmest Month,2018,21.60000038
+Athens,Maximum Temperature of Warmest Month,2018,30.60000038
+Minneapolis,Maximum Temperature of Warmest Month,2018,27.29999924
+Ottawa,Maximum Temperature of Warmest Month,2018,24.60000038
+Vaduz,Maximum Temperature of Warmest Month,2018,22.20000076
+Columbus,Maximum Temperature of Warmest Month,2018,28.39999962
+Zurich,Maximum Temperature of Warmest Month,2018,21.89999962
+Bursa,Maximum Temperature of Warmest Month,2018,28.5
+Oslo,Maximum Temperature of Warmest Month,2018,19.5
+Chisinau,Maximum Temperature of Warmest Month,2018,25.10000038
+Indianapolis,Maximum Temperature of Warmest Month,2018,28.89999962
+Sacramento,Maximum Temperature of Warmest Month,2018,30.89999962
+Pittsburgh,Maximum Temperature of Warmest Month,2018,28
+Amman,Maximum Temperature of Warmest Month,2018,29.79999924
+St. Louis,Maximum Temperature of Warmest Month,2018,31
+Rome,Maximum Temperature of Warmest Month,2018,28.60000038
+Moscow,Maximum Temperature of Warmest Month,2018,22.20000076
+Aguascalientes,Maximum Temperature of Warmest Month,2018,28.79999924
+Cincinnati,Maximum Temperature of Warmest Month,2018,29.5
+Salt Lake City,Maximum Temperature of Warmest Month,2018,31.29999924
+Cleveland,Maximum Temperature of Warmest Month,2018,27
+Hamburg,Maximum Temperature of Warmest Month,2018,20.79999924
+Detroit,Maximum Temperature of Warmest Month,2018,26.89999962
+Baltimore,Maximum Temperature of Warmest Month,2018,30.29999924
+Buffalo,Maximum Temperature of Warmest Month,2018,25.29999924
+Vatican City,Maximum Temperature of Warmest Month,2018,28.5
+Djibouti,Maximum Temperature of Warmest Month,2018,37.90000153
+Dushanbe,Maximum Temperature of Warmest Month,2018,33.79999924
+Mariehamn,Maximum Temperature of Warmest Month,2018,17.5
+Brussels,Maximum Temperature of Warmest Month,2018,21.29999924
+Marseille,Maximum Temperature of Warmest Month,2018,26.39999962
+Louisville,Maximum Temperature of Warmest Month,2018,30.79999924
+San Luis Potosi,Maximum Temperature of Warmest Month,2018,28.20000076
+Naypyidaw,Maximum Temperature of Warmest Month,2018,34.90000153
+Helsinki,Maximum Temperature of Warmest Month,2018,19.29999924
+Chongqing,Maximum Temperature of Warmest Month,2018,30.89999962
+Tallinn,Maximum Temperature of Warmest Month,2018,19.60000038
+Urumqi,Maximum Temperature of Warmest Month,2018,28.60000038
+Baku,Maximum Temperature of Warmest Month,2018,28.20000076
+Aleppo,Maximum Temperature of Warmest Month,2018,34.40000153
+Kobenhavn,Maximum Temperature of Warmest Month,2018,19.70000076
+Pune,Maximum Temperature of Warmest Month,2018,34.29999924
+Izmir,Maximum Temperature of Warmest Month,2018,31.89999962
+San Salvador,Maximum Temperature of Warmest Month,2018,29.60000038
+Bern,Maximum Temperature of Warmest Month,2018,22.29999924
+Nagpur,Maximum Temperature of Warmest Month,2018,40.20000076
+Riga,Maximum Temperature of Warmest Month,2018,20.29999924
+Lille,Maximum Temperature of Warmest Month,2018,20.89999962
+Sukhumi,Maximum Temperature of Warmest Month,2018,26.5
+Nashville,Maximum Temperature of Warmest Month,2018,32.20000076
+Ilorin,Maximum Temperature of Warmest Month,2018,33.29999924
+Riyadh,Maximum Temperature of Warmest Month,2018,41.09999847
+Guadalajara,Maximum Temperature of Warmest Month,2018,31.29999924
+Leeds,Maximum Temperature of Warmest Month,2018,18.79999924
+Ramallah,Maximum Temperature of Warmest Month,2018,27.89999962
+Munich,Maximum Temperature of Warmest Month,2018,22.5
+Cuiaba,Maximum Temperature of Warmest Month,2018,32.59999847
+Kansas City,Maximum Temperature of Warmest Month,2018,31.70000076
+Xian,Maximum Temperature of Warmest Month,2018,31.20000076
+Memphis,Maximum Temperature of Warmest Month,2018,33.09999847
+Chicago,Maximum Temperature of Warmest Month,2018,28.5
+Nairobi,Maximum Temperature of Warmest Month,2018,24.70000076
+Ahvaz,Maximum Temperature of Warmest Month,2018,44.29999924
+Adelaide,Maximum Temperature of Warmest Month,2018,25.89999962
+Perth,Maximum Temperature of Warmest Month,2018,28.10000038
+Baghdad,Maximum Temperature of Warmest Month,2018,42.40000153
+Cardiff,Maximum Temperature of Warmest Month,2018,19.79999924
+Philadelphia,Maximum Temperature of Warmest Month,2018,29.29999924
+Adana,Maximum Temperature of Warmest Month,2018,33.5
+Queretaro,Maximum Temperature of Warmest Month,2018,28.79999924
+Wellington,Maximum Temperature of Warmest Month,2018,19.70000076
+Birmingham,Maximum Temperature of Warmest Month,2018,19.29999924
+Belem,Maximum Temperature of Warmest Month,2018,31.10000038
+Edinburgh,Maximum Temperature of Warmest Month,2018,17.70000076
+Bir Lehlou,Maximum Temperature of Warmest Month,2018,39.79999924
+Kigali,Maximum Temperature of Warmest Month,2018,25.89999962
+Hartford,Maximum Temperature of Warmest Month,2018,28.10000038
+Milwaukee,Maximum Temperature of Warmest Month,2018,27
+"Washington, D.C.",Maximum Temperature of Warmest Month,2018,30.60000038
+Mexico City,Maximum Temperature of Warmest Month,2018,26
+Kermanshah,Maximum Temperature of Warmest Month,2018,34.90000153
+Jaipur,Maximum Temperature of Warmest Month,2018,38.90000153
+Tabriz,Maximum Temperature of Warmest Month,2018,30.79999924
+Samara,Maximum Temperature of Warmest Month,2018,26
+San Bernardino,Maximum Temperature of Warmest Month,2018,34
+Mandalay,Maximum Temperature of Warmest Month,2018,35.70000076
+Leon,Maximum Temperature of Warmest Month,2018,30.5
+Canberra,Maximum Temperature of Warmest Month,2018,25.60000038
+Tunis,Maximum Temperature of Warmest Month,2018,31.10000038
+Torreon,Maximum Temperature of Warmest Month,2018,35.59999847
+New York,Maximum Temperature of Warmest Month,2018,28.5
+Hyderabad,Maximum Temperature of Warmest Month,2018,37.90000153
+Hyderabad,Maximum Temperature of Warmest Month,2018,37.90000153
+Las Vegas,Maximum Temperature of Warmest Month,2018,38.40000153
+Indore,Maximum Temperature of Warmest Month,2018,38.59999847
+Manaus,Maximum Temperature of Warmest Month,2018,32.29999924
+Semarang,Maximum Temperature of Warmest Month,2018,32
+Nanchong,Maximum Temperature of Warmest Month,2018,30.60000038
+Asuncion,Maximum Temperature of Warmest Month,2018,32.20000076
+Denver,Maximum Temperature of Warmest Month,2018,30.20000076
+Juba,Maximum Temperature of Warmest Month,2018,35.40000153
+Bangui,Maximum Temperature of Warmest Month,2018,32.09999847
+Manila,Maximum Temperature of Warmest Month,2018,31.89999962
+Lanzhou,Maximum Temperature of Warmest Month,2018,27.70000076
+Niamey,Maximum Temperature of Warmest Month,2018,39.79999924
+Lubumbashi,Maximum Temperature of Warmest Month,2018,30.89999962
+Austin,Maximum Temperature of Warmest Month,2018,35
+Dallas,Maximum Temperature of Warmest Month,2018,35.40000153
+Calgary,Maximum Temperature of Warmest Month,2018,23
+Puebla,Maximum Temperature of Warmest Month,2018,26.60000038
+Melbourne,Maximum Temperature of Warmest Month,2018,24.39999962
+Ashgabat,Maximum Temperature of Warmest Month,2018,36.59999847
+Ogbomosho,Maximum Temperature of Warmest Month,2018,32.79999924
+Bishkek,Maximum Temperature of Warmest Month,2018,30.70000076
+Gujranwala,Maximum Temperature of Warmest Month,2018,39.79999924
+Quito,Maximum Temperature of Warmest Month,2018,19.60000038
+Taiyuan,Maximum Temperature of Warmest Month,2018,29.39999962
+Ahmedabad,Maximum Temperature of Warmest Month,2018,39.5
+Patna,Maximum Temperature of Warmest Month,2018,36.59999847
+Kano,Maximum Temperature of Warmest Month,2018,36.79999924
+Tel Aviv-Yafo,Maximum Temperature of Warmest Month,2018,31
+Beirut,Maximum Temperature of Warmest Month,2018,30.70000076
+Lusaka,Maximum Temperature of Warmest Month,2018,30.20000076
+Ndjamena,Maximum Temperature of Warmest Month,2018,39.29999924
+Guatemala,Maximum Temperature of Warmest Month,2018,25.5
+Brazzaville,Maximum Temperature of Warmest Month,2018,30.70000076
+Ho Chi Minh City,Maximum Temperature of Warmest Month,2018,32.79999924
+Surat,Maximum Temperature of Warmest Month,2018,35.79999924
+Al Hudaydah,Maximum Temperature of Warmest Month,2018,37
+Bangalore,Maximum Temperature of Warmest Month,2018,32.70000076
+Kaduna,Maximum Temperature of Warmest Month,2018,33.70000076
+Kabul,Maximum Temperature of Warmest Month,2018,32.29999924
+Zaria,Maximum Temperature of Warmest Month,2018,33.79999924
+Bamako,Maximum Temperature of Warmest Month,2018,37.70000076
+Rotterdam,Maximum Temperature of Warmest Month,2018,20.29999924
+Valletta,Maximum Temperature of Warmest Month,2018,29.60000038
+San Antonio,Maximum Temperature of Warmest Month,2018,34.90000153
+Bujumbura,Maximum Temperature of Warmest Month,2018,30.29999924
+Maracay,Maximum Temperature of Warmest Month,2018,30.79999924
+Mashhad,Maximum Temperature of Warmest Month,2018,32.5
+Kanpur,Maximum Temperature of Warmest Month,2018,39.90000153
+Tirana,Maximum Temperature of Warmest Month,2018,29.79999924
+Belfast,Maximum Temperature of Warmest Month,2018,17.60000038
+New Delhi,Maximum Temperature of Warmest Month,2018,39.40000153
+Abidjan,Maximum Temperature of Warmest Month,2018,30.5
+Tegucigalpa,Maximum Temperature of Warmest Month,2018,28.5
+Doha,Maximum Temperature of Warmest Month,2018,40.20000076
+Kumasi,Maximum Temperature of Warmest Month,2018,31.70000076
+Toluca,Maximum Temperature of Warmest Month,2018,23.20000076
+Delhi,Maximum Temperature of Warmest Month,2018,39.40000153
+Barcelona,Maximum Temperature of Warmest Month,2018,27.5
+Amsterdam,Maximum Temperature of Warmest Month,2018,20.10000038
+Istanbul,Maximum Temperature of Warmest Month,2018,26.60000038
+Abuja,Maximum Temperature of Warmest Month,2018,33.09999847
+Monterrey,Maximum Temperature of Warmest Month,2018,34.29999924
+Boston,Maximum Temperature of Warmest Month,2018,28
+Dodoma,Maximum Temperature of Warmest Month,2018,30.5
+The Hague,Maximum Temperature of Warmest Month,2018,19.79999924
+Dublin,Maximum Temperature of Warmest Month,2018,18.70000076
+Jinan,Maximum Temperature of Warmest Month,2018,31.70000076
+Mombasa,Maximum Temperature of Warmest Month,2018,31.39999962
+Lisbon,Maximum Temperature of Warmest Month,2018,26
+Lucknow,Maximum Temperature of Warmest Month,2018,39.59999847
+Addis Ababa,Maximum Temperature of Warmest Month,2018,23.60000038
+Richmond,Maximum Temperature of Warmest Month,2018,31.60000038
+Banjul,Maximum Temperature of Warmest Month,2018,32.70000076
+Changsha,Maximum Temperature of Warmest Month,2018,33.40000153
+Jeddah,Maximum Temperature of Warmest Month,2018,38.09999847
+La Paz,Maximum Temperature of Warmest Month,2018,18.79999924
+Harbin,Maximum Temperature of Warmest Month,2018,27.39999962
+Rawalpindi,Maximum Temperature of Warmest Month,2018,39.20000076
+Yamoussoukro,Maximum Temperature of Warmest Month,2018,32.59999847
+Charlotte,Maximum Temperature of Warmest Month,2018,32.29999924
+Guiyang,Maximum Temperature of Warmest Month,2018,27.89999962
+Windhoek,Maximum Temperature of Warmest Month,2018,31.70000076
+Glasgow,Maximum Temperature of Warmest Month,2018,18
+Wuhan,Maximum Temperature of Warmest Month,2018,32.90000153
+Tripoli,Maximum Temperature of Warmest Month,2018,30.79999924
+Batumi,Maximum Temperature of Warmest Month,2018,26.79999924
+Ciudad Juarez,Maximum Temperature of Warmest Month,2018,35.5
+Jakarta,Maximum Temperature of Warmest Month,2018,32.20000076
+Bridgeport,Maximum Temperature of Warmest Month,2018,28.20000076
+Porto,Maximum Temperature of Warmest Month,2018,24.20000076
+Atlanta,Maximum Temperature of Warmest Month,2018,32.29999924
+Ouagadougou,Maximum Temperature of Warmest Month,2018,38.20000076
+Teresina,Maximum Temperature of Warmest Month,2018,35.90000153
+Rabat,Maximum Temperature of Warmest Month,2018,26.89999962
+Lilongwe,Maximum Temperature of Warmest Month,2018,29.60000038
+Bangkok,Maximum Temperature of Warmest Month,2018,34.09999847
+Palembang,Maximum Temperature of Warmest Month,2018,32.09999847
+Rosario,Maximum Temperature of Warmest Month,2018,29.10000038
+Cali,Maximum Temperature of Warmest Month,2018,29.70000076
+Kolkata,Maximum Temperature of Warmest Month,2018,34.59999847
+Monaco,Maximum Temperature of Warmest Month,2018,26
+Conakry,Maximum Temperature of Warmest Month,2018,33.29999924
+Medina,Maximum Temperature of Warmest Month,2018,43.09999847
+Hangzhou,Maximum Temperature of Warmest Month,2018,32.79999924
+Alexandria,Maximum Temperature of Warmest Month,2018,30.5
+Malabo,Maximum Temperature of Warmest Month,2018,29.5
+Goiania,Maximum Temperature of Warmest Month,2018,30.79999924
+Harare,Maximum Temperature of Warmest Month,2018,27.89999962
+Cordoba,Maximum Temperature of Warmest Month,2018,29.29999924
+Santa Cruz,Maximum Temperature of Warmest Month,2018,31.5
+Hanoi,Maximum Temperature of Warmest Month,2018,32.70000076
+Islamabad,Maximum Temperature of Warmest Month,2018,39.40000153
+Natal,Maximum Temperature of Warmest Month,2018,30.29999924
+Paramaribo,Maximum Temperature of Warmest Month,2018,32.29999924
+Sapporo,Maximum Temperature of Warmest Month,2018,25.89999962
+Zibo,Maximum Temperature of Warmest Month,2018,31.89999962
+Kuala Lumpur,Maximum Temperature of Warmest Month,2018,32
+Mexicali,Maximum Temperature of Warmest Month,2018,41.40000153
+Chengdu,Maximum Temperature of Warmest Month,2018,29
+Haifa,Maximum Temperature of Warmest Month,2018,30.70000076
+Nouakchott,Maximum Temperature of Warmest Month,2018,35.40000153
+Auckland,Maximum Temperature of Warmest Month,2018,23.79999924
+Nicosia,Maximum Temperature of Warmest Month,2018,35.59999847
+Santiago,Maximum Temperature of Warmest Month,2018,28.79999924
+Khartoum,Maximum Temperature of Warmest Month,2018,41.40000153
+Faisalabad,Maximum Temperature of Warmest Month,2018,40.79999924
+Rajshahi,Maximum Temperature of Warmest Month,2018,34.79999924
+Seoul,Maximum Temperature of Warmest Month,2018,29.79999924
+Bogor,Maximum Temperature of Warmest Month,2018,31.10000038
+Panama City,Maximum Temperature of Warmest Month,2018,31.60000038
+Chennai,Maximum Temperature of Warmest Month,2018,37.40000153
+Bucaramanga,Maximum Temperature of Warmest Month,2018,28.20000076
+Guayaquil,Maximum Temperature of Warmest Month,2018,30.79999924
+Mogadishu,Maximum Temperature of Warmest Month,2018,31.89999962
+Dubai,Maximum Temperature of Warmest Month,2018,40
+Kelang,Maximum Temperature of Warmest Month,2018,32
+Salvador,Maximum Temperature of Warmest Month,2018,29.60000038
+Douala,Maximum Temperature of Warmest Month,2018,31.29999924
+Arequipa,Maximum Temperature of Warmest Month,2018,23.39999962
+Valencia,Maximum Temperature of Warmest Month,2018,30.39999962
+Bissau,Maximum Temperature of Warmest Month,2018,32.79999924
+Sao Tome,Maximum Temperature of Warmest Month,2018,29.29999924
+Brasilia,Maximum Temperature of Warmest Month,2018,28.10000038
+Shanghai,Maximum Temperature of Warmest Month,2018,31.70000076
+Vientiane,Maximum Temperature of Warmest Month,2018,33.59999847
+Buenos Aires,Maximum Temperature of Warmest Month,2018,27.89999962
+Port-au-Prince,Maximum Temperature of Warmest Month,2018,33.5
+Montevideo,Maximum Temperature of Warmest Month,2018,26.79999924
+Shijianzhuang,Maximum Temperature of Warmest Month,2018,32.20000076
+Providence,Maximum Temperature of Warmest Month,2018,28.39999962
+Mbuji-Mayi,Maximum Temperature of Warmest Month,2018,32.5
+Georgetown,Maximum Temperature of Warmest Month,2018,31.10000038
+Orlando,Maximum Temperature of Warmest Month,2018,33.20000076
+Khulna,Maximum Temperature of Warmest Month,2018,33.90000153
+Cape Town,Maximum Temperature of Warmest Month,2018,25.29999924
+Haiphong,Maximum Temperature of Warmest Month,2018,32.29999924
+Reykjavik,Maximum Temperature of Warmest Month,2018,13.10000038
+Mendoza,Maximum Temperature of Warmest Month,2018,31.20000076
+Changchun,Maximum Temperature of Warmest Month,2018,27.79999924
+Porto Alegre,Maximum Temperature of Warmest Month,2018,28.79999924
+Joao Pessoa,Maximum Temperature of Warmest Month,2018,30.39999962
+Port Harcourt,Maximum Temperature of Warmest Month,2018,31.39999962
+Monrovia,Maximum Temperature of Warmest Month,2018,31.29999924
+Fuzhou,Maximum Temperature of Warmest Month,2018,32.5
+Dhaka,Maximum Temperature of Warmest Month,2018,33.90000153
+Davao,Maximum Temperature of Warmest Month,2018,32.29999924
+Nanjing,Maximum Temperature of Warmest Month,2018,32.29999924
+Taizz,Maximum Temperature of Warmest Month,2018,33.79999924
+Hiroshima,Maximum Temperature of Warmest Month,2018,31.60000038
+Jacksonville,Maximum Temperature of Warmest Month,2018,33.70000076
+Phoenix,Maximum Temperature of Warmest Month,2018,41.20000076
+Pyongyang,Maximum Temperature of Warmest Month,2018,29.70000076
+Libreville,Maximum Temperature of Warmest Month,2018,30.29999924
+Phnom Penh,Maximum Temperature of Warmest Month,2018,34.29999924
+Qingdao,Maximum Temperature of Warmest Month,2018,29.29999924
+Ponta Delgada,Maximum Temperature of Warmest Month,2018,25
+Hamilton,Maximum Temperature of Warmest Month,2018,29.60000038
+Yaounde,Maximum Temperature of Warmest Month,2018,29.60000038
+Bandar Lampung,Maximum Temperature of Warmest Month,2018,31.20000076
+Hargeysa,Maximum Temperature of Warmest Month,2018,31.70000076
+Zhengzhou,Maximum Temperature of Warmest Month,2018,32.70000076
+Johor Bahru,Maximum Temperature of Warmest Month,2018,31
+Medan,Maximum Temperature of Warmest Month,2018,32.40000153
+Kuwait,Maximum Temperature of Warmest Month,2018,43.59999847
+Multan,Maximum Temperature of Warmest Month,2018,42.79999924
+Peshawar,Maximum Temperature of Warmest Month,2018,40.90000153
+Incheon,Maximum Temperature of Warmest Month,2018,29.79999924
+Cartagena,Maximum Temperature of Warmest Month,2018,31.70000076
+Fukuoka,Maximum Temperature of Warmest Month,2018,31.70000076
+Saint George's,Maximum Temperature of Warmest Month,2018,31.20000076
+Shenyeng,Maximum Temperature of Warmest Month,2018,29.70000076
+Vitoria,Maximum Temperature of Warmest Month,2018,31.20000076
+Goyang,Maximum Temperature of Warmest Month,2018,30.20000076
+New Orleans,Maximum Temperature of Warmest Month,2018,33.70000076
+Benin City,Maximum Temperature of Warmest Month,2018,32.09999847
+Colombo,Maximum Temperature of Warmest Month,2018,31.29999924
+Houston,Maximum Temperature of Warmest Month,2018,34.29999924
+Stanley,Maximum Temperature of Warmest Month,2018,12.19999981
+Ibadan,Maximum Temperature of Warmest Month,2018,33.5
+Makkah,Maximum Temperature of Warmest Month,2018,42.5
+Port Moresby,Maximum Temperature of Warmest Month,2018,32
+Recife,Maximum Temperature of Warmest Month,2018,30
+Porto-Novo,Maximum Temperature of Warmest Month,2018,32.29999924
+Singapore,Maximum Temperature of Warmest Month,2018,30.89999962
+Tianjin,Maximum Temperature of Warmest Month,2018,31
+Putrajaya,Maximum Temperature of Warmest Month,2018,32.40000153
+Beijing,Maximum Temperature of Warmest Month,2018,31.29999924
+Nagoya,Maximum Temperature of Warmest Month,2018,32.29999924
+Tokyo,Maximum Temperature of Warmest Month,2018,30.5
+Sri Jawewardenepura Kotte,Maximum Temperature of Warmest Month,2018,31.60000038
+Pekanbaru,Maximum Temperature of Warmest Month,2018,32.40000153
+Funchal,Maximum Temperature of Warmest Month,2018,25
+Algiers,Maximum Temperature of Warmest Month,2018,30.70000076
+Sao Luis,Maximum Temperature of Warmest Month,2018,31.79999924
+Sucre,Maximum Temperature of Warmest Month,2018,25.29999924
+Bandung,Maximum Temperature of Warmest Month,2018,29.39999962
+Zamboanga,Maximum Temperature of Warmest Month,2018,32
+Malang,Maximum Temperature of Warmest Month,2018,30.20000076
+Accra,Maximum Temperature of Warmest Month,2018,32.09999847
+Dili,Maximum Temperature of Warmest Month,2018,32.09999847
+Hims,Maximum Temperature of Warmest Month,2018,33.09999847
+Kyoto,Maximum Temperature of Warmest Month,2018,32.59999847
+Virginia Beach,Maximum Temperature of Warmest Month,2018,30.89999962
+Suva,Maximum Temperature of Warmest Month,2018,29.5
+Gaza,Maximum Temperature of Warmest Month,2018,31
+Kinshasa,Maximum Temperature of Warmest Month,2018,32.29999924
+Sendai,Maximum Temperature of Warmest Month,2018,28.39999962
+Padang,Maximum Temperature of Warmest Month,2018,31.70000076
+Laayoune,Maximum Temperature of Warmest Month,2018,29.70000076
+Havana,Maximum Temperature of Warmest Month,2018,32.40000153
+Kananga,Maximum Temperature of Warmest Month,2018,32.29999924
+Port Louis,Maximum Temperature of Warmest Month,2018,30
+Cotonou,Maximum Temperature of Warmest Month,2018,31.79999924
+Muscat,Maximum Temperature of Warmest Month,2018,38.79999924
+Macau,Maximum Temperature of Warmest Month,2018,31.89999962
+Joinville,Maximum Temperature of Warmest Month,2018,29
+Caracas,Maximum Temperature of Warmest Month,2018,27.39999962
+Pago Pago,Maximum Temperature of Warmest Month,2018,29.89999962
+George Town,Maximum Temperature of Warmest Month,2018,31.89999962
+Lome,Maximum Temperature of Warmest Month,2018,32.09999847
+Suwon,Maximum Temperature of Warmest Month,2018,30.5
+Willemstad,Maximum Temperature of Warmest Month,2018,31.60000038
+Johannesburg,Maximum Temperature of Warmest Month,2018,26.70000076
+Dalian,Maximum Temperature of Warmest Month,2018,28.5
+Nampo,Maximum Temperature of Warmest Month,2018,29.10000038
+Barranquilla,Maximum Temperature of Warmest Month,2018,32.70000076
+Casablanca,Maximum Temperature of Warmest Month,2018,27.39999962
+Gwangju,Maximum Temperature of Warmest Month,2018,31.70000076
+Guangzhou,Maximum Temperature of Warmest Month,2018,33.09999847
+Jinxi,Maximum Temperature of Warmest Month,2018,29.20000076
+Lagos,Maximum Temperature of Warmest Month,2018,31.89999962
+Noumea,Maximum Temperature of Warmest Month,2018,29.39999962
+Dongguan,Maximum Temperature of Warmest Month,2018,33
+Maputo,Maximum Temperature of Warmest Month,2018,31
+Kampala,Maximum Temperature of Warmest Month,2018,28.79999924
+Antananarivo,Maximum Temperature of Warmest Month,2018,27.89999962
+Port Vila,Maximum Temperature of Warmest Month,2018,29.89999962
+Valparaiso,Maximum Temperature of Warmest Month,2018,23.39999962
+Agana,Maximum Temperature of Warmest Month,2018,31
+Nanning,Maximum Temperature of Warmest Month,2018,33.20000076
+Cebu,Maximum Temperature of Warmest Month,2018,33.29999924
+Daejeon,Maximum Temperature of Warmest Month,2018,31.29999924
+Praia,Maximum Temperature of Warmest Month,2018,30.70000076
+Kunming,Maximum Temperature of Warmest Month,2018,25.10000038
+Nukualofa,Maximum Temperature of Warmest Month,2018,29.70000076
+Surabaya,Maximum Temperature of Warmest Month,2018,33.40000153
+Grand Turk,Maximum Temperature of Warmest Month,2018,31.79999924
+Almaty,Maximum Temperature of Warmest Month,2018,30.5
+Taipei,Maximum Temperature of Warmest Month,2018,32.09999847
+Bandar Seri Begawan,Maximum Temperature of Warmest Month,2018,31.79999924
+Roseau,Maximum Temperature of Warmest Month,2018,31.79999924
+Dar es Salaam,Maximum Temperature of Warmest Month,2018,32
+Basseterre,Maximum Temperature of Warmest Month,2018,31.10000038
+Merida,Maximum Temperature of Warmest Month,2018,34.40000153
+Huambo,Maximum Temperature of Warmest Month,2018,29.89999962
+Osaka,Maximum Temperature of Warmest Month,2018,33
+Melekeok,Maximum Temperature of Warmest Month,2018,31.70000076
+Oranjestad,Maximum Temperature of Warmest Month,2018,32.5
+Palikir,Maximum Temperature of Warmest Month,2018,31.10000038
+Basra,Maximum Temperature of Warmest Month,2018,43.40000153
+Daegu,Maximum Temperature of Warmest Month,2018,31.89999962
+Chittagong,Maximum Temperature of Warmest Month,2018,32.90000153
+Papeete,Maximum Temperature of Warmest Month,2018,30.60000038
+Shenzhen,Maximum Temperature of Warmest Month,2018,32.59999847
+Kingston,Maximum Temperature of Warmest Month,2018,32
+Saint John's,Maximum Temperature of Warmest Month,2018,31.10000038
+Maceio,Maximum Temperature of Warmest Month,2018,30.10000038
+Tampa,Maximum Temperature of Warmest Month,2018,33.70000076
+Xiamen,Maximum Temperature of Warmest Month,2018,32.29999924
+Fortaleza,Maximum Temperature of Warmest Month,2018,31
+Honiara,Maximum Temperature of Warmest Month,2018,31.10000038
+Ad Damman,Maximum Temperature of Warmest Month,2018,40.90000153
+Brisbane,Maximum Temperature of Warmest Month,2018,30.39999962
+San Francisco,Maximum Temperature of Warmest Month,2018,22.5
+Tainan,Maximum Temperature of Warmest Month,2018,32.70000076
+Busan,Maximum Temperature of Warmest Month,2018,29.89999962
+Bloemfontein,Maximum Temperature of Warmest Month,2018,31.39999962
+Maseru,Maximum Temperature of Warmest Month,2018,29.5
+Kaohsiung,Maximum Temperature of Warmest Month,2018,31.60000038
+Miami,Maximum Temperature of Warmest Month,2018,32.40000153
+Belo Horizonte,Maximum Temperature of Warmest Month,2018,30
+Belmopan,Maximum Temperature of Warmest Month,2018,32.79999924
+Sydney,Maximum Temperature of Warmest Month,2018,27.5
+Ulsan,Maximum Temperature of Warmest Month,2018,31.29999924
+Taichung,Maximum Temperature of Warmest Month,2018,32.29999924
+Pretoria,Maximum Temperature of Warmest Month,2018,30.89999962
+Los Angeles,Maximum Temperature of Warmest Month,2018,31.29999924
+Curitiba,Maximum Temperature of Warmest Month,2018,26.89999962
+Tijuana,Maximum Temperature of Warmest Month,2018,28.10000038
+Rio de Janeiro,Maximum Temperature of Warmest Month,2018,31.10000038
+Hong Kong,Maximum Temperature of Warmest Month,2018,32.40000153
+Campinas,Maximum Temperature of Warmest Month,2018,29.29999924
+Freetown,Maximum Temperature of Warmest Month,2018,31.60000038
+Florianopolis,Maximum Temperature of Warmest Month,2018,29.20000076
+Benoni,Maximum Temperature of Warmest Month,2018,27.89999962
+Luanda,Maximum Temperature of Warmest Month,2018,31.29999924
+Sao Paulo,Maximum Temperature of Warmest Month,2018,28
+Mbabane,Maximum Temperature of Warmest Month,2018,26.60000038
+Asmara,Maximum Temperature of Warmest Month,2018,28.60000038
+Kathmandu,Maximum Temperature of Warmest Month,2018,30.5
+Gaborone,Maximum Temperature of Warmest Month,2018,35.09999847
+Dakar,Maximum Temperature of Warmest Month,2018,32.90000153
+Durban,Maximum Temperature of Warmest Month,2018,29.79999924
+Vereeniging,Maximum Temperature of Warmest Month,2018,31.10000038
+Oran,Maximum Temperature of Warmest Month,2018,31.20000076
+Port Elizabeth,Maximum Temperature of Warmest Month,2018,27.39999962
+San Diego,Maximum Temperature of Warmest Month,2018,29.20000076
+Santos,Maximum Temperature of Warmest Month,2018,31.20000076
+Ljubljana,Maximum Temperature of Warmest Month,2050,31.6
+Belgrade,Maximum Temperature of Warmest Month,2050,33.73333333
+Novi Sad,Maximum Temperature of Warmest Month,2050,33.43333333
+Budapest,Maximum Temperature of Warmest Month,2050,32.2
+Turin,Maximum Temperature of Warmest Month,2050,34.33333333
+Yerevan,Maximum Temperature of Warmest Month,2050,36.6
+Vienna,Maximum Temperature of Warmest Month,2050,30.96666667
+Bratislava,Maximum Temperature of Warmest Month,2050,31.06666667
+Banja Luka,Maximum Temperature of Warmest Month,2050,32.63333333
+Fez,Maximum Temperature of Warmest Month,2050,39.3
+Zagreb,Maximum Temperature of Warmest Month,2050,31.9
+Milan,Maximum Temperature of Warmest Month,2050,34.3
+Tbilisi,Maximum Temperature of Warmest Month,2050,35.63333333
+Rostov,Maximum Temperature of Warmest Month,2050,33.23333333
+Konya,Maximum Temperature of Warmest Month,2050,34.2
+Podgorica,Maximum Temperature of Warmest Month,2050,36.76666667
+Marrakesh,Maximum Temperature of Warmest Month,2050,40.96666667
+Skopje,Maximum Temperature of Warmest Month,2050,34.93333333
+Dnipro,Maximum Temperature of Warmest Month,2050,31.93333333
+Bucharest,Maximum Temperature of Warmest Month,2050,33.53333333
+Sarajevo,Maximum Temperature of Warmest Month,2050,31.3
+Lyon,Maximum Temperature of Warmest Month,2050,30.96666667
+Kiev,Maximum Temperature of Warmest Month,2050,29.56666667
+Prague,Maximum Temperature of Warmest Month,2050,28.86666667
+Warsaw,Maximum Temperature of Warmest Month,2050,28.43333333
+Qom,Maximum Temperature of Warmest Month,2050,43.16666667
+Pristina,Maximum Temperature of Warmest Month,2050,31.46666667
+Karaj,Maximum Temperature of Warmest Month,2050,38.26666667
+Ankara,Maximum Temperature of Warmest Month,2050,34.63333333
+Madrid,Maximum Temperature of Warmest Month,2050,35.8
+Portland,Maximum Temperature of Warmest Month,2050,30.03333333
+Mosul,Maximum Temperature of Warmest Month,2050,46.23333333
+Jerusalem,Maximum Temperature of Warmest Month,2050,33.56666667
+Manchester,Maximum Temperature of Warmest Month,2050,25.13333333
+Tehran,Maximum Temperature of Warmest Month,2050,40.63333333
+Sofia,Maximum Temperature of Warmest Month,2050,31.03333333
+Berlin,Maximum Temperature of Warmest Month,2050,28.13333333
+Paris,Maximum Temperature of Warmest Month,2050,28.83333333
+Seattle,Maximum Temperature of Warmest Month,2050,27.5
+Gaziantep,Maximum Temperature of Warmest Month,2050,39.1
+St. Petersburg,Maximum Temperature of Warmest Month,2050,26.3
+Tashkent,Maximum Temperature of Warmest Month,2050,39.36666667
+Irbil,Maximum Temperature of Warmest Month,2050,45.46666667
+Stockholm,Maximum Temperature of Warmest Month,2050,25.73333333
+London,Maximum Temperature of Warmest Month,2050,26.93333333
+Toronto,Maximum Temperature of Warmest Month,2050,30.8
+Vilnius,Maximum Temperature of Warmest Month,2050,27.1
+Kharkiv,Maximum Temperature of Warmest Month,2050,29.66666667
+Andorra,Maximum Temperature of Warmest Month,2050,27.36666667
+Luxembourg,Maximum Temperature of Warmest Month,2050,26.86666667
+Rangoon,Maximum Temperature of Warmest Month,2050,39.06666667
+Isfahan,Maximum Temperature of Warmest Month,2050,40.33333333
+Cologne,Maximum Temperature of Warmest Month,2050,27.53333333
+Montreal,Maximum Temperature of Warmest Month,2050,31.03333333
+San Marino,Maximum Temperature of Warmest Month,2050,32.23333333
+Minsk,Maximum Temperature of Warmest Month,2050,27.3
+Athens,Maximum Temperature of Warmest Month,2050,36.3
+Minneapolis,Maximum Temperature of Warmest Month,2050,32.96666667
+Ottawa,Maximum Temperature of Warmest Month,2050,30.26666667
+Vaduz,Maximum Temperature of Warmest Month,2050,27.86666667
+Columbus,Maximum Temperature of Warmest Month,2050,34.03333333
+Zurich,Maximum Temperature of Warmest Month,2050,27.5
+Bursa,Maximum Temperature of Warmest Month,2050,34.1
+Oslo,Maximum Temperature of Warmest Month,2050,25.1
+Chisinau,Maximum Temperature of Warmest Month,2050,30.7
+Indianapolis,Maximum Temperature of Warmest Month,2050,34.46666667
+Sacramento,Maximum Temperature of Warmest Month,2050,36.46666667
+Pittsburgh,Maximum Temperature of Warmest Month,2050,33.56666667
+Amman,Maximum Temperature of Warmest Month,2050,35.33333333
+St. Louis,Maximum Temperature of Warmest Month,2050,36.53333333
+Rome,Maximum Temperature of Warmest Month,2050,34.13333333
+Moscow,Maximum Temperature of Warmest Month,2050,27.73333333
+Aguascalientes,Maximum Temperature of Warmest Month,2050,34.3
+Cincinnati,Maximum Temperature of Warmest Month,2050,35
+Salt Lake City,Maximum Temperature of Warmest Month,2050,36.76666667
+Cleveland,Maximum Temperature of Warmest Month,2050,32.46666667
+Hamburg,Maximum Temperature of Warmest Month,2050,26.23333333
+Detroit,Maximum Temperature of Warmest Month,2050,32.3
+Baltimore,Maximum Temperature of Warmest Month,2050,35.63333333
+Buffalo,Maximum Temperature of Warmest Month,2050,30.63333333
+Vatican City,Maximum Temperature of Warmest Month,2050,33.83333333
+Djibouti,Maximum Temperature of Warmest Month,2050,43.23333333
+Dushanbe,Maximum Temperature of Warmest Month,2050,39.06666667
+Mariehamn,Maximum Temperature of Warmest Month,2050,22.76666667
+Brussels,Maximum Temperature of Warmest Month,2050,26.53333333
+Marseille,Maximum Temperature of Warmest Month,2050,31.63333333
+Louisville,Maximum Temperature of Warmest Month,2050,36
+San Luis Potosi,Maximum Temperature of Warmest Month,2050,33.4
+Naypyidaw,Maximum Temperature of Warmest Month,2050,40.1
+Helsinki,Maximum Temperature of Warmest Month,2050,24.46666667
+Chongqing,Maximum Temperature of Warmest Month,2050,36.03333333
+Tallinn,Maximum Temperature of Warmest Month,2050,24.73333333
+Urumqi,Maximum Temperature of Warmest Month,2050,33.73333333
+Baku,Maximum Temperature of Warmest Month,2050,33.33333333
+Aleppo,Maximum Temperature of Warmest Month,2050,39.43333333
+Kobenhavn,Maximum Temperature of Warmest Month,2050,24.7
+Pune,Maximum Temperature of Warmest Month,2050,39.23333333
+Izmir,Maximum Temperature of Warmest Month,2050,36.83333333
+San Salvador,Maximum Temperature of Warmest Month,2050,34.53333333
+Bern,Maximum Temperature of Warmest Month,2050,27.2
+Nagpur,Maximum Temperature of Warmest Month,2050,45.1
+Riga,Maximum Temperature of Warmest Month,2050,25.13333333
+Lille,Maximum Temperature of Warmest Month,2050,25.7
+Sukhumi,Maximum Temperature of Warmest Month,2050,31.3
+Nashville,Maximum Temperature of Warmest Month,2050,37
+Ilorin,Maximum Temperature of Warmest Month,2050,37.96666667
+Riyadh,Maximum Temperature of Warmest Month,2050,45.66666667
+Guadalajara,Maximum Temperature of Warmest Month,2050,35.86666667
+Leeds,Maximum Temperature of Warmest Month,2050,23.36666667
+Ramallah,Maximum Temperature of Warmest Month,2050,32.46666667
+Munich,Maximum Temperature of Warmest Month,2050,27.06666667
+Cuiaba,Maximum Temperature of Warmest Month,2050,37.1
+Kansas City,Maximum Temperature of Warmest Month,2050,36.16666667
+Xian,Maximum Temperature of Warmest Month,2050,35.66666667
+Memphis,Maximum Temperature of Warmest Month,2050,37.53333333
+Chicago,Maximum Temperature of Warmest Month,2050,32.93333333
+Nairobi,Maximum Temperature of Warmest Month,2050,29.13333333
+Ahvaz,Maximum Temperature of Warmest Month,2050,48.7
+Adelaide,Maximum Temperature of Warmest Month,2050,30.3
+Perth,Maximum Temperature of Warmest Month,2050,32.5
+Baghdad,Maximum Temperature of Warmest Month,2050,46.8
+Cardiff,Maximum Temperature of Warmest Month,2050,24.16666667
+Philadelphia,Maximum Temperature of Warmest Month,2050,33.66666667
+Adana,Maximum Temperature of Warmest Month,2050,37.86666667
+Queretaro,Maximum Temperature of Warmest Month,2050,33.1
+Wellington,Maximum Temperature of Warmest Month,2050,24
+Birmingham,Maximum Temperature of Warmest Month,2050,23.56666667
+Belem,Maximum Temperature of Warmest Month,2050,35.36666667
+Edinburgh,Maximum Temperature of Warmest Month,2050,21.96666667
+Bir Lehlou,Maximum Temperature of Warmest Month,2050,44.03333333
+Kigali,Maximum Temperature of Warmest Month,2050,30.13333333
+Hartford,Maximum Temperature of Warmest Month,2050,32.33333333
+Milwaukee,Maximum Temperature of Warmest Month,2050,31.2
+"Washington, D.C.",Maximum Temperature of Warmest Month,2050,34.8
+Mexico City,Maximum Temperature of Warmest Month,2050,30.16666667
+Kermanshah,Maximum Temperature of Warmest Month,2050,39.03333333
+Jaipur,Maximum Temperature of Warmest Month,2050,43
+Tabriz,Maximum Temperature of Warmest Month,2050,34.83333333
+Samara,Maximum Temperature of Warmest Month,2050,30.03333333
+San Bernardino,Maximum Temperature of Warmest Month,2050,38.03333333
+Mandalay,Maximum Temperature of Warmest Month,2050,39.73333333
+Leon,Maximum Temperature of Warmest Month,2050,34.5
+Canberra,Maximum Temperature of Warmest Month,2050,29.6
+Tunis,Maximum Temperature of Warmest Month,2050,35.1
+Torreon,Maximum Temperature of Warmest Month,2050,39.56666667
+New York,Maximum Temperature of Warmest Month,2050,32.46666667
+Hyderabad,Maximum Temperature of Warmest Month,2050,41.86666667
+Hyderabad,Maximum Temperature of Warmest Month,2050,41.86666667
+Las Vegas,Maximum Temperature of Warmest Month,2050,42.36666667
+Indore,Maximum Temperature of Warmest Month,2050,42.53333333
+Manaus,Maximum Temperature of Warmest Month,2050,36.23333333
+Semarang,Maximum Temperature of Warmest Month,2050,35.93333333
+Nanchong,Maximum Temperature of Warmest Month,2050,34.53333333
+Asuncion,Maximum Temperature of Warmest Month,2050,36.13333333
+Denver,Maximum Temperature of Warmest Month,2050,34.13333333
+Juba,Maximum Temperature of Warmest Month,2050,39.33333333
+Bangui,Maximum Temperature of Warmest Month,2050,36
+Manila,Maximum Temperature of Warmest Month,2050,35.8
+Lanzhou,Maximum Temperature of Warmest Month,2050,31.6
+Niamey,Maximum Temperature of Warmest Month,2050,43.66666667
+Lubumbashi,Maximum Temperature of Warmest Month,2050,34.76666667
+Austin,Maximum Temperature of Warmest Month,2050,38.86666667
+Dallas,Maximum Temperature of Warmest Month,2050,39.26666667
+Calgary,Maximum Temperature of Warmest Month,2050,26.83333333
+Puebla,Maximum Temperature of Warmest Month,2050,30.43333333
+Melbourne,Maximum Temperature of Warmest Month,2050,28.2
+Ashgabat,Maximum Temperature of Warmest Month,2050,40.36666667
+Ogbomosho,Maximum Temperature of Warmest Month,2050,36.56666667
+Bishkek,Maximum Temperature of Warmest Month,2050,34.46666667
+Gujranwala,Maximum Temperature of Warmest Month,2050,43.53333333
+Quito,Maximum Temperature of Warmest Month,2050,23.33333333
+Taiyuan,Maximum Temperature of Warmest Month,2050,33.1
+Ahmedabad,Maximum Temperature of Warmest Month,2050,43.2
+Patna,Maximum Temperature of Warmest Month,2050,40.26666667
+Kano,Maximum Temperature of Warmest Month,2050,40.46666667
+Tel Aviv-Yafo,Maximum Temperature of Warmest Month,2050,34.66666667
+Beirut,Maximum Temperature of Warmest Month,2050,34.36666667
+Lusaka,Maximum Temperature of Warmest Month,2050,33.86666667
+Ndjamena,Maximum Temperature of Warmest Month,2050,42.93333333
+Guatemala,Maximum Temperature of Warmest Month,2050,29.13333333
+Brazzaville,Maximum Temperature of Warmest Month,2050,34.33333333
+Ho Chi Minh City,Maximum Temperature of Warmest Month,2050,36.4
+Surat,Maximum Temperature of Warmest Month,2050,39.4
+Al Hudaydah,Maximum Temperature of Warmest Month,2050,40.6
+Bangalore,Maximum Temperature of Warmest Month,2050,36.3
+Kaduna,Maximum Temperature of Warmest Month,2050,37.3
+Kabul,Maximum Temperature of Warmest Month,2050,35.86666667
+Zaria,Maximum Temperature of Warmest Month,2050,37.36666667
+Bamako,Maximum Temperature of Warmest Month,2050,41.26666667
+Rotterdam,Maximum Temperature of Warmest Month,2050,23.83333333
+Valletta,Maximum Temperature of Warmest Month,2050,33.13333333
+San Antonio,Maximum Temperature of Warmest Month,2050,38.43333333
+Bujumbura,Maximum Temperature of Warmest Month,2050,33.8
+Maracay,Maximum Temperature of Warmest Month,2050,34.3
+Mashhad,Maximum Temperature of Warmest Month,2050,36
+Kanpur,Maximum Temperature of Warmest Month,2050,43.4
+Tirana,Maximum Temperature of Warmest Month,2050,33.26666667
+Belfast,Maximum Temperature of Warmest Month,2050,21.06666667
+New Delhi,Maximum Temperature of Warmest Month,2050,42.86666667
+Abidjan,Maximum Temperature of Warmest Month,2050,33.93333333
+Tegucigalpa,Maximum Temperature of Warmest Month,2050,31.93333333
+Doha,Maximum Temperature of Warmest Month,2050,43.63333333
+Kumasi,Maximum Temperature of Warmest Month,2050,35.13333333
+Toluca,Maximum Temperature of Warmest Month,2050,26.63333333
+Delhi,Maximum Temperature of Warmest Month,2050,42.83333333
+Barcelona,Maximum Temperature of Warmest Month,2050,30.9
+Amsterdam,Maximum Temperature of Warmest Month,2050,23.5
+Istanbul,Maximum Temperature of Warmest Month,2050,30
+Abuja,Maximum Temperature of Warmest Month,2050,36.46666667
+Monterrey,Maximum Temperature of Warmest Month,2050,37.66666667
+Boston,Maximum Temperature of Warmest Month,2050,31.36666667
+Dodoma,Maximum Temperature of Warmest Month,2050,33.86666667
+The Hague,Maximum Temperature of Warmest Month,2050,23.13333333
+Dublin,Maximum Temperature of Warmest Month,2050,22.03333333
+Jinan,Maximum Temperature of Warmest Month,2050,35.03333333
+Mombasa,Maximum Temperature of Warmest Month,2050,34.7
+Lisbon,Maximum Temperature of Warmest Month,2050,29.3
+Lucknow,Maximum Temperature of Warmest Month,2050,42.86666667
+Addis Ababa,Maximum Temperature of Warmest Month,2050,26.86666667
+Richmond,Maximum Temperature of Warmest Month,2050,34.86666667
+Banjul,Maximum Temperature of Warmest Month,2050,35.96666667
+Changsha,Maximum Temperature of Warmest Month,2050,36.66666667
+Jeddah,Maximum Temperature of Warmest Month,2050,41.33333333
+La Paz,Maximum Temperature of Warmest Month,2050,22.03333333
+Harbin,Maximum Temperature of Warmest Month,2050,30.63333333
+Rawalpindi,Maximum Temperature of Warmest Month,2050,42.43333333
+Yamoussoukro,Maximum Temperature of Warmest Month,2050,35.8
+Charlotte,Maximum Temperature of Warmest Month,2050,35.5
+Guiyang,Maximum Temperature of Warmest Month,2050,31.1
+Windhoek,Maximum Temperature of Warmest Month,2050,34.9
+Glasgow,Maximum Temperature of Warmest Month,2050,21.16666667
+Wuhan,Maximum Temperature of Warmest Month,2050,36.06666667
+Tripoli,Maximum Temperature of Warmest Month,2050,33.93333333
+Batumi,Maximum Temperature of Warmest Month,2050,29.93333333
+Ciudad Juarez,Maximum Temperature of Warmest Month,2050,38.63333333
+Jakarta,Maximum Temperature of Warmest Month,2050,35.33333333
+Bridgeport,Maximum Temperature of Warmest Month,2050,31.33333333
+Porto,Maximum Temperature of Warmest Month,2050,27.33333333
+Atlanta,Maximum Temperature of Warmest Month,2050,35.4
+Ouagadougou,Maximum Temperature of Warmest Month,2050,41.3
+Teresina,Maximum Temperature of Warmest Month,2050,39
+Rabat,Maximum Temperature of Warmest Month,2050,29.96666667
+Lilongwe,Maximum Temperature of Warmest Month,2050,32.66666667
+Bangkok,Maximum Temperature of Warmest Month,2050,37.13333333
+Palembang,Maximum Temperature of Warmest Month,2050,35.13333333
+Rosario,Maximum Temperature of Warmest Month,2050,32.13333333
+Cali,Maximum Temperature of Warmest Month,2050,32.73333333
+Kolkata,Maximum Temperature of Warmest Month,2050,37.6
+Monaco,Maximum Temperature of Warmest Month,2050,29
+Conakry,Maximum Temperature of Warmest Month,2050,36.26666667
+Medina,Maximum Temperature of Warmest Month,2050,46.03333333
+Hangzhou,Maximum Temperature of Warmest Month,2050,35.73333333
+Alexandria,Maximum Temperature of Warmest Month,2050,33.43333333
+Malabo,Maximum Temperature of Warmest Month,2050,32.43333333
+Goiania,Maximum Temperature of Warmest Month,2050,33.7
+Harare,Maximum Temperature of Warmest Month,2050,30.8
+Cordoba,Maximum Temperature of Warmest Month,2050,32.16666667
+Santa Cruz,Maximum Temperature of Warmest Month,2050,34.36666667
+Hanoi,Maximum Temperature of Warmest Month,2050,35.56666667
+Islamabad,Maximum Temperature of Warmest Month,2050,42.26666667
+Natal,Maximum Temperature of Warmest Month,2050,33.13333333
+Paramaribo,Maximum Temperature of Warmest Month,2050,35.13333333
+Sapporo,Maximum Temperature of Warmest Month,2050,28.73333333
+Zibo,Maximum Temperature of Warmest Month,2050,34.73333333
+Kuala Lumpur,Maximum Temperature of Warmest Month,2050,34.83333333
+Mexicali,Maximum Temperature of Warmest Month,2050,44.23333333
+Chengdu,Maximum Temperature of Warmest Month,2050,31.8
+Haifa,Maximum Temperature of Warmest Month,2050,33.5
+Nouakchott,Maximum Temperature of Warmest Month,2050,38.16666667
+Auckland,Maximum Temperature of Warmest Month,2050,26.53333333
+Nicosia,Maximum Temperature of Warmest Month,2050,38.26666667
+Santiago,Maximum Temperature of Warmest Month,2050,31.46666667
+Khartoum,Maximum Temperature of Warmest Month,2050,44.06666667
+Faisalabad,Maximum Temperature of Warmest Month,2050,43.43333333
+Rajshahi,Maximum Temperature of Warmest Month,2050,37.43333333
+Seoul,Maximum Temperature of Warmest Month,2050,32.43333333
+Bogor,Maximum Temperature of Warmest Month,2050,33.73333333
+Panama City,Maximum Temperature of Warmest Month,2050,34.23333333
+Chennai,Maximum Temperature of Warmest Month,2050,40.03333333
+Bucaramanga,Maximum Temperature of Warmest Month,2050,30.76666667
+Guayaquil,Maximum Temperature of Warmest Month,2050,33.33333333
+Mogadishu,Maximum Temperature of Warmest Month,2050,34.43333333
+Dubai,Maximum Temperature of Warmest Month,2050,42.53333333
+Kelang,Maximum Temperature of Warmest Month,2050,34.53333333
+Salvador,Maximum Temperature of Warmest Month,2050,32.13333333
+Douala,Maximum Temperature of Warmest Month,2050,33.8
+Arequipa,Maximum Temperature of Warmest Month,2050,25.9
+Valencia,Maximum Temperature of Warmest Month,2050,32.9
+Bissau,Maximum Temperature of Warmest Month,2050,35.26666667
+Sao Tome,Maximum Temperature of Warmest Month,2050,31.76666667
+Brasilia,Maximum Temperature of Warmest Month,2050,30.56666667
+Shanghai,Maximum Temperature of Warmest Month,2050,34.16666667
+Vientiane,Maximum Temperature of Warmest Month,2050,36.03333333
+Buenos Aires,Maximum Temperature of Warmest Month,2050,30.33333333
+Port-au-Prince,Maximum Temperature of Warmest Month,2050,35.93333333
+Montevideo,Maximum Temperature of Warmest Month,2050,29.2
+Shijianzhuang,Maximum Temperature of Warmest Month,2050,34.6
+Providence,Maximum Temperature of Warmest Month,2050,30.76666667
+Mbuji-Mayi,Maximum Temperature of Warmest Month,2050,34.86666667
+Georgetown,Maximum Temperature of Warmest Month,2050,33.46666667
+Orlando,Maximum Temperature of Warmest Month,2050,35.56666667
+Khulna,Maximum Temperature of Warmest Month,2050,36.26666667
+Cape Town,Maximum Temperature of Warmest Month,2050,27.63333333
+Haiphong,Maximum Temperature of Warmest Month,2050,34.63333333
+Reykjavik,Maximum Temperature of Warmest Month,2050,15.43333333
+Mendoza,Maximum Temperature of Warmest Month,2050,33.53333333
+Changchun,Maximum Temperature of Warmest Month,2050,30.1
+Porto Alegre,Maximum Temperature of Warmest Month,2050,31.1
+Joao Pessoa,Maximum Temperature of Warmest Month,2050,32.7
+Port Harcourt,Maximum Temperature of Warmest Month,2050,33.66666667
+Monrovia,Maximum Temperature of Warmest Month,2050,33.53333333
+Fuzhou,Maximum Temperature of Warmest Month,2050,34.73333333
+Dhaka,Maximum Temperature of Warmest Month,2050,36.13333333
+Davao,Maximum Temperature of Warmest Month,2050,34.5
+Nanjing,Maximum Temperature of Warmest Month,2050,34.5
+Taizz,Maximum Temperature of Warmest Month,2050,36
+Hiroshima,Maximum Temperature of Warmest Month,2050,33.8
+Jacksonville,Maximum Temperature of Warmest Month,2050,35.9
+Phoenix,Maximum Temperature of Warmest Month,2050,43.4
+Pyongyang,Maximum Temperature of Warmest Month,2050,31.9
+Libreville,Maximum Temperature of Warmest Month,2050,32.46666667
+Phnom Penh,Maximum Temperature of Warmest Month,2050,36.46666667
+Qingdao,Maximum Temperature of Warmest Month,2050,31.46666667
+Ponta Delgada,Maximum Temperature of Warmest Month,2050,27.16666667
+Hamilton,Maximum Temperature of Warmest Month,2050,31.76666667
+Yaounde,Maximum Temperature of Warmest Month,2050,31.76666667
+Bandar Lampung,Maximum Temperature of Warmest Month,2050,33.36666667
+Hargeysa,Maximum Temperature of Warmest Month,2050,33.86666667
+Zhengzhou,Maximum Temperature of Warmest Month,2050,34.86666667
+Johor Bahru,Maximum Temperature of Warmest Month,2050,33.13333333
+Medan,Maximum Temperature of Warmest Month,2050,34.53333333
+Kuwait,Maximum Temperature of Warmest Month,2050,45.7
+Multan,Maximum Temperature of Warmest Month,2050,44.9
+Peshawar,Maximum Temperature of Warmest Month,2050,43
+Incheon,Maximum Temperature of Warmest Month,2050,31.86666667
+Cartagena,Maximum Temperature of Warmest Month,2050,33.76666667
+Fukuoka,Maximum Temperature of Warmest Month,2050,33.76666667
+Saint George's,Maximum Temperature of Warmest Month,2050,33.26666667
+Shenyeng,Maximum Temperature of Warmest Month,2050,31.76666667
+Vitoria,Maximum Temperature of Warmest Month,2050,33.26666667
+Goyang,Maximum Temperature of Warmest Month,2050,32.23333333
+New Orleans,Maximum Temperature of Warmest Month,2050,35.73333333
+Benin City,Maximum Temperature of Warmest Month,2050,34.1
+Colombo,Maximum Temperature of Warmest Month,2050,33.3
+Houston,Maximum Temperature of Warmest Month,2050,36.3
+Stanley,Maximum Temperature of Warmest Month,2050,14.2
+Ibadan,Maximum Temperature of Warmest Month,2050,35.5
+Makkah,Maximum Temperature of Warmest Month,2050,44.5
+Port Moresby,Maximum Temperature of Warmest Month,2050,34
+Recife,Maximum Temperature of Warmest Month,2050,32
+Porto-Novo,Maximum Temperature of Warmest Month,2050,34.26666667
+Singapore,Maximum Temperature of Warmest Month,2050,32.86666667
+Tianjin,Maximum Temperature of Warmest Month,2050,32.96666667
+Putrajaya,Maximum Temperature of Warmest Month,2050,34.36666667
+Beijing,Maximum Temperature of Warmest Month,2050,33.23333333
+Nagoya,Maximum Temperature of Warmest Month,2050,34.2
+Tokyo,Maximum Temperature of Warmest Month,2050,32.4
+Sri Jawewardenepura Kotte,Maximum Temperature of Warmest Month,2050,33.5
+Pekanbaru,Maximum Temperature of Warmest Month,2050,34.3
+Funchal,Maximum Temperature of Warmest Month,2050,26.86666667
+Algiers,Maximum Temperature of Warmest Month,2050,32.56666667
+Sao Luis,Maximum Temperature of Warmest Month,2050,33.63333333
+Sucre,Maximum Temperature of Warmest Month,2050,27.13333333
+Bandung,Maximum Temperature of Warmest Month,2050,31.23333333
+Zamboanga,Maximum Temperature of Warmest Month,2050,33.83333333
+Malang,Maximum Temperature of Warmest Month,2050,32.03333333
+Accra,Maximum Temperature of Warmest Month,2050,33.9
+Dili,Maximum Temperature of Warmest Month,2050,33.9
+Hims,Maximum Temperature of Warmest Month,2050,34.9
+Kyoto,Maximum Temperature of Warmest Month,2050,34.4
+Virginia Beach,Maximum Temperature of Warmest Month,2050,32.7
+Suva,Maximum Temperature of Warmest Month,2050,31.3
+Gaza,Maximum Temperature of Warmest Month,2050,32.8
+Kinshasa,Maximum Temperature of Warmest Month,2050,34.06666667
+Sendai,Maximum Temperature of Warmest Month,2050,30.16666667
+Padang,Maximum Temperature of Warmest Month,2050,33.46666667
+Laayoune,Maximum Temperature of Warmest Month,2050,31.46666667
+Havana,Maximum Temperature of Warmest Month,2050,34.16666667
+Kananga,Maximum Temperature of Warmest Month,2050,34.03333333
+Port Louis,Maximum Temperature of Warmest Month,2050,31.73333333
+Cotonou,Maximum Temperature of Warmest Month,2050,33.5
+Muscat,Maximum Temperature of Warmest Month,2050,40.5
+Macau,Maximum Temperature of Warmest Month,2050,33.6
+Joinville,Maximum Temperature of Warmest Month,2050,30.7
+Caracas,Maximum Temperature of Warmest Month,2050,29.06666667
+Pago Pago,Maximum Temperature of Warmest Month,2050,31.56666667
+George Town,Maximum Temperature of Warmest Month,2050,33.56666667
+Lome,Maximum Temperature of Warmest Month,2050,33.73333333
+Suwon,Maximum Temperature of Warmest Month,2050,32.13333333
+Willemstad,Maximum Temperature of Warmest Month,2050,33.23333333
+Johannesburg,Maximum Temperature of Warmest Month,2050,28.33333333
+Dalian,Maximum Temperature of Warmest Month,2050,30.1
+Nampo,Maximum Temperature of Warmest Month,2050,30.7
+Barranquilla,Maximum Temperature of Warmest Month,2050,34.3
+Casablanca,Maximum Temperature of Warmest Month,2050,28.96666667
+Gwangju,Maximum Temperature of Warmest Month,2050,33.26666667
+Guangzhou,Maximum Temperature of Warmest Month,2050,34.63333333
+Jinxi,Maximum Temperature of Warmest Month,2050,30.73333333
+Lagos,Maximum Temperature of Warmest Month,2050,33.4
+Noumea,Maximum Temperature of Warmest Month,2050,30.9
+Dongguan,Maximum Temperature of Warmest Month,2050,34.5
+Maputo,Maximum Temperature of Warmest Month,2050,32.5
+Kampala,Maximum Temperature of Warmest Month,2050,30.26666667
+Antananarivo,Maximum Temperature of Warmest Month,2050,29.36666667
+Port Vila,Maximum Temperature of Warmest Month,2050,31.33333333
+Valparaiso,Maximum Temperature of Warmest Month,2050,24.83333333
+Agana,Maximum Temperature of Warmest Month,2050,32.43333333
+Nanning,Maximum Temperature of Warmest Month,2050,34.63333333
+Cebu,Maximum Temperature of Warmest Month,2050,34.7
+Daejeon,Maximum Temperature of Warmest Month,2050,32.7
+Praia,Maximum Temperature of Warmest Month,2050,32.1
+Kunming,Maximum Temperature of Warmest Month,2050,26.46666667
+Nukualofa,Maximum Temperature of Warmest Month,2050,31.06666667
+Surabaya,Maximum Temperature of Warmest Month,2050,34.76666667
+Grand Turk,Maximum Temperature of Warmest Month,2050,33.13333333
+Almaty,Maximum Temperature of Warmest Month,2050,31.83333333
+Taipei,Maximum Temperature of Warmest Month,2050,33.4
+Bandar Seri Begawan,Maximum Temperature of Warmest Month,2050,33.1
+Roseau,Maximum Temperature of Warmest Month,2050,33.1
+Dar es Salaam,Maximum Temperature of Warmest Month,2050,33.3
+Basseterre,Maximum Temperature of Warmest Month,2050,32.4
+Merida,Maximum Temperature of Warmest Month,2050,35.7
+Huambo,Maximum Temperature of Warmest Month,2050,31.16666667
+Osaka,Maximum Temperature of Warmest Month,2050,34.26666667
+Melekeok,Maximum Temperature of Warmest Month,2050,32.96666667
+Oranjestad,Maximum Temperature of Warmest Month,2050,33.73333333
+Palikir,Maximum Temperature of Warmest Month,2050,32.33333333
+Basra,Maximum Temperature of Warmest Month,2050,44.63333333
+Daegu,Maximum Temperature of Warmest Month,2050,33.1
+Chittagong,Maximum Temperature of Warmest Month,2050,34.1
+Papeete,Maximum Temperature of Warmest Month,2050,31.76666667
+Shenzhen,Maximum Temperature of Warmest Month,2050,33.73333333
+Kingston,Maximum Temperature of Warmest Month,2050,33.13333333
+Saint John's,Maximum Temperature of Warmest Month,2050,32.2
+Maceio,Maximum Temperature of Warmest Month,2050,31.2
+Tampa,Maximum Temperature of Warmest Month,2050,34.8
+Xiamen,Maximum Temperature of Warmest Month,2050,33.33333333
+Fortaleza,Maximum Temperature of Warmest Month,2050,32.03333333
+Honiara,Maximum Temperature of Warmest Month,2050,32.06666667
+Ad Damman,Maximum Temperature of Warmest Month,2050,41.86666667
+Brisbane,Maximum Temperature of Warmest Month,2050,31.33333333
+San Francisco,Maximum Temperature of Warmest Month,2050,23.43333333
+Tainan,Maximum Temperature of Warmest Month,2050,33.63333333
+Busan,Maximum Temperature of Warmest Month,2050,30.8
+Bloemfontein,Maximum Temperature of Warmest Month,2050,32.3
+Maseru,Maximum Temperature of Warmest Month,2050,30.4
+Kaohsiung,Maximum Temperature of Warmest Month,2050,32.5
+Miami,Maximum Temperature of Warmest Month,2050,33.26666667
+Belo Horizonte,Maximum Temperature of Warmest Month,2050,30.7
+Belmopan,Maximum Temperature of Warmest Month,2050,33.4
+Sydney,Maximum Temperature of Warmest Month,2050,28.1
+Ulsan,Maximum Temperature of Warmest Month,2050,31.83333333
+Taichung,Maximum Temperature of Warmest Month,2050,32.8
+Pretoria,Maximum Temperature of Warmest Month,2050,31.4
+Los Angeles,Maximum Temperature of Warmest Month,2050,31.76666667
+Curitiba,Maximum Temperature of Warmest Month,2050,27.26666667
+Tijuana,Maximum Temperature of Warmest Month,2050,28.46666667
+Rio de Janeiro,Maximum Temperature of Warmest Month,2050,31.4
+Hong Kong,Maximum Temperature of Warmest Month,2050,32.63333333
+Campinas,Maximum Temperature of Warmest Month,2050,29.5
+Freetown,Maximum Temperature of Warmest Month,2050,31.8
+Florianopolis,Maximum Temperature of Warmest Month,2050,29.4
+Benoni,Maximum Temperature of Warmest Month,2050,28.06666667
+Luanda,Maximum Temperature of Warmest Month,2050,31.43333333
+Sao Paulo,Maximum Temperature of Warmest Month,2050,28.1
+Mbabane,Maximum Temperature of Warmest Month,2050,26.6
+Asmara,Maximum Temperature of Warmest Month,2050,28.56666667
+Kathmandu,Maximum Temperature of Warmest Month,2050,30.3
+Gaborone,Maximum Temperature of Warmest Month,2050,34.76666667
+Dakar,Maximum Temperature of Warmest Month,2050,32.4
+Durban,Maximum Temperature of Warmest Month,2050,29.26666667
+Vereeniging,Maximum Temperature of Warmest Month,2050,30.4
+Oran,Maximum Temperature of Warmest Month,2050,30.46666667
+Port Elizabeth,Maximum Temperature of Warmest Month,2050,26.6
+San Diego,Maximum Temperature of Warmest Month,2050,28.36666667
+Santos,Maximum Temperature of Warmest Month,2050,30.16666667
+Ljubljana,Minimum Temperature of Coldest Month,2018,-6.400000095
+Belgrade,Minimum Temperature of Coldest Month,2018,-4.599999905
+Novi Sad,Minimum Temperature of Coldest Month,2018,-4.800000191
+Budapest,Minimum Temperature of Coldest Month,2018,-4
+Turin,Minimum Temperature of Coldest Month,2018,-1.200000048
+Yerevan,Minimum Temperature of Coldest Month,2018,-10
+Vienna,Minimum Temperature of Coldest Month,2018,-4.300000191
+Bratislava,Minimum Temperature of Coldest Month,2018,-5.099999905
+Banja Luka,Minimum Temperature of Coldest Month,2018,-5
+Fez,Minimum Temperature of Coldest Month,2018,4
+Zagreb,Minimum Temperature of Coldest Month,2018,-4.099999905
+Milan,Minimum Temperature of Coldest Month,2018,-2.099999905
+Tbilisi,Minimum Temperature of Coldest Month,2018,-4.199999809
+Rostov,Minimum Temperature of Coldest Month,2018,-8.5
+Konya,Minimum Temperature of Coldest Month,2018,-6.5
+Podgorica,Minimum Temperature of Coldest Month,2018,-0.5
+Marrakesh,Minimum Temperature of Coldest Month,2018,5
+Skopje,Minimum Temperature of Coldest Month,2018,-5.5
+Dnipro,Minimum Temperature of Coldest Month,2018,-9.300000191
+Bucharest,Minimum Temperature of Coldest Month,2018,-7.800000191
+Sarajevo,Minimum Temperature of Coldest Month,2018,-6
+Lyon,Minimum Temperature of Coldest Month,2018,-1.200000048
+Kiev,Minimum Temperature of Coldest Month,2018,-8.800000191
+Prague,Minimum Temperature of Coldest Month,2018,-4.099999905
+Warsaw,Minimum Temperature of Coldest Month,2018,-7
+Qom,Minimum Temperature of Coldest Month,2018,-2.200000048
+Pristina,Minimum Temperature of Coldest Month,2018,-7.400000095
+Karaj,Minimum Temperature of Coldest Month,2018,-5.300000191
+Ankara,Minimum Temperature of Coldest Month,2018,-7.400000095
+Madrid,Minimum Temperature of Coldest Month,2018,0
+Portland,Minimum Temperature of Coldest Month,2018,-2.299999952
+Mosul,Minimum Temperature of Coldest Month,2018,1.200000048
+Jerusalem,Minimum Temperature of Coldest Month,2018,2.400000095
+Manchester,Minimum Temperature of Coldest Month,2018,-0.100000001
+Tehran,Minimum Temperature of Coldest Month,2018,-1.5
+Sofia,Minimum Temperature of Coldest Month,2018,-6
+Berlin,Minimum Temperature of Coldest Month,2018,-3.900000095
+Paris,Minimum Temperature of Coldest Month,2018,0.400000006
+Seattle,Minimum Temperature of Coldest Month,2018,-0.400000006
+Gaziantep,Minimum Temperature of Coldest Month,2018,-4
+St. Petersburg,Minimum Temperature of Coldest Month,2018,-10.60000038
+Tashkent,Minimum Temperature of Coldest Month,2018,-6.599999905
+Irbil,Minimum Temperature of Coldest Month,2018,0.300000012
+Stockholm,Minimum Temperature of Coldest Month,2018,-7.5
+London,Minimum Temperature of Coldest Month,2018,0.200000003
+Toronto,Minimum Temperature of Coldest Month,2018,-11.19999981
+Vilnius,Minimum Temperature of Coldest Month,2018,-10.30000019
+Kharkiv,Minimum Temperature of Coldest Month,2018,-10.69999981
+Andorra,Minimum Temperature of Coldest Month,2018,-3.5
+Luxembourg,Minimum Temperature of Coldest Month,2018,-2.799999952
+Rangoon,Minimum Temperature of Coldest Month,2018,20.60000038
+Isfahan,Minimum Temperature of Coldest Month,2018,-4.199999809
+Cologne,Minimum Temperature of Coldest Month,2018,-1.399999976
+Montreal,Minimum Temperature of Coldest Month,2018,-15.30000019
+San Marino,Minimum Temperature of Coldest Month,2018,-1.299999952
+Minsk,Minimum Temperature of Coldest Month,2018,-10.60000038
+Athens,Minimum Temperature of Coldest Month,2018,4.300000191
+Minneapolis,Minimum Temperature of Coldest Month,2018,-16.79999924
+Ottawa,Minimum Temperature of Coldest Month,2018,-16
+Vaduz,Minimum Temperature of Coldest Month,2018,-5.099999905
+Columbus,Minimum Temperature of Coldest Month,2018,-8.899999619
+Zurich,Minimum Temperature of Coldest Month,2018,-4
+Bursa,Minimum Temperature of Coldest Month,2018,-0.600000024
+Oslo,Minimum Temperature of Coldest Month,2018,-6.900000095
+Chisinau,Minimum Temperature of Coldest Month,2018,-7.400000095
+Indianapolis,Minimum Temperature of Coldest Month,2018,-9.399999619
+Sacramento,Minimum Temperature of Coldest Month,2018,0.200000003
+Pittsburgh,Minimum Temperature of Coldest Month,2018,-8.399999619
+Amman,Minimum Temperature of Coldest Month,2018,1.299999952
+St. Louis,Minimum Temperature of Coldest Month,2018,-7.599999905
+Rome,Minimum Temperature of Coldest Month,2018,2.900000095
+Moscow,Minimum Temperature of Coldest Month,2018,-12.69999981
+Aguascalientes,Minimum Temperature of Coldest Month,2018,5.199999809
+Cincinnati,Minimum Temperature of Coldest Month,2018,-7.900000095
+Salt Lake City,Minimum Temperature of Coldest Month,2018,-9.199999809
+Cleveland,Minimum Temperature of Coldest Month,2018,-8.600000381
+Hamburg,Minimum Temperature of Coldest Month,2018,-3.099999905
+Detroit,Minimum Temperature of Coldest Month,2018,-9.800000191
+Baltimore,Minimum Temperature of Coldest Month,2018,-5.199999809
+Buffalo,Minimum Temperature of Coldest Month,2018,-9
+Vatican City,Minimum Temperature of Coldest Month,2018,2.799999952
+Djibouti,Minimum Temperature of Coldest Month,2018,21.89999962
+Dushanbe,Minimum Temperature of Coldest Month,2018,-5
+Mariehamn,Minimum Temperature of Coldest Month,2018,-6.699999809
+Brussels,Minimum Temperature of Coldest Month,2018,-1.200000048
+Marseille,Minimum Temperature of Coldest Month,2018,4.5
+Louisville,Minimum Temperature of Coldest Month,2018,-6
+San Luis Potosi,Minimum Temperature of Coldest Month,2018,6.599999905
+Naypyidaw,Minimum Temperature of Coldest Month,2018,16.89999962
+Helsinki,Minimum Temperature of Coldest Month,2018,-9.399999619
+Chongqing,Minimum Temperature of Coldest Month,2018,3.900000095
+Tallinn,Minimum Temperature of Coldest Month,2018,-9.399999619
+Urumqi,Minimum Temperature of Coldest Month,2018,-18.70000076
+Baku,Minimum Temperature of Coldest Month,2018,-0.5
+Aleppo,Minimum Temperature of Coldest Month,2018,-1
+Kobenhavn,Minimum Temperature of Coldest Month,2018,-3
+Pune,Minimum Temperature of Coldest Month,2018,13.10000038
+Izmir,Minimum Temperature of Coldest Month,2018,3.400000095
+San Salvador,Minimum Temperature of Coldest Month,2018,17
+Bern,Minimum Temperature of Coldest Month,2018,-5.300000191
+Nagpur,Minimum Temperature of Coldest Month,2018,14.19999981
+Riga,Minimum Temperature of Coldest Month,2018,-8
+Lille,Minimum Temperature of Coldest Month,2018,-0.699999988
+Sukhumi,Minimum Temperature of Coldest Month,2018,1.700000048
+Nashville,Minimum Temperature of Coldest Month,2018,-3.799999952
+Ilorin,Minimum Temperature of Coldest Month,2018,18.10000038
+Riyadh,Minimum Temperature of Coldest Month,2018,9.399999619
+Guadalajara,Minimum Temperature of Coldest Month,2018,9.699999809
+Leeds,Minimum Temperature of Coldest Month,2018,-0.600000024
+Ramallah,Minimum Temperature of Coldest Month,2018,2
+Munich,Minimum Temperature of Coldest Month,2018,-4.5
+Cuiaba,Minimum Temperature of Coldest Month,2018,17
+Kansas City,Minimum Temperature of Coldest Month,2018,-8.300000191
+Xian,Minimum Temperature of Coldest Month,2018,-5.599999905
+Memphis,Minimum Temperature of Coldest Month,2018,-1.700000048
+Chicago,Minimum Temperature of Coldest Month,2018,-11.5
+Nairobi,Minimum Temperature of Coldest Month,2018,12.19999981
+Ahvaz,Minimum Temperature of Coldest Month,2018,3.299999952
+Adelaide,Minimum Temperature of Coldest Month,2018,5.300000191
+Perth,Minimum Temperature of Coldest Month,2018,8.699999809
+Baghdad,Minimum Temperature of Coldest Month,2018,1.700000048
+Cardiff,Minimum Temperature of Coldest Month,2018,1.100000024
+Philadelphia,Minimum Temperature of Coldest Month,2018,-5.900000095
+Adana,Minimum Temperature of Coldest Month,2018,5
+Queretaro,Minimum Temperature of Coldest Month,2018,6.199999809
+Wellington,Minimum Temperature of Coldest Month,2018,5.699999809
+Birmingham,Minimum Temperature of Coldest Month,2018,-0.400000006
+Belem,Minimum Temperature of Coldest Month,2018,22.39999962
+Edinburgh,Minimum Temperature of Coldest Month,2018,-0.5
+Bir Lehlou,Minimum Temperature of Coldest Month,2018,5.800000191
+Kigali,Minimum Temperature of Coldest Month,2018,14.39999962
+Hartford,Minimum Temperature of Coldest Month,2018,-9.199999809
+Milwaukee,Minimum Temperature of Coldest Month,2018,-12.39999962
+"Washington, D.C.",Minimum Temperature of Coldest Month,2018,-4.699999809
+Mexico City,Minimum Temperature of Coldest Month,2018,7
+Kermanshah,Minimum Temperature of Coldest Month,2018,-6.099999905
+Jaipur,Minimum Temperature of Coldest Month,2018,9.600000381
+Tabriz,Minimum Temperature of Coldest Month,2018,-8.5
+Samara,Minimum Temperature of Coldest Month,2018,-17.79999924
+San Bernardino,Minimum Temperature of Coldest Month,2018,3.5
+Mandalay,Minimum Temperature of Coldest Month,2018,16.5
+Leon,Minimum Temperature of Coldest Month,2018,6.400000095
+Canberra,Minimum Temperature of Coldest Month,2018,-0.400000006
+Tunis,Minimum Temperature of Coldest Month,2018,7.099999905
+Torreon,Minimum Temperature of Coldest Month,2018,5.800000191
+New York,Minimum Temperature of Coldest Month,2018,-5.699999809
+Hyderabad,Minimum Temperature of Coldest Month,2018,16.70000076
+Hyderabad,Minimum Temperature of Coldest Month,2018,16.70000076
+Las Vegas,Minimum Temperature of Coldest Month,2018,0.200000003
+Indore,Minimum Temperature of Coldest Month,2018,11.69999981
+Manaus,Minimum Temperature of Coldest Month,2018,22.29999924
+Semarang,Minimum Temperature of Coldest Month,2018,23
+Nanchong,Minimum Temperature of Coldest Month,2018,2.700000048
+Asuncion,Minimum Temperature of Coldest Month,2018,12
+Denver,Minimum Temperature of Coldest Month,2018,-7.599999905
+Juba,Minimum Temperature of Coldest Month,2018,18.79999924
+Bangui,Minimum Temperature of Coldest Month,2018,19.60000038
+Manila,Minimum Temperature of Coldest Month,2018,22.5
+Lanzhou,Minimum Temperature of Coldest Month,2018,-12.19999981
+Niamey,Minimum Temperature of Coldest Month,2018,17.10000038
+Lubumbashi,Minimum Temperature of Coldest Month,2018,8.899999619
+Austin,Minimum Temperature of Coldest Month,2018,4.400000095
+Dallas,Minimum Temperature of Coldest Month,2018,1.600000024
+Calgary,Minimum Temperature of Coldest Month,2018,-15.89999962
+Puebla,Minimum Temperature of Coldest Month,2018,6.400000095
+Melbourne,Minimum Temperature of Coldest Month,2018,5.199999809
+Ashgabat,Minimum Temperature of Coldest Month,2018,-4.400000095
+Ogbomosho,Minimum Temperature of Coldest Month,2018,17.89999962
+Bishkek,Minimum Temperature of Coldest Month,2018,-9.5
+Gujranwala,Minimum Temperature of Coldest Month,2018,5
+Quito,Minimum Temperature of Coldest Month,2018,7.599999905
+Taiyuan,Minimum Temperature of Coldest Month,2018,-11.69999981
+Ahmedabad,Minimum Temperature of Coldest Month,2018,13.60000038
+Patna,Minimum Temperature of Coldest Month,2018,11.30000019
+Kano,Minimum Temperature of Coldest Month,2018,14.60000038
+Tel Aviv-Yafo,Minimum Temperature of Coldest Month,2018,9.800000191
+Beirut,Minimum Temperature of Coldest Month,2018,9.600000381
+Lusaka,Minimum Temperature of Coldest Month,2018,8.5
+Ndjamena,Minimum Temperature of Coldest Month,2018,16.10000038
+Guatemala,Minimum Temperature of Coldest Month,2018,14.10000038
+Brazzaville,Minimum Temperature of Coldest Month,2018,18.89999962
+Ho Chi Minh City,Minimum Temperature of Coldest Month,2018,22.39999962
+Surat,Minimum Temperature of Coldest Month,2018,16.20000076
+Al Hudaydah,Minimum Temperature of Coldest Month,2018,21.70000076
+Bangalore,Minimum Temperature of Coldest Month,2018,16.89999962
+Kaduna,Minimum Temperature of Coldest Month,2018,16.20000076
+Kabul,Minimum Temperature of Coldest Month,2018,-8.399999619
+Zaria,Minimum Temperature of Coldest Month,2018,14.60000038
+Bamako,Minimum Temperature of Coldest Month,2018,17.10000038
+Rotterdam,Minimum Temperature of Coldest Month,2018,-0.899999976
+Valletta,Minimum Temperature of Coldest Month,2018,8.899999619
+San Antonio,Minimum Temperature of Coldest Month,2018,5.400000095
+Bujumbura,Minimum Temperature of Coldest Month,2018,18.60000038
+Maracay,Minimum Temperature of Coldest Month,2018,18.70000076
+Mashhad,Minimum Temperature of Coldest Month,2018,-5.900000095
+Kanpur,Minimum Temperature of Coldest Month,2018,9.399999619
+Tirana,Minimum Temperature of Coldest Month,2018,1.299999952
+Belfast,Minimum Temperature of Coldest Month,2018,0.899999976
+New Delhi,Minimum Temperature of Coldest Month,2018,7.900000095
+Abidjan,Minimum Temperature of Coldest Month,2018,21.10000038
+Tegucigalpa,Minimum Temperature of Coldest Month,2018,14.19999981
+Doha,Minimum Temperature of Coldest Month,2018,11.19999981
+Kumasi,Minimum Temperature of Coldest Month,2018,19.79999924
+Toluca,Minimum Temperature of Coldest Month,2018,2.200000048
+Delhi,Minimum Temperature of Coldest Month,2018,7.900000095
+Barcelona,Minimum Temperature of Coldest Month,2018,6.300000191
+Amsterdam,Minimum Temperature of Coldest Month,2018,-1.100000024
+Istanbul,Minimum Temperature of Coldest Month,2018,0.899999976
+Abuja,Minimum Temperature of Coldest Month,2018,17.10000038
+Monterrey,Minimum Temperature of Coldest Month,2018,8.699999809
+Boston,Minimum Temperature of Coldest Month,2018,-8.800000191
+Dodoma,Minimum Temperature of Coldest Month,2018,13.60000038
+The Hague,Minimum Temperature of Coldest Month,2018,-0.300000012
+Dublin,Minimum Temperature of Coldest Month,2018,1.600000024
+Jinan,Minimum Temperature of Coldest Month,2018,-6.400000095
+Mombasa,Minimum Temperature of Coldest Month,2018,20.20000076
+Lisbon,Minimum Temperature of Coldest Month,2018,6.800000191
+Lucknow,Minimum Temperature of Coldest Month,2018,9.199999809
+Addis Ababa,Minimum Temperature of Coldest Month,2018,7
+Richmond,Minimum Temperature of Coldest Month,2018,-3.700000048
+Banjul,Minimum Temperature of Coldest Month,2018,19.39999962
+Changsha,Minimum Temperature of Coldest Month,2018,2.099999905
+Jeddah,Minimum Temperature of Coldest Month,2018,17.39999962
+La Paz,Minimum Temperature of Coldest Month,2018,-0.200000003
+Harbin,Minimum Temperature of Coldest Month,2018,-23.29999924
+Rawalpindi,Minimum Temperature of Coldest Month,2018,3.099999905
+Yamoussoukro,Minimum Temperature of Coldest Month,2018,20.5
+Charlotte,Minimum Temperature of Coldest Month,2018,-1.399999976
+Guiyang,Minimum Temperature of Coldest Month,2018,1.799999952
+Windhoek,Minimum Temperature of Coldest Month,2018,6.099999905
+Glasgow,Minimum Temperature of Coldest Month,2018,-0.699999988
+Wuhan,Minimum Temperature of Coldest Month,2018,0.5
+Tripoli,Minimum Temperature of Coldest Month,2018,9.300000191
+Batumi,Minimum Temperature of Coldest Month,2018,3.299999952
+Ciudad Juarez,Minimum Temperature of Coldest Month,2018,-2.299999952
+Jakarta,Minimum Temperature of Coldest Month,2018,22.60000038
+Bridgeport,Minimum Temperature of Coldest Month,2018,-7.300000191
+Porto,Minimum Temperature of Coldest Month,2018,5.099999905
+Atlanta,Minimum Temperature of Coldest Month,2018,-0.100000001
+Ouagadougou,Minimum Temperature of Coldest Month,2018,17.20000076
+Teresina,Minimum Temperature of Coldest Month,2018,21
+Rabat,Minimum Temperature of Coldest Month,2018,9
+Lilongwe,Minimum Temperature of Coldest Month,2018,10.10000038
+Bangkok,Minimum Temperature of Coldest Month,2018,21.60000038
+Palembang,Minimum Temperature of Coldest Month,2018,22.29999924
+Rosario,Minimum Temperature of Coldest Month,2018,4.800000191
+Cali,Minimum Temperature of Coldest Month,2018,18.20000076
+Kolkata,Minimum Temperature of Coldest Month,2018,14.80000019
+Monaco,Minimum Temperature of Coldest Month,2018,2.299999952
+Conakry,Minimum Temperature of Coldest Month,2018,22.10000038
+Medina,Minimum Temperature of Coldest Month,2018,9.899999619
+Hangzhou,Minimum Temperature of Coldest Month,2018,0.899999976
+Alexandria,Minimum Temperature of Coldest Month,2018,8.600000381
+Malabo,Minimum Temperature of Coldest Month,2018,20.70000076
+Goiania,Minimum Temperature of Coldest Month,2018,14
+Harare,Minimum Temperature of Coldest Month,2018,6.300000191
+Cordoba,Minimum Temperature of Coldest Month,2018,4.300000191
+Santa Cruz,Minimum Temperature of Coldest Month,2018,15.19999981
+Hanoi,Minimum Temperature of Coldest Month,2018,12.89999962
+Islamabad,Minimum Temperature of Coldest Month,2018,2.299999952
+Natal,Minimum Temperature of Coldest Month,2018,21
+Paramaribo,Minimum Temperature of Coldest Month,2018,22.60000038
+Sapporo,Minimum Temperature of Coldest Month,2018,-8.699999809
+Zibo,Minimum Temperature of Coldest Month,2018,-7.300000191
+Kuala Lumpur,Minimum Temperature of Coldest Month,2018,21.39999962
+Mexicali,Minimum Temperature of Coldest Month,2018,4.900000095
+Chengdu,Minimum Temperature of Coldest Month,2018,2.099999905
+Haifa,Minimum Temperature of Coldest Month,2018,8.300000191
+Nouakchott,Minimum Temperature of Coldest Month,2018,16.10000038
+Auckland,Minimum Temperature of Coldest Month,2018,7.199999809
+Nicosia,Minimum Temperature of Coldest Month,2018,3.700000048
+Santiago,Minimum Temperature of Coldest Month,2018,0.800000012
+Khartoum,Minimum Temperature of Coldest Month,2018,15.89999962
+Faisalabad,Minimum Temperature of Coldest Month,2018,5.099999905
+Rajshahi,Minimum Temperature of Coldest Month,2018,13.39999962
+Seoul,Minimum Temperature of Coldest Month,2018,-7.099999905
+Bogor,Minimum Temperature of Coldest Month,2018,21.5
+Panama City,Minimum Temperature of Coldest Month,2018,23
+Chennai,Minimum Temperature of Coldest Month,2018,20.70000076
+Bucaramanga,Minimum Temperature of Coldest Month,2018,18
+Guayaquil,Minimum Temperature of Coldest Month,2018,19.60000038
+Mogadishu,Minimum Temperature of Coldest Month,2018,22
+Dubai,Minimum Temperature of Coldest Month,2018,12.5
+Kelang,Minimum Temperature of Coldest Month,2018,21.60000038
+Salvador,Minimum Temperature of Coldest Month,2018,20.10000038
+Douala,Minimum Temperature of Coldest Month,2018,21.39999962
+Arequipa,Minimum Temperature of Coldest Month,2018,7
+Valencia,Minimum Temperature of Coldest Month,2018,17.79999924
+Bissau,Minimum Temperature of Coldest Month,2018,20.20000076
+Sao Tome,Minimum Temperature of Coldest Month,2018,20.5
+Brasilia,Minimum Temperature of Coldest Month,2018,12
+Shanghai,Minimum Temperature of Coldest Month,2018,1.399999976
+Vientiane,Minimum Temperature of Coldest Month,2018,16.70000076
+Buenos Aires,Minimum Temperature of Coldest Month,2018,5.599999905
+Port-au-Prince,Minimum Temperature of Coldest Month,2018,19.5
+Montevideo,Minimum Temperature of Coldest Month,2018,4.900000095
+Shijianzhuang,Minimum Temperature of Coldest Month,2018,-7.900000095
+Providence,Minimum Temperature of Coldest Month,2018,-8.300000191
+Mbuji-Mayi,Minimum Temperature of Coldest Month,2018,18.5
+Georgetown,Minimum Temperature of Coldest Month,2018,23.39999962
+Orlando,Minimum Temperature of Coldest Month,2018,10.10000038
+Khulna,Minimum Temperature of Coldest Month,2018,15.30000019
+Cape Town,Minimum Temperature of Coldest Month,2018,9
+Haiphong,Minimum Temperature of Coldest Month,2018,14
+Reykjavik,Minimum Temperature of Coldest Month,2018,-2.5
+Mendoza,Minimum Temperature of Coldest Month,2018,0.800000012
+Changchun,Minimum Temperature of Coldest Month,2018,-21
+Porto Alegre,Minimum Temperature of Coldest Month,2018,9.800000191
+Joao Pessoa,Minimum Temperature of Coldest Month,2018,20.39999962
+Port Harcourt,Minimum Temperature of Coldest Month,2018,21.29999924
+Monrovia,Minimum Temperature of Coldest Month,2018,20.10000038
+Fuzhou,Minimum Temperature of Coldest Month,2018,6.900000095
+Dhaka,Minimum Temperature of Coldest Month,2018,15.19999981
+Davao,Minimum Temperature of Coldest Month,2018,22.39999962
+Nanjing,Minimum Temperature of Coldest Month,2018,-1
+Taizz,Minimum Temperature of Coldest Month,2018,14.30000019
+Hiroshima,Minimum Temperature of Coldest Month,2018,1.600000024
+Jacksonville,Minimum Temperature of Coldest Month,2018,6.800000191
+Phoenix,Minimum Temperature of Coldest Month,2018,3.299999952
+Pyongyang,Minimum Temperature of Coldest Month,2018,-11
+Libreville,Minimum Temperature of Coldest Month,2018,21.60000038
+Phnom Penh,Minimum Temperature of Coldest Month,2018,22.5
+Qingdao,Minimum Temperature of Coldest Month,2018,-3.700000048
+Ponta Delgada,Minimum Temperature of Coldest Month,2018,11.10000038
+Hamilton,Minimum Temperature of Coldest Month,2018,15.5
+Yaounde,Minimum Temperature of Coldest Month,2018,18.10000038
+Bandar Lampung,Minimum Temperature of Coldest Month,2018,22.5
+Hargeysa,Minimum Temperature of Coldest Month,2018,9.699999809
+Zhengzhou,Minimum Temperature of Coldest Month,2018,-5
+Johor Bahru,Minimum Temperature of Coldest Month,2018,22.70000076
+Medan,Minimum Temperature of Coldest Month,2018,21.70000076
+Kuwait,Minimum Temperature of Coldest Month,2018,5.400000095
+Multan,Minimum Temperature of Coldest Month,2018,6
+Peshawar,Minimum Temperature of Coldest Month,2018,3.599999905
+Incheon,Minimum Temperature of Coldest Month,2018,-5.900000095
+Cartagena,Minimum Temperature of Coldest Month,2018,23.79999924
+Fukuoka,Minimum Temperature of Coldest Month,2018,2.5
+Saint George's,Minimum Temperature of Coldest Month,2018,22.29999924
+Shenyeng,Minimum Temperature of Coldest Month,2018,-15.89999962
+Vitoria,Minimum Temperature of Coldest Month,2018,16.70000076
+Goyang,Minimum Temperature of Coldest Month,2018,-8.199999809
+New Orleans,Minimum Temperature of Coldest Month,2018,7
+Benin City,Minimum Temperature of Coldest Month,2018,19.70000076
+Colombo,Minimum Temperature of Coldest Month,2018,23.60000038
+Houston,Minimum Temperature of Coldest Month,2018,6.599999905
+Stanley,Minimum Temperature of Coldest Month,2018,-1.299999952
+Ibadan,Minimum Temperature of Coldest Month,2018,19.70000076
+Makkah,Minimum Temperature of Coldest Month,2018,16.39999962
+Port Moresby,Minimum Temperature of Coldest Month,2018,21.70000076
+Recife,Minimum Temperature of Coldest Month,2018,20.20000076
+Porto-Novo,Minimum Temperature of Coldest Month,2018,21.29999924
+Singapore,Minimum Temperature of Coldest Month,2018,22.89999962
+Tianjin,Minimum Temperature of Coldest Month,2018,-8
+Putrajaya,Minimum Temperature of Coldest Month,2018,21.70000076
+Beijing,Minimum Temperature of Coldest Month,2018,-9.5
+Nagoya,Minimum Temperature of Coldest Month,2018,0.699999988
+Tokyo,Minimum Temperature of Coldest Month,2018,2.799999952
+Sri Jawewardenepura Kotte,Minimum Temperature of Coldest Month,2018,22.79999924
+Pekanbaru,Minimum Temperature of Coldest Month,2018,21.70000076
+Funchal,Minimum Temperature of Coldest Month,2018,12.60000038
+Algiers,Minimum Temperature of Coldest Month,2018,6.5
+Sao Luis,Minimum Temperature of Coldest Month,2018,22.29999924
+Sucre,Minimum Temperature of Coldest Month,2018,5.699999809
+Bandung,Minimum Temperature of Coldest Month,2018,18
+Zamboanga,Minimum Temperature of Coldest Month,2018,22.79999924
+Malang,Minimum Temperature of Coldest Month,2018,17.60000038
+Accra,Minimum Temperature of Coldest Month,2018,21.39999962
+Dili,Minimum Temperature of Coldest Month,2018,20.89999962
+Hims,Minimum Temperature of Coldest Month,2018,1.100000024
+Kyoto,Minimum Temperature of Coldest Month,2018,-0.300000012
+Virginia Beach,Minimum Temperature of Coldest Month,2018,0
+Suva,Minimum Temperature of Coldest Month,2018,20
+Gaza,Minimum Temperature of Coldest Month,2018,9.100000381
+Kinshasa,Minimum Temperature of Coldest Month,2018,18.79999924
+Sendai,Minimum Temperature of Coldest Month,2018,-0.699999988
+Padang,Minimum Temperature of Coldest Month,2018,21.89999962
+Laayoune,Minimum Temperature of Coldest Month,2018,12.10000038
+Havana,Minimum Temperature of Coldest Month,2018,19.10000038
+Kananga,Minimum Temperature of Coldest Month,2018,18.10000038
+Port Louis,Minimum Temperature of Coldest Month,2018,18
+Cotonou,Minimum Temperature of Coldest Month,2018,21.5
+Muscat,Minimum Temperature of Coldest Month,2018,14.69999981
+Macau,Minimum Temperature of Coldest Month,2018,12.69999981
+Joinville,Minimum Temperature of Coldest Month,2018,12.5
+Caracas,Minimum Temperature of Coldest Month,2018,15.39999962
+Pago Pago,Minimum Temperature of Coldest Month,2018,22.79999924
+George Town,Minimum Temperature of Coldest Month,2018,21.5
+Lome,Minimum Temperature of Coldest Month,2018,21.5
+Suwon,Minimum Temperature of Coldest Month,2018,-7.599999905
+Willemstad,Minimum Temperature of Coldest Month,2018,23
+Johannesburg,Minimum Temperature of Coldest Month,2018,2.400000095
+Dalian,Minimum Temperature of Coldest Month,2018,-7.300000191
+Nampo,Minimum Temperature of Coldest Month,2018,-10.39999962
+Barranquilla,Minimum Temperature of Coldest Month,2018,23.29999924
+Casablanca,Minimum Temperature of Coldest Month,2018,9.399999619
+Gwangju,Minimum Temperature of Coldest Month,2018,-4.400000095
+Guangzhou,Minimum Temperature of Coldest Month,2018,10.10000038
+Jinxi,Minimum Temperature of Coldest Month,2018,-12.10000038
+Lagos,Minimum Temperature of Coldest Month,2018,21.39999962
+Noumea,Minimum Temperature of Coldest Month,2018,16.10000038
+Dongguan,Minimum Temperature of Coldest Month,2018,10.80000019
+Maputo,Minimum Temperature of Coldest Month,2018,14.5
+Kampala,Minimum Temperature of Coldest Month,2018,15.19999981
+Antananarivo,Minimum Temperature of Coldest Month,2018,10
+Port Vila,Minimum Temperature of Coldest Month,2018,18.89999962
+Valparaiso,Minimum Temperature of Coldest Month,2018,6.400000095
+Agana,Minimum Temperature of Coldest Month,2018,24.10000038
+Nanning,Minimum Temperature of Coldest Month,2018,9.800000191
+Cebu,Minimum Temperature of Coldest Month,2018,22.39999962
+Daejeon,Minimum Temperature of Coldest Month,2018,-6.599999905
+Praia,Minimum Temperature of Coldest Month,2018,18.70000076
+Kunming,Minimum Temperature of Coldest Month,2018,3.200000048
+Nukualofa,Minimum Temperature of Coldest Month,2018,18.20000076
+Surabaya,Minimum Temperature of Coldest Month,2018,23.20000076
+Grand Turk,Minimum Temperature of Coldest Month,2018,21.39999962
+Almaty,Minimum Temperature of Coldest Month,2018,-11.69999981
+Taipei,Minimum Temperature of Coldest Month,2018,11.80000019
+Bandar Seri Begawan,Minimum Temperature of Coldest Month,2018,23
+Roseau,Minimum Temperature of Coldest Month,2018,22
+Dar es Salaam,Minimum Temperature of Coldest Month,2018,20.39999962
+Basseterre,Minimum Temperature of Coldest Month,2018,22.20000076
+Merida,Minimum Temperature of Coldest Month,2018,18.20000076
+Huambo,Minimum Temperature of Coldest Month,2018,9.5
+Osaka,Minimum Temperature of Coldest Month,2018,1.100000024
+Melekeok,Minimum Temperature of Coldest Month,2018,23.5
+Oranjestad,Minimum Temperature of Coldest Month,2018,23.10000038
+Palikir,Minimum Temperature of Coldest Month,2018,22.89999962
+Basra,Minimum Temperature of Coldest Month,2018,3.299999952
+Daegu,Minimum Temperature of Coldest Month,2018,-5
+Chittagong,Minimum Temperature of Coldest Month,2018,17
+Papeete,Minimum Temperature of Coldest Month,2018,20.39999962
+Shenzhen,Minimum Temperature of Coldest Month,2018,12.19999981
+Kingston,Minimum Temperature of Coldest Month,2018,22.10000038
+Saint John's,Minimum Temperature of Coldest Month,2018,22.39999962
+Maceio,Minimum Temperature of Coldest Month,2018,18.60000038
+Tampa,Minimum Temperature of Coldest Month,2018,11.19999981
+Xiamen,Minimum Temperature of Coldest Month,2018,10.19999981
+Fortaleza,Minimum Temperature of Coldest Month,2018,22.10000038
+Honiara,Minimum Temperature of Coldest Month,2018,21.89999962
+Ad Damman,Minimum Temperature of Coldest Month,2018,9.5
+Brisbane,Minimum Temperature of Coldest Month,2018,9.699999809
+San Francisco,Minimum Temperature of Coldest Month,2018,3.299999952
+Tainan,Minimum Temperature of Coldest Month,2018,14.5
+Busan,Minimum Temperature of Coldest Month,2018,-0.800000012
+Bloemfontein,Minimum Temperature of Coldest Month,2018,-0.899999976
+Maseru,Minimum Temperature of Coldest Month,2018,-0.300000012
+Kaohsiung,Minimum Temperature of Coldest Month,2018,15.30000019
+Miami,Minimum Temperature of Coldest Month,2018,16.5
+Belo Horizonte,Minimum Temperature of Coldest Month,2018,11.69999981
+Belmopan,Minimum Temperature of Coldest Month,2018,18
+Sydney,Minimum Temperature of Coldest Month,2018,7.699999809
+Ulsan,Minimum Temperature of Coldest Month,2018,-2.299999952
+Taichung,Minimum Temperature of Coldest Month,2018,12.60000038
+Pretoria,Minimum Temperature of Coldest Month,2018,3.799999952
+Los Angeles,Minimum Temperature of Coldest Month,2018,7.5
+Curitiba,Minimum Temperature of Coldest Month,2018,7.599999905
+Tijuana,Minimum Temperature of Coldest Month,2018,7.599999905
+Rio de Janeiro,Minimum Temperature of Coldest Month,2018,16.79999924
+Hong Kong,Minimum Temperature of Coldest Month,2018,13.19999981
+Campinas,Minimum Temperature of Coldest Month,2018,10.69999981
+Freetown,Minimum Temperature of Coldest Month,2018,21.89999962
+Florianopolis,Minimum Temperature of Coldest Month,2018,11.10000038
+Benoni,Minimum Temperature of Coldest Month,2018,1.899999976
+Luanda,Minimum Temperature of Coldest Month,2018,18.89999962
+Sao Paulo,Minimum Temperature of Coldest Month,2018,10.30000019
+Mbabane,Minimum Temperature of Coldest Month,2018,6.900000095
+Asmara,Minimum Temperature of Coldest Month,2018,6.300000191
+Kathmandu,Minimum Temperature of Coldest Month,2018,4.400000095
+Gaborone,Minimum Temperature of Coldest Month,2018,5.099999905
+Dakar,Minimum Temperature of Coldest Month,2018,17.20000076
+Durban,Minimum Temperature of Coldest Month,2018,11.39999962
+Vereeniging,Minimum Temperature of Coldest Month,2018,-0.400000006
+Oran,Minimum Temperature of Coldest Month,2018,5.199999809
+Port Elizabeth,Minimum Temperature of Coldest Month,2018,9
+San Diego,Minimum Temperature of Coldest Month,2018,7.400000095
+Santos,Minimum Temperature of Coldest Month,2018,14.69999981
+Ljubljana,Minimum Temperature of Coldest Month,2050,-0.7
+Belgrade,Minimum Temperature of Coldest Month,2050,1.033333333
+Novi Sad,Minimum Temperature of Coldest Month,2050,-1.133333333
+Budapest,Minimum Temperature of Coldest Month,2050,-0.266666667
+Turin,Minimum Temperature of Coldest Month,2050,0.533333333
+Yerevan,Minimum Temperature of Coldest Month,2050,-4.833333333
+Vienna,Minimum Temperature of Coldest Month,2050,-0.833333333
+Bratislava,Minimum Temperature of Coldest Month,2050,-1.2
+Banja Luka,Minimum Temperature of Coldest Month,2050,-0.8
+Fez,Minimum Temperature of Coldest Month,2050,6.3
+Zagreb,Minimum Temperature of Coldest Month,2050,-0.6
+Milan,Minimum Temperature of Coldest Month,2050,1.533333333
+Tbilisi,Minimum Temperature of Coldest Month,2050,-1
+Rostov,Minimum Temperature of Coldest Month,2050,-4.9
+Konya,Minimum Temperature of Coldest Month,2050,-3.166666667
+Podgorica,Minimum Temperature of Coldest Month,2050,3.4
+Marrakesh,Minimum Temperature of Coldest Month,2050,6.566666667
+Skopje,Minimum Temperature of Coldest Month,2050,-1.133333333
+Dnipro,Minimum Temperature of Coldest Month,2050,-4.833333333
+Bucharest,Minimum Temperature of Coldest Month,2050,-3.4
+Sarajevo,Minimum Temperature of Coldest Month,2050,-1.933333333
+Lyon,Minimum Temperature of Coldest Month,2050,1.2
+Kiev,Minimum Temperature of Coldest Month,2050,-4.933333333
+Prague,Minimum Temperature of Coldest Month,2050,-1.333333333
+Warsaw,Minimum Temperature of Coldest Month,2050,-3.6
+Qom,Minimum Temperature of Coldest Month,2050,0.8
+Pristina,Minimum Temperature of Coldest Month,2050,-2.433333333
+Karaj,Minimum Temperature of Coldest Month,2050,-3.033333333
+Ankara,Minimum Temperature of Coldest Month,2050,-2.333333333
+Madrid,Minimum Temperature of Coldest Month,2050,3.1
+Portland,Minimum Temperature of Coldest Month,2050,2.966666667
+Mosul,Minimum Temperature of Coldest Month,2050,3.733333333
+Jerusalem,Minimum Temperature of Coldest Month,2050,6.666666667
+Manchester,Minimum Temperature of Coldest Month,2050,2.933333333
+Tehran,Minimum Temperature of Coldest Month,2050,-0.1
+Sofia,Minimum Temperature of Coldest Month,2050,-3.033333333
+Berlin,Minimum Temperature of Coldest Month,2050,-1.4
+Paris,Minimum Temperature of Coldest Month,2050,2.666666667
+Seattle,Minimum Temperature of Coldest Month,2050,4.1
+Gaziantep,Minimum Temperature of Coldest Month,2050,0.233333333
+St. Petersburg,Minimum Temperature of Coldest Month,2050,-6.466666667
+Tashkent,Minimum Temperature of Coldest Month,2050,0.2
+Irbil,Minimum Temperature of Coldest Month,2050,4.4
+Stockholm,Minimum Temperature of Coldest Month,2050,-2.633333333
+London,Minimum Temperature of Coldest Month,2050,3.233333333
+Toronto,Minimum Temperature of Coldest Month,2050,-5.2
+Vilnius,Minimum Temperature of Coldest Month,2050,-5.5
+Kharkiv,Minimum Temperature of Coldest Month,2050,-6.9
+Andorra,Minimum Temperature of Coldest Month,2050,0.266666667
+Luxembourg,Minimum Temperature of Coldest Month,2050,1
+Rangoon,Minimum Temperature of Coldest Month,2050,20.1
+Isfahan,Minimum Temperature of Coldest Month,2050,-1.633333333
+Cologne,Minimum Temperature of Coldest Month,2050,1.2
+Montreal,Minimum Temperature of Coldest Month,2050,-10.03333333
+San Marino,Minimum Temperature of Coldest Month,2050,2.5
+Minsk,Minimum Temperature of Coldest Month,2050,-6.366666667
+Athens,Minimum Temperature of Coldest Month,2050,7.9
+Minneapolis,Minimum Temperature of Coldest Month,2050,-10.93333333
+Ottawa,Minimum Temperature of Coldest Month,2050,-10.9
+Vaduz,Minimum Temperature of Coldest Month,2050,-0.766666667
+Columbus,Minimum Temperature of Coldest Month,2050,-4.3
+Zurich,Minimum Temperature of Coldest Month,2050,0.333333333
+Bursa,Minimum Temperature of Coldest Month,2050,2.7
+Oslo,Minimum Temperature of Coldest Month,2050,-4.333333333
+Chisinau,Minimum Temperature of Coldest Month,2050,-3.433333333
+Indianapolis,Minimum Temperature of Coldest Month,2050,-4.833333333
+Sacramento,Minimum Temperature of Coldest Month,2050,4.8
+Pittsburgh,Minimum Temperature of Coldest Month,2050,-4
+Amman,Minimum Temperature of Coldest Month,2050,5.1
+St. Louis,Minimum Temperature of Coldest Month,2050,-3.533333333
+Rome,Minimum Temperature of Coldest Month,2050,5.7
+Moscow,Minimum Temperature of Coldest Month,2050,-8.166666667
+Aguascalientes,Minimum Temperature of Coldest Month,2050,5.5
+Cincinnati,Minimum Temperature of Coldest Month,2050,-3.466666667
+Salt Lake City,Minimum Temperature of Coldest Month,2050,-2.9
+Cleveland,Minimum Temperature of Coldest Month,2050,-4.066666667
+Hamburg,Minimum Temperature of Coldest Month,2050,-0.766666667
+Detroit,Minimum Temperature of Coldest Month,2050,-3.966666667
+Baltimore,Minimum Temperature of Coldest Month,2050,-1.366666667
+Buffalo,Minimum Temperature of Coldest Month,2050,-4.766666667
+Vatican City,Minimum Temperature of Coldest Month,2050,5.6
+Djibouti,Minimum Temperature of Coldest Month,2050,24.86666667
+Dushanbe,Minimum Temperature of Coldest Month,2050,2.8
+Mariehamn,Minimum Temperature of Coldest Month,2050,-5.166666667
+Brussels,Minimum Temperature of Coldest Month,2050,1.333333333
+Marseille,Minimum Temperature of Coldest Month,2050,4.033333333
+Louisville,Minimum Temperature of Coldest Month,2050,-1.933333333
+San Luis Potosi,Minimum Temperature of Coldest Month,2050,6.833333333
+Naypyidaw,Minimum Temperature of Coldest Month,2050,16.8
+Helsinki,Minimum Temperature of Coldest Month,2050,-5.3
+Chongqing,Minimum Temperature of Coldest Month,2050,7.833333333
+Tallinn,Minimum Temperature of Coldest Month,2050,-5.133333333
+Urumqi,Minimum Temperature of Coldest Month,2050,-13.53333333
+Baku,Minimum Temperature of Coldest Month,2050,3.6
+Aleppo,Minimum Temperature of Coldest Month,2050,2.433333333
+Kobenhavn,Minimum Temperature of Coldest Month,2050,0.166666667
+Pune,Minimum Temperature of Coldest Month,2050,14.26666667
+Izmir,Minimum Temperature of Coldest Month,2050,6.4
+San Salvador,Minimum Temperature of Coldest Month,2050,16.46666667
+Bern,Minimum Temperature of Coldest Month,2050,-0.533333333
+Nagpur,Minimum Temperature of Coldest Month,2050,14.36666667
+Riga,Minimum Temperature of Coldest Month,2050,-4.333333333
+Lille,Minimum Temperature of Coldest Month,2050,2.033333333
+Sukhumi,Minimum Temperature of Coldest Month,2050,3.3
+Nashville,Minimum Temperature of Coldest Month,2050,-1.266666667
+Ilorin,Minimum Temperature of Coldest Month,2050,20.6
+Riyadh,Minimum Temperature of Coldest Month,2050,10.9
+Guadalajara,Minimum Temperature of Coldest Month,2050,8.466666667
+Leeds,Minimum Temperature of Coldest Month,2050,2.1
+Ramallah,Minimum Temperature of Coldest Month,2050,6.233333333
+Munich,Minimum Temperature of Coldest Month,2050,-2.266666667
+Cuiaba,Minimum Temperature of Coldest Month,2050,17.8
+Kansas City,Minimum Temperature of Coldest Month,2050,-3.866666667
+Xian,Minimum Temperature of Coldest Month,2050,-2.666666667
+Memphis,Minimum Temperature of Coldest Month,2050,1.233333333
+Chicago,Minimum Temperature of Coldest Month,2050,-5.4
+Nairobi,Minimum Temperature of Coldest Month,2050,13.1
+Ahvaz,Minimum Temperature of Coldest Month,2050,9.333333333
+Adelaide,Minimum Temperature of Coldest Month,2050,8.466666667
+Perth,Minimum Temperature of Coldest Month,2050,10.3
+Baghdad,Minimum Temperature of Coldest Month,2050,6.366666667
+Cardiff,Minimum Temperature of Coldest Month,2050,3.1
+Philadelphia,Minimum Temperature of Coldest Month,2050,-1.7
+Adana,Minimum Temperature of Coldest Month,2050,6
+Queretaro,Minimum Temperature of Coldest Month,2050,7.4
+Wellington,Minimum Temperature of Coldest Month,2050,7.266666667
+Birmingham,Minimum Temperature of Coldest Month,2050,1.7
+Belem,Minimum Temperature of Coldest Month,2050,23.5
+Edinburgh,Minimum Temperature of Coldest Month,2050,1.266666667
+Bir Lehlou,Minimum Temperature of Coldest Month,2050,9.666666667
+Kigali,Minimum Temperature of Coldest Month,2050,16.36666667
+Hartford,Minimum Temperature of Coldest Month,2050,-4.766666667
+Milwaukee,Minimum Temperature of Coldest Month,2050,-6.433333333
+"Washington, D.C.",Minimum Temperature of Coldest Month,2050,-1.3
+Mexico City,Minimum Temperature of Coldest Month,2050,4.5
+Kermanshah,Minimum Temperature of Coldest Month,2050,-1
+Jaipur,Minimum Temperature of Coldest Month,2050,10.5
+Tabriz,Minimum Temperature of Coldest Month,2050,-2.666666667
+Samara,Minimum Temperature of Coldest Month,2050,-12.13333333
+San Bernardino,Minimum Temperature of Coldest Month,2050,6.3
+Mandalay,Minimum Temperature of Coldest Month,2050,15.26666667
+Leon,Minimum Temperature of Coldest Month,2050,7.7
+Canberra,Minimum Temperature of Coldest Month,2050,1.3
+Tunis,Minimum Temperature of Coldest Month,2050,8.3
+Torreon,Minimum Temperature of Coldest Month,2050,6.333333333
+New York,Minimum Temperature of Coldest Month,2050,-1.3
+Hyderabad,Minimum Temperature of Coldest Month,2050,16.26666667
+Hyderabad,Minimum Temperature of Coldest Month,2050,16.26666667
+Las Vegas,Minimum Temperature of Coldest Month,2050,1.9
+Indore,Minimum Temperature of Coldest Month,2050,12.23333333
+Manaus,Minimum Temperature of Coldest Month,2050,24.7
+Semarang,Minimum Temperature of Coldest Month,2050,22.5
+Nanchong,Minimum Temperature of Coldest Month,2050,6.166666667
+Asuncion,Minimum Temperature of Coldest Month,2050,13.83333333
+Denver,Minimum Temperature of Coldest Month,2050,-5.666666667
+Juba,Minimum Temperature of Coldest Month,2050,21.1
+Bangui,Minimum Temperature of Coldest Month,2050,21.46666667
+Manila,Minimum Temperature of Coldest Month,2050,22.76666667
+Lanzhou,Minimum Temperature of Coldest Month,2050,-9.266666667
+Niamey,Minimum Temperature of Coldest Month,2050,17.96666667
+Lubumbashi,Minimum Temperature of Coldest Month,2050,9.366666667
+Austin,Minimum Temperature of Coldest Month,2050,5.566666667
+Dallas,Minimum Temperature of Coldest Month,2050,3.2
+Calgary,Minimum Temperature of Coldest Month,2050,-13.2
+Puebla,Minimum Temperature of Coldest Month,2050,7.133333333
+Melbourne,Minimum Temperature of Coldest Month,2050,7.366666667
+Ashgabat,Minimum Temperature of Coldest Month,2050,-2
+Ogbomosho,Minimum Temperature of Coldest Month,2050,20.66666667
+Bishkek,Minimum Temperature of Coldest Month,2050,-5.7
+Gujranwala,Minimum Temperature of Coldest Month,2050,7.466666667
+Quito,Minimum Temperature of Coldest Month,2050,8.666666667
+Taiyuan,Minimum Temperature of Coldest Month,2050,-10.9
+Ahmedabad,Minimum Temperature of Coldest Month,2050,13.9
+Patna,Minimum Temperature of Coldest Month,2050,12.63333333
+Kano,Minimum Temperature of Coldest Month,2050,15.5
+Tel Aviv-Yafo,Minimum Temperature of Coldest Month,2050,10.36666667
+Beirut,Minimum Temperature of Coldest Month,2050,12.03333333
+Lusaka,Minimum Temperature of Coldest Month,2050,11.2
+Ndjamena,Minimum Temperature of Coldest Month,2050,15.6
+Guatemala,Minimum Temperature of Coldest Month,2050,13.33333333
+Brazzaville,Minimum Temperature of Coldest Month,2050,20.46666667
+Ho Chi Minh City,Minimum Temperature of Coldest Month,2050,22.7
+Surat,Minimum Temperature of Coldest Month,2050,16.7
+Al Hudaydah,Minimum Temperature of Coldest Month,2050,22.66666667
+Bangalore,Minimum Temperature of Coldest Month,2050,16.5
+Kaduna,Minimum Temperature of Coldest Month,2050,17.4
+Kabul,Minimum Temperature of Coldest Month,2050,-4.6
+Zaria,Minimum Temperature of Coldest Month,2050,16.83333333
+Bamako,Minimum Temperature of Coldest Month,2050,18.83333333
+Rotterdam,Minimum Temperature of Coldest Month,2050,1.8
+Valletta,Minimum Temperature of Coldest Month,2050,11.26666667
+San Antonio,Minimum Temperature of Coldest Month,2050,6.233333333
+Bujumbura,Minimum Temperature of Coldest Month,2050,20.7
+Maracay,Minimum Temperature of Coldest Month,2050,18.56666667
+Mashhad,Minimum Temperature of Coldest Month,2050,-3.766666667
+Kanpur,Minimum Temperature of Coldest Month,2050,10.06666667
+Tirana,Minimum Temperature of Coldest Month,2050,4.6
+Belfast,Minimum Temperature of Coldest Month,2050,2.333333333
+New Delhi,Minimum Temperature of Coldest Month,2050,9.433333333
+Abidjan,Minimum Temperature of Coldest Month,2050,23
+Tegucigalpa,Minimum Temperature of Coldest Month,2050,15.56666667
+Doha,Minimum Temperature of Coldest Month,2050,15.13333333
+Kumasi,Minimum Temperature of Coldest Month,2050,22.13333333
+Toluca,Minimum Temperature of Coldest Month,2050,3.833333333
+Delhi,Minimum Temperature of Coldest Month,2050,9.533333333
+Barcelona,Minimum Temperature of Coldest Month,2050,8.5
+Amsterdam,Minimum Temperature of Coldest Month,2050,1.5
+Istanbul,Minimum Temperature of Coldest Month,2050,4.333333333
+Abuja,Minimum Temperature of Coldest Month,2050,19.2
+Monterrey,Minimum Temperature of Coldest Month,2050,9.6
+Boston,Minimum Temperature of Coldest Month,2050,-4.266666667
+Dodoma,Minimum Temperature of Coldest Month,2050,14.76666667
+The Hague,Minimum Temperature of Coldest Month,2050,2.1
+Dublin,Minimum Temperature of Coldest Month,2050,3.666666667
+Jinan,Minimum Temperature of Coldest Month,2050,-2.666666667
+Mombasa,Minimum Temperature of Coldest Month,2050,22.43333333
+Lisbon,Minimum Temperature of Coldest Month,2050,9.733333333
+Lucknow,Minimum Temperature of Coldest Month,2050,10.36666667
+Addis Ababa,Minimum Temperature of Coldest Month,2050,7.9
+Richmond,Minimum Temperature of Coldest Month,2050,-1.033333333
+Banjul,Minimum Temperature of Coldest Month,2050,18.23333333
+Changsha,Minimum Temperature of Coldest Month,2050,4
+Jeddah,Minimum Temperature of Coldest Month,2050,19.3
+La Paz,Minimum Temperature of Coldest Month,2050,-1.6
+Harbin,Minimum Temperature of Coldest Month,2050,-22.7
+Rawalpindi,Minimum Temperature of Coldest Month,2050,4.9
+Yamoussoukro,Minimum Temperature of Coldest Month,2050,21.73333333
+Charlotte,Minimum Temperature of Coldest Month,2050,0.4
+Guiyang,Minimum Temperature of Coldest Month,2050,4.866666667
+Windhoek,Minimum Temperature of Coldest Month,2050,6.833333333
+Glasgow,Minimum Temperature of Coldest Month,2050,1.133333333
+Wuhan,Minimum Temperature of Coldest Month,2050,2.9
+Tripoli,Minimum Temperature of Coldest Month,2050,9.566666667
+Batumi,Minimum Temperature of Coldest Month,2050,4.733333333
+Ciudad Juarez,Minimum Temperature of Coldest Month,2050,0.3
+Jakarta,Minimum Temperature of Coldest Month,2050,24.2
+Bridgeport,Minimum Temperature of Coldest Month,2050,-3.133333333
+Porto,Minimum Temperature of Coldest Month,2050,6.566666667
+Atlanta,Minimum Temperature of Coldest Month,2050,1.333333333
+Ouagadougou,Minimum Temperature of Coldest Month,2050,18.8
+Teresina,Minimum Temperature of Coldest Month,2050,22.63333333
+Rabat,Minimum Temperature of Coldest Month,2050,9.566666667
+Lilongwe,Minimum Temperature of Coldest Month,2050,10.46666667
+Bangkok,Minimum Temperature of Coldest Month,2050,22.23333333
+Palembang,Minimum Temperature of Coldest Month,2050,24.23333333
+Rosario,Minimum Temperature of Coldest Month,2050,5.8
+Cali,Minimum Temperature of Coldest Month,2050,20
+Kolkata,Minimum Temperature of Coldest Month,2050,14.73333333
+Monaco,Minimum Temperature of Coldest Month,2050,4.833333333
+Conakry,Minimum Temperature of Coldest Month,2050,24.36666667
+Medina,Minimum Temperature of Coldest Month,2050,13.16666667
+Hangzhou,Minimum Temperature of Coldest Month,2050,2.933333333
+Alexandria,Minimum Temperature of Coldest Month,2050,11.73333333
+Malabo,Minimum Temperature of Coldest Month,2050,22.53333333
+Goiania,Minimum Temperature of Coldest Month,2050,14.96666667
+Harare,Minimum Temperature of Coldest Month,2050,8.566666667
+Cordoba,Minimum Temperature of Coldest Month,2050,4.466666667
+Santa Cruz,Minimum Temperature of Coldest Month,2050,17.03333333
+Hanoi,Minimum Temperature of Coldest Month,2050,15.3
+Islamabad,Minimum Temperature of Coldest Month,2050,5.033333333
+Natal,Minimum Temperature of Coldest Month,2050,21.46666667
+Paramaribo,Minimum Temperature of Coldest Month,2050,23.73333333
+Sapporo,Minimum Temperature of Coldest Month,2050,-5.366666667
+Zibo,Minimum Temperature of Coldest Month,2050,-5.3
+Kuala Lumpur,Minimum Temperature of Coldest Month,2050,23.5
+Mexicali,Minimum Temperature of Coldest Month,2050,6.566666667
+Chengdu,Minimum Temperature of Coldest Month,2050,5.033333333
+Haifa,Minimum Temperature of Coldest Month,2050,10.43333333
+Nouakchott,Minimum Temperature of Coldest Month,2050,15.76666667
+Auckland,Minimum Temperature of Coldest Month,2050,8.566666667
+Nicosia,Minimum Temperature of Coldest Month,2050,6.733333333
+Santiago,Minimum Temperature of Coldest Month,2050,4.7
+Khartoum,Minimum Temperature of Coldest Month,2050,17.9
+Faisalabad,Minimum Temperature of Coldest Month,2050,6.666666667
+Rajshahi,Minimum Temperature of Coldest Month,2050,12.93333333
+Seoul,Minimum Temperature of Coldest Month,2050,-4.9
+Bogor,Minimum Temperature of Coldest Month,2050,22.03333333
+Panama City,Minimum Temperature of Coldest Month,2050,23.83333333
+Chennai,Minimum Temperature of Coldest Month,2050,20.76666667
+Bucaramanga,Minimum Temperature of Coldest Month,2050,20.36666667
+Guayaquil,Minimum Temperature of Coldest Month,2050,21.46666667
+Mogadishu,Minimum Temperature of Coldest Month,2050,24.13333333
+Dubai,Minimum Temperature of Coldest Month,2050,15.33333333
+Kelang,Minimum Temperature of Coldest Month,2050,23.63333333
+Salvador,Minimum Temperature of Coldest Month,2050,21.8
+Douala,Minimum Temperature of Coldest Month,2050,23.63333333
+Arequipa,Minimum Temperature of Coldest Month,2050,6.433333333
+Valencia,Minimum Temperature of Coldest Month,2050,17.76666667
+Bissau,Minimum Temperature of Coldest Month,2050,19.76666667
+Sao Tome,Minimum Temperature of Coldest Month,2050,21.96666667
+Brasilia,Minimum Temperature of Coldest Month,2050,14.6
+Shanghai,Minimum Temperature of Coldest Month,2050,2.8
+Vientiane,Minimum Temperature of Coldest Month,2050,15.4
+Buenos Aires,Minimum Temperature of Coldest Month,2050,8.066666667
+Port-au-Prince,Minimum Temperature of Coldest Month,2050,20.73333333
+Montevideo,Minimum Temperature of Coldest Month,2050,7.733333333
+Shijianzhuang,Minimum Temperature of Coldest Month,2050,-5.633333333
+Providence,Minimum Temperature of Coldest Month,2050,-4.566666667
+Mbuji-Mayi,Minimum Temperature of Coldest Month,2050,20.16666667
+Georgetown,Minimum Temperature of Coldest Month,2050,24.96666667
+Orlando,Minimum Temperature of Coldest Month,2050,10.7
+Khulna,Minimum Temperature of Coldest Month,2050,14.1
+Cape Town,Minimum Temperature of Coldest Month,2050,9.3
+Haiphong,Minimum Temperature of Coldest Month,2050,16.63333333
+Reykjavik,Minimum Temperature of Coldest Month,2050,-0.433333333
+Mendoza,Minimum Temperature of Coldest Month,2050,2.933333333
+Changchun,Minimum Temperature of Coldest Month,2050,-18.83333333
+Porto Alegre,Minimum Temperature of Coldest Month,2050,11.83333333
+Joao Pessoa,Minimum Temperature of Coldest Month,2050,20.96666667
+Port Harcourt,Minimum Temperature of Coldest Month,2050,23.6
+Monrovia,Minimum Temperature of Coldest Month,2050,21.4
+Fuzhou,Minimum Temperature of Coldest Month,2050,9.333333333
+Dhaka,Minimum Temperature of Coldest Month,2050,14.3
+Davao,Minimum Temperature of Coldest Month,2050,23.3
+Nanjing,Minimum Temperature of Coldest Month,2050,0.466666667
+Taizz,Minimum Temperature of Coldest Month,2050,16.03333333
+Hiroshima,Minimum Temperature of Coldest Month,2050,2.633333333
+Jacksonville,Minimum Temperature of Coldest Month,2050,7.866666667
+Phoenix,Minimum Temperature of Coldest Month,2050,5.6
+Pyongyang,Minimum Temperature of Coldest Month,2050,-10.03333333
+Libreville,Minimum Temperature of Coldest Month,2050,23.7
+Phnom Penh,Minimum Temperature of Coldest Month,2050,23.16666667
+Qingdao,Minimum Temperature of Coldest Month,2050,-2.166666667
+Ponta Delgada,Minimum Temperature of Coldest Month,2050,12.23333333
+Hamilton,Minimum Temperature of Coldest Month,2050,16
+Yaounde,Minimum Temperature of Coldest Month,2050,20.8
+Bandar Lampung,Minimum Temperature of Coldest Month,2050,22.86666667
+Hargeysa,Minimum Temperature of Coldest Month,2050,13.93333333
+Zhengzhou,Minimum Temperature of Coldest Month,2050,-2.433333333
+Johor Bahru,Minimum Temperature of Coldest Month,2050,23.4
+Medan,Minimum Temperature of Coldest Month,2050,23.1
+Kuwait,Minimum Temperature of Coldest Month,2050,10.56666667
+Multan,Minimum Temperature of Coldest Month,2050,7.733333333
+Peshawar,Minimum Temperature of Coldest Month,2050,6
+Incheon,Minimum Temperature of Coldest Month,2050,-4.533333333
+Cartagena,Minimum Temperature of Coldest Month,2050,23.4
+Fukuoka,Minimum Temperature of Coldest Month,2050,4.733333333
+Saint George's,Minimum Temperature of Coldest Month,2050,23.26666667
+Shenyeng,Minimum Temperature of Coldest Month,2050,-13.16666667
+Vitoria,Minimum Temperature of Coldest Month,2050,20.1
+Goyang,Minimum Temperature of Coldest Month,2050,-5.4
+New Orleans,Minimum Temperature of Coldest Month,2050,7.133333333
+Benin City,Minimum Temperature of Coldest Month,2050,22.9
+Colombo,Minimum Temperature of Coldest Month,2050,23.33333333
+Houston,Minimum Temperature of Coldest Month,2050,8.066666667
+Stanley,Minimum Temperature of Coldest Month,2050,1.166666667
+Ibadan,Minimum Temperature of Coldest Month,2050,22.5
+Makkah,Minimum Temperature of Coldest Month,2050,19.66666667
+Port Moresby,Minimum Temperature of Coldest Month,2050,22.93333333
+Recife,Minimum Temperature of Coldest Month,2050,22.56666667
+Porto-Novo,Minimum Temperature of Coldest Month,2050,24.46666667
+Singapore,Minimum Temperature of Coldest Month,2050,23.6
+Tianjin,Minimum Temperature of Coldest Month,2050,-5.933333333
+Putrajaya,Minimum Temperature of Coldest Month,2050,23.73333333
+Beijing,Minimum Temperature of Coldest Month,2050,-6.8
+Nagoya,Minimum Temperature of Coldest Month,2050,2.266666667
+Tokyo,Minimum Temperature of Coldest Month,2050,2.866666667
+Sri Jawewardenepura Kotte,Minimum Temperature of Coldest Month,2050,23.23333333
+Pekanbaru,Minimum Temperature of Coldest Month,2050,23.63333333
+Funchal,Minimum Temperature of Coldest Month,2050,14.5
+Algiers,Minimum Temperature of Coldest Month,2050,10.33333333
+Sao Luis,Minimum Temperature of Coldest Month,2050,24.6
+Sucre,Minimum Temperature of Coldest Month,2050,6.766666667
+Bandung,Minimum Temperature of Coldest Month,2050,18.53333333
+Zamboanga,Minimum Temperature of Coldest Month,2050,23.16666667
+Malang,Minimum Temperature of Coldest Month,2050,18.16666667
+Accra,Minimum Temperature of Coldest Month,2050,23.36666667
+Dili,Minimum Temperature of Coldest Month,2050,23.33333333
+Hims,Minimum Temperature of Coldest Month,2050,3.6
+Kyoto,Minimum Temperature of Coldest Month,2050,2.233333333
+Virginia Beach,Minimum Temperature of Coldest Month,2050,2.266666667
+Suva,Minimum Temperature of Coldest Month,2050,20.9
+Gaza,Minimum Temperature of Coldest Month,2050,10.93333333
+Kinshasa,Minimum Temperature of Coldest Month,2050,20.46666667
+Sendai,Minimum Temperature of Coldest Month,2050,-0.233333333
+Padang,Minimum Temperature of Coldest Month,2050,24
+Laayoune,Minimum Temperature of Coldest Month,2050,11.96666667
+Havana,Minimum Temperature of Coldest Month,2050,19.1
+Kananga,Minimum Temperature of Coldest Month,2050,20.6
+Port Louis,Minimum Temperature of Coldest Month,2050,18.03333333
+Cotonou,Minimum Temperature of Coldest Month,2050,24.5
+Muscat,Minimum Temperature of Coldest Month,2050,20.2
+Macau,Minimum Temperature of Coldest Month,2050,13.73333333
+Joinville,Minimum Temperature of Coldest Month,2050,14.23333333
+Caracas,Minimum Temperature of Coldest Month,2050,15.23333333
+Pago Pago,Minimum Temperature of Coldest Month,2050,24.33333333
+George Town,Minimum Temperature of Coldest Month,2050,22.1
+Lome,Minimum Temperature of Coldest Month,2050,23.63333333
+Suwon,Minimum Temperature of Coldest Month,2050,-5.3
+Willemstad,Minimum Temperature of Coldest Month,2050,24.4
+Johannesburg,Minimum Temperature of Coldest Month,2050,5.4
+Dalian,Minimum Temperature of Coldest Month,2050,-4.8
+Nampo,Minimum Temperature of Coldest Month,2050,-6.766666667
+Barranquilla,Minimum Temperature of Coldest Month,2050,24.4
+Casablanca,Minimum Temperature of Coldest Month,2050,9.233333333
+Gwangju,Minimum Temperature of Coldest Month,2050,-1.2
+Guangzhou,Minimum Temperature of Coldest Month,2050,11.63333333
+Jinxi,Minimum Temperature of Coldest Month,2050,-11
+Lagos,Minimum Temperature of Coldest Month,2050,24.33333333
+Noumea,Minimum Temperature of Coldest Month,2050,17.4
+Dongguan,Minimum Temperature of Coldest Month,2050,11.9
+Maputo,Minimum Temperature of Coldest Month,2050,14.76666667
+Kampala,Minimum Temperature of Coldest Month,2050,17.53333333
+Antananarivo,Minimum Temperature of Coldest Month,2050,11.46666667
+Port Vila,Minimum Temperature of Coldest Month,2050,20.1
+Valparaiso,Minimum Temperature of Coldest Month,2050,9.2
+Agana,Minimum Temperature of Coldest Month,2050,24.9
+Nanning,Minimum Temperature of Coldest Month,2050,12.2
+Cebu,Minimum Temperature of Coldest Month,2050,24.23333333
+Daejeon,Minimum Temperature of Coldest Month,2050,-4.166666667
+Praia,Minimum Temperature of Coldest Month,2050,20.26666667
+Kunming,Minimum Temperature of Coldest Month,2050,3.7
+Nukualofa,Minimum Temperature of Coldest Month,2050,19.73333333
+Surabaya,Minimum Temperature of Coldest Month,2050,23.2
+Grand Turk,Minimum Temperature of Coldest Month,2050,22.33333333
+Almaty,Minimum Temperature of Coldest Month,2050,-9.333333333
+Taipei,Minimum Temperature of Coldest Month,2050,14.1
+Bandar Seri Begawan,Minimum Temperature of Coldest Month,2050,25.63333333
+Roseau,Minimum Temperature of Coldest Month,2050,21.83333333
+Dar es Salaam,Minimum Temperature of Coldest Month,2050,20.3
+Basseterre,Minimum Temperature of Coldest Month,2050,23.5
+Merida,Minimum Temperature of Coldest Month,2050,19.3
+Huambo,Minimum Temperature of Coldest Month,2050,10
+Osaka,Minimum Temperature of Coldest Month,2050,3.233333333
+Melekeok,Minimum Temperature of Coldest Month,2050,25.23333333
+Oranjestad,Minimum Temperature of Coldest Month,2050,24.5
+Palikir,Minimum Temperature of Coldest Month,2050,24
+Basra,Minimum Temperature of Coldest Month,2050,9.166666667
+Daegu,Minimum Temperature of Coldest Month,2050,-2.4
+Chittagong,Minimum Temperature of Coldest Month,2050,16.16666667
+Papeete,Minimum Temperature of Coldest Month,2050,22.3
+Shenzhen,Minimum Temperature of Coldest Month,2050,13.16666667
+Kingston,Minimum Temperature of Coldest Month,2050,21.96666667
+Saint John's,Minimum Temperature of Coldest Month,2050,23.16666667
+Maceio,Minimum Temperature of Coldest Month,2050,21.33333333
+Tampa,Minimum Temperature of Coldest Month,2050,11.66666667
+Xiamen,Minimum Temperature of Coldest Month,2050,12.26666667
+Fortaleza,Minimum Temperature of Coldest Month,2050,23.43333333
+Honiara,Minimum Temperature of Coldest Month,2050,22.9
+Ad Damman,Minimum Temperature of Coldest Month,2050,13.83333333
+Brisbane,Minimum Temperature of Coldest Month,2050,10.6
+San Francisco,Minimum Temperature of Coldest Month,2050,7.566666667
+Tainan,Minimum Temperature of Coldest Month,2050,14.66666667
+Busan,Minimum Temperature of Coldest Month,2050,0.233333333
+Bloemfontein,Minimum Temperature of Coldest Month,2050,1.566666667
+Maseru,Minimum Temperature of Coldest Month,2050,1
+Kaohsiung,Minimum Temperature of Coldest Month,2050,15.43333333
+Miami,Minimum Temperature of Coldest Month,2050,17.2
+Belo Horizonte,Minimum Temperature of Coldest Month,2050,12.46666667
+Belmopan,Minimum Temperature of Coldest Month,2050,19.26666667
+Sydney,Minimum Temperature of Coldest Month,2050,8.833333333
+Ulsan,Minimum Temperature of Coldest Month,2050,-0.233333333
+Taichung,Minimum Temperature of Coldest Month,2050,13.43333333
+Pretoria,Minimum Temperature of Coldest Month,2050,4.533333333
+Los Angeles,Minimum Temperature of Coldest Month,2050,9.633333333
+Curitiba,Minimum Temperature of Coldest Month,2050,9.533333333
+Tijuana,Minimum Temperature of Coldest Month,2050,8.933333333
+Rio de Janeiro,Minimum Temperature of Coldest Month,2050,17.63333333
+Hong Kong,Minimum Temperature of Coldest Month,2050,14.6
+Campinas,Minimum Temperature of Coldest Month,2050,10.63333333
+Freetown,Minimum Temperature of Coldest Month,2050,23.8
+Florianopolis,Minimum Temperature of Coldest Month,2050,14.4
+Benoni,Minimum Temperature of Coldest Month,2050,4.233333333
+Luanda,Minimum Temperature of Coldest Month,2050,19.26666667
+Sao Paulo,Minimum Temperature of Coldest Month,2050,11.8
+Mbabane,Minimum Temperature of Coldest Month,2050,8
+Asmara,Minimum Temperature of Coldest Month,2050,8.466666667
+Kathmandu,Minimum Temperature of Coldest Month,2050,5.066666667
+Gaborone,Minimum Temperature of Coldest Month,2050,5.733333333
+Dakar,Minimum Temperature of Coldest Month,2050,18.5
+Durban,Minimum Temperature of Coldest Month,2050,13.2
+Vereeniging,Minimum Temperature of Coldest Month,2050,2.2
+Oran,Minimum Temperature of Coldest Month,2050,10.53333333
+Port Elizabeth,Minimum Temperature of Coldest Month,2050,9.933333333
+San Diego,Minimum Temperature of Coldest Month,2050,9.766666667
+Santos,Minimum Temperature of Coldest Month,2050,16.4
