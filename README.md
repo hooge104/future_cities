@@ -4,7 +4,7 @@ This `Shiny` app allows users to scroll, pan and click on a map showing the Worl
 
 Additionally, a data explorer tab is included. 
 
-All data and results are open access and are published in Bastin et al. 2019, Plos One, doi: 10.xxx. 
+All data and results are open access and are published in Bastin et al. 2019, Plos One, doi: [10.xxx](https://www.crowtherlab.com/). 
 
 ## Using the app online
 
