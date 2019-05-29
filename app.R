@@ -7,23 +7,28 @@ library(DT)
 library(reshape2)
 
 cities_data <- read.csv("data/future_cities_data.csv") %>% 
-  select(Longitude, Latitude, current_city,future_city_1_source,change_Annual_Mean_Temperature,change_Max_Temperature_of_Warmest_Month,change_Min_Temperature_of_Coldest_Month, change_Annual_Precipitation) %>% 
-  # rename("Temperature increase warmest month (°C)" = change_Max_Temperature_of_Warmest_Month) %>%
-  rename("Future_climate" = future_city_1_source ) %>% 
+  select(Longitude, Latitude, current_city,future_city_1_source,change_Annual_Mean_Temperature,change_Max_Temperature_of_Warmest_Month,change_Min_Temperature_of_Coldest_Month) %>% 
+  rename("Future_climate" = future_city_1_source )  %>% 
+  rename("Increase in Annual Temperature" = change_Annual_Mean_Temperature) %>% 
+  rename("Increase in Temperature of Warmest Month" = change_Max_Temperature_of_Warmest_Month) %>% 
+  rename("Increase in Temperature of Coldest Month" = change_Min_Temperature_of_Coldest_Month) %>% 
   rename("latitude" = Latitude) %>% 
   rename("longitude" = Longitude)
 cities_data[-c(1,2,3,4)] <- round(cities_data[-c(1,2,3,4)], 1)
 
 cities_display <- cities_data %>% 
-  select(current_city,Future_climate,change_Annual_Mean_Temperature,change_Max_Temperature_of_Warmest_Month,change_Min_Temperature_of_Coldest_Month, change_Annual_Precipitation) %>% 
+  select(current_city,Future_climate,"Increase in Annual Temperature","Increase in Temperature of Warmest Month","Increase in Temperature of Coldest Month") %>% 
   rename("City" = current_city) %>% 
-  rename("Future climate" = Future_climate) %>% 
-  rename("Increase in Annual Temperature" = change_Annual_Mean_Temperature) %>% 
-  rename("Increase in Temperature of Warmest Month" = change_Max_Temperature_of_Warmest_Month) %>% 
-  rename("Increase in Temperature of Coldest Month" = change_Min_Temperature_of_Coldest_Month) %>% 
-  rename("Increase in Annual Precipitation" = change_Annual_Precipitation)
+  rename("Future climate" = Future_climate)
 
-cities_exerpt <- cities_display %>% melt(id.vars = "City")
+cities_exerpt <- cities_display %>% 
+  melt(id.vars = "City")
+
+cities_plot <- read.csv("data/cities_plot.csv", stringsAsFactors = FALSE) %>% 
+  mutate(variable = replace(variable, variable == "Annual Mean Temperature", "Annual")) %>% 
+  mutate(variable = replace(variable, variable == "Maximum Temperature of Warmest Month", "Warmest Month")) %>% 
+  mutate(variable = replace(variable, variable == "Minimum Temperature of Coldest Month", "Coldest Month"))
+cities_plot$time <- as.factor(cities_plot$time)
 
 ui <- navbarPage("Future cities", id="nav", theme = "styles.css",
                  
@@ -36,18 +41,17 @@ ui <- navbarPage("Future cities", id="nav", theme = "styles.css",
                               
                               absolutePanel(id = "controls", class = "panel panel-default", fixed = TRUE,
                                             draggable = TRUE, top = 60, left = "auto", right = 20, bottom = "auto",
-                                            width = "350", height = "auto",
+                                            width = "auto", height = "auto",
                                             
-                                            selectInput("variable", label = "Climate variable",
-                                                        colnames(cities_data[c(6,5,7,8)]),
+                                            selectInput("variable", label = "Select changing climate variable",
+                                                        colnames(cities_data[c(6,5,7)]),
                                                         selected = colnames(cities_data[6])),
-                                            
-                                            # plotOutput("plot", height = 200),
                                             
                                             h2(fluidRow(verbatimTextOutput("Click_text"))),
                                             
                                             dataTableOutput("table_city"),
                                             
+                                            plotOutput("plot", height = 150),
                                             
                                             a("Data from Bastin et al., Plos One 2019", href="https://www.crowtherlab.com/")
                                             
@@ -97,10 +101,10 @@ server <- function(input, output) {
   observe({
     leafletProxy("map", data = cities_data) %>% 
       clearControls() %>% 
-      addLegend("bottomright", 
+      addLegend("bottomleft", 
                 pal = palette(), 
                 values = cities_data[[input$variable]],
-                title = paste(input$variable))
+                title = "°C")#paste(input$variable))
   })
   
   # Add dataframe as table
@@ -131,24 +135,35 @@ server <- function(input, output) {
       filter(City == click$id) %>% 
       select(-City)
     
-      output$table_city <- DT::renderDataTable({
-        datatable(cities_show, rownames = FALSE,
-        options = list(autoWidth = TRUE,
-                       searching = FALSE,
-                       info = FALSE,
-                       paging = FALSE
-                      ))
-        
+    output$table_city <- DT::renderDataTable({
+      datatable(cities_show, rownames = FALSE,
+                options = list(autoWidth = TRUE,
+                               searching = FALSE,
+                               info = FALSE,
+                               paging = FALSE
+                ))
+      
+    })
+    
+    cities_plotdata <- cities_plot %>% 
+      filter(City == click$id) 
+    
+    output$plot <- renderPlot({ 
+      ggplot(data = cities_plotdata, aes(x= time, y = value)) +
+        geom_bar(stat = "identity", aes(fill = variable, alpha = 0.8)) +
+        xlab("") + ylab("Degrees Celcius") +
+        facet_wrap(vars(variable), nrow = 1, scales = "free") +
+        theme_minimal() +
+        scale_fill_manual(values = brewer.pal(name = "YlOrRd", n = 8), guide = "none") +
+        theme(panel.grid.minor = element_blank(),
+              legend.position = "none")
+      
       })
-  
+     
   })
   
 }
 
 shinyApp(ui, server)
-
-
-
-
 
 
