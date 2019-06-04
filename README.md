@@ -8,7 +8,7 @@ All data and results are open access and are published in Bastin et al. 2019, Pl
 
 ## Using the app online
 
-Hosted on shinyapps.io: https://hooge104.shinyapps.io/css-app/
+Hosted on shinyapps.io: https://hooge104.shinyapps.io/future_cities_app/
 
 ## Using the app in Rstudio:
 
