@@ -41,7 +41,7 @@ ui <- navbarPage("Future cities", id="nav", theme = "styles.css",
                               
                               absolutePanel(id = "controls", class = "panel panel-default", fixed = TRUE,
                                             draggable = TRUE, top = 60, left = "auto", right = 20, bottom = "auto",
-                                            width = "auto", height = "auto",
+                                            width = 350, height = "auto",
                                             
                                             selectInput("variable", label = "Select changing climate variable",
                                                         colnames(cities_data[c(6,5,7)]),
@@ -104,7 +104,7 @@ server <- function(input, output) {
       addLegend("bottomleft", 
                 pal = palette(), 
                 values = cities_data[[input$variable]],
-                title = "°C")#paste(input$variable))
+                title = "°C")
   })
   
   # Add dataframe as table
@@ -119,8 +119,6 @@ server <- function(input, output) {
     selected_city <- click$id
     text1 <- paste("Selected city:", click$id)
     text2 <- paste("Annual Temperature",click$group)
-    # map$clearPopups()
-    # map$showPopup( click$lat, click$lng, text)
     output$Click_text<-renderText({
       text1
     })
